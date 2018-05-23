@@ -142,7 +142,7 @@ DEPENDENCIES
   github-pages
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
-  minima (~> 2.0)
+  #minima (~> 2.0)
   #time-machine
   public_suffix (~> 1.4)
 
