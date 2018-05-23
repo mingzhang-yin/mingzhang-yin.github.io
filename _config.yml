@@ -21,8 +21,9 @@ url: "http://mingzhang-yin.github.io" # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 #theme: jekyll-theme-time-machine
+theme: jekyll-theme-slate
 gems: - jekyll-feed
 exclude:
   - Gemfile
