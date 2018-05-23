@@ -23,8 +23,7 @@ url: "http://mingzhang-yin.github.io" # the base hostname & protocol for your si
 markdown: kramdown
 theme: minima
 #theme: jekyll-theme-time-machine
-gems:
-  - jekyll-feed
+gems: - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
