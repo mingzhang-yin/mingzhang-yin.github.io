@@ -23,7 +23,7 @@ url: "http://boweiyan.github.io" # the base hostname & protocol for your site, e
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: Architect
 gems:
   - jekyll-feed
 exclude:
