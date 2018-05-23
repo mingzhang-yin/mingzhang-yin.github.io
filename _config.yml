@@ -21,12 +21,13 @@
 #theme: jekyll-theme-time-machine
 #theme: jekyll-theme-slate
 #gems: - jekyll-feed
-#exclude:
-#  - Gemfile
-#  - Gemfile.lock
 
 title: Slate theme
 description: Slate is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
