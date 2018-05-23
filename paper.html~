@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Publications</title>
+  <meta name="description" content=" ">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://boweiyan.github.io/paper/">
+  <link rel="alternate" type="application/rss+xml" title="Bowei Yan" href="/index.xml">
+  
+  
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="http://boweiyan.github.io">Bowei Yan</a>
+
+    <nav class="site-nav">
+      <span class="menu-icon">
+        <svg viewBox="0 0 18 15" width="18px" height="15px">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </span>
+
+      <div class="trigger">
+        
+          
+          <a class="page-link" href="/">Home</a>
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+ <header class="post-header">
+    <h1 class="page-heading">Pre-prints</h1>
+  </header>
+
+ <div class="post-content">
+
+
+   <p>
+     <a href="https://arxiv.org/abs/1705.08580">Exact Recovery of Number of Blocks in Blockmodels.</a><br>
+<span style="font-size:14px"> Yan, Bowei, Purnamrita Sarkar, and Xiuyuan Cheng. <br></span>
+</p>
+
+<p><a href="https://arxiv.org/abs/1705.08530">Statistical Convergence Analysis of Gradient EM on General Gaussian Mixture Models.</a><br>
+<span style="font-size:14px"> Yan, Bowei, Mingzhang Yin, and Purnamrita Sarkar<br></span>
+</p>
+
+
+<p><a href="https://arxiv.org/abs/1703.05264">Smooth Image-on-Scalar Regression for Brain Mapping.</a><br>
+<span style="font-size:14px"> Yan, Bowei, and Ying Liu<br></span>
+</p>
+
+<p><a href="https://arxiv.org/abs/1607.02675">Convex Relaxation for Community Detection with Covariates.</a> [<a href="https://github.com/boweiYan/SDP_SBM_unbalanced_size">code</a>]<br>
+<span style="font-size:14px"> Yan, Bowei, and Purnamrita Sarkar.<br> </span>
+</p>
+
+
+<p> 
+<a href="https://arxiv.org/pdf/1610.07116v1.pdf">Online Classification with Complex Metrics.</a><br>
+<span style="font-size:14px"> Yan, Bowei, Oluwasanmi Koyejo, Kai Zhong, and Pradeep Ravikumar. <br> </span>
+</p>
+
+ </div>
+
+
+   <header class="post-header">
+    <h1 class="page-heading">Publications</h1>
+  </header>
+
+  <div class="post-content">
+
+    <p>
+      <a href="http://proceedings.mlr.press/v54/zhong17a/zhong17a.pdf">Fast Classification with Binary Prototypes.</a><br>
+<span style="font-size:14px">Kai Zhong, Ruiqi Guo, Sanjiv Kumar, Bowei Yan, David Simcha, Inderjit Dhillon<br>
+In Artificial Intelligence and Statistics (AISTATS), pp. 1255-1263. 2017.</span>
+</p>
+
+<p>
+<a href="https://arxiv.org/abs/1612.06040">Exact tests for stochastic block models.</a><br>
+<span style="font-size:14px">Vishesh Karwa, Debdeep Pati, Sonja Petrović, Liam Solus, Nikita Alexeev, Mateja Raič, Dane Wilburne, Robert Williams, Bowei Yan.<br>
+In Revision.</span>
+</p>
+
+<p>
+  <a href="https://papers.nips.cc/paper/6389-on-robustness-of-kernel-clustering">On Robustness of Kernel Clustering.</a> [<a href="https://arxiv.org/abs/1606.01869">Extended Version</a>] [<a href="/files/robustness_code.zip">code</a>][<a href="https://www.youtube.com/watch?v=QjvR3AbhRhk">Spotlight Video</a>]<br>
+<span style="font-size:14px"> Yan, Bowei, and Purnamrita Sarkar.<br>
+Advances in Neural Information Processing Systems (NIPS), 2016.</span>
+</p>
+
+
+<p>
+<a href="http://www.sciencedirect.com/science/article/pii/S0303243416301295">Analysis of the pattern of potential woody cover in Texas savanna.</a><br>
+<span style="font-size:14px">Yang, Xuebin, Kelley A. Crews, and Bowei Yan. <br>
+International Journal of Applied Earth Observation and Geoinformation 52 (2016): 527-531.</span>
+</p>
+ 
+
+<p>
+<a href="http://www.idm.pku.edu.cn/staff/jiangtingting/Research/paper/TMM_2012.pdf">HodgeRank on random graphs for subjective video quality assessment.</a><br>
+<span style="font-size:14px">Xu, Qianqian, Qingming Huang, Tingting Jiang, Bowei Yan, Weisi Lin, and Yuan Yao.<br>
+IEEE Transactions on Multimedia 14, no. 3 (2012): 844-857. </span>
+</p>
+
+<p>
+<a href="https://pdfs.semanticscholar.org/2680/5589f7f582990f1e69db7b664e97dd608dd2.pdf">Random partial paired comparison for subjective video quality assessment via HodgeRank.</a> <br>
+<span style="font-size:14px">Xu, Qianqian, Tingting Jiang, Yuan Yao, Qingming Huang, Bowei Yan, and Weisi Lin.<br>
+In Proceedings of the 19th ACM international conference on Multimedia, pp. 393-402. ACM, 2011.</span> 
+</p>
+
+  </div>
+
+
+</article>
+
+      </div>
+    </main>
+
+
+  </body>
+
+</html>
