@@ -22,7 +22,7 @@ url: "http://mingzhang-yin.github.io" # the base hostname & protocol for your si
 # Build settings
 markdown: kramdown
 #theme: slate
-remote_theme: slate
+theme: jekyll-theme-time-machine
 gems:
   - jekyll-feed
 exclude:
