@@ -4,6 +4,6 @@ show_downloads: true
 google_analytics:
 #theme: jekyll-theme-slate
 #theme: minima
-theme: jekyll-theme-hydejack
+remote_theme: jekyll-theme-hydejack
 # Build settings
 markdown: kramdown
