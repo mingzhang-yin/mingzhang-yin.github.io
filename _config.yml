@@ -1,9 +1,50 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-#theme: jekyll-theme-slate
-#theme: minima
-remote_theme: jekyll-theme-hydejack
-# Build settings
-markdown: kramdown
+# Permalinks
+permalink:        pretty
+
+# Setup
+url:              https://sirarsalih.com
+enforce_ssl:      sirarsalih.com
+
+# Set to '' in case of hosting on `http://<your-github-name>.github.io`
+baseurl:          ''
+
+title:            A developer's notes
+
+# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
+description:      >
+  *By [@sirarsalih](https://twitter.com/sirarsalih)*
+
+# The tags listed as entries in the sidebar
+sidebar_tags:     
+
+# Fallback image and color if not overwritten for tag or post
+image:            /public/img/romanticnap.jpg
+color:            '#A85641'
+
+author:
+  name:           'Sirar Salih'
+
+  # Setting social media usernames will add icons at the bottom of the sidebar
+  twitter:        sirarsalih
+  github:         sirarsalih
+  linkedin:       sirar-salih
+  rss:            atom.xml
+
+  # Setting a disqus username will enable the comment section
+  disqus:         sirarsalih
+
+  # This photo will be used in the about section
+  photo:          /public/img/me_3.png
+
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:          |
+    Hi, I'm Sirar! I'm a passionate web developer, I like writing code and talking about it.    
+     
+    By day I'm a Solution Architect [@making_waves](https://twitter.com/making_waves). By night I'm the creator of [node-server-ar-drone](https://www.npmjs.com/package/node-server-ar-drone).
+     
+    Blog theme is [Hydejack](http://qwtel.com/hydejack/) built with [Jekyll](https://jekyllrb.com/) and [hosted at GitHub](https://github.com/sirarsalih/sirarsalih.github.io).
+
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true
