@@ -17,11 +17,11 @@ url:              https://mingzhangyin.com
 
 author:
   name:           'Mingzhang Yin'
-#  url:            https://mingzhangyin.com
+  url:            https://mingzhangyin.com
 
 paginate:         3
 
-#version:          2.1.0
+version:          2.1.0
 
 github:
   repo:           https://github.com/mingzhang-yin
