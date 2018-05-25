@@ -1,90 +1,24 @@
 ---
 layout: default
-title: 
+title:
 ---
 
-  <body>
-
-    <header class="site-header" role="banner">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="/">Bowei Yan</a>
-
-    <nav class="site-nav">
-      <span class="menu-icon">
-        <svg viewBox="0 0 18 15" width="18px" height="15px">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </span>
-
-      <div class="trigger">
-        
-          
-          <a class="page-link" href="http://boweiyan.github.io/paper">Publications</a>
-          
-        
-        
-      </div>
-    </nav>
-
-  </div>
-
-</header>
-
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="home">
-
-  <h1 class="page-heading">About me</h1>
-  <p>
-    I'm a 4th year PhD student at <a href="http://www.utexas.edu/">the University of Texas at Austin</a>, <a href="https://stat.utexas.edu/">Department of Statistics and Data Sciences</a>. I am advised by <a href="http://www.cs.cmu.edu/~psarkar/">Prof. Purnamrita Sarkar</a>. Before coming to UT, I completed B.S. and M.S. in Peking University working with <a href="http://www.math.pku.edu.cn/teachers/yaoy/">Prof. Yuan Yao</a>.
-</p>
-<p>
-  I work on statistical machine learning problems, some of my research interest are</p>
-<ul>
-  <li> Inference on networks, esp. Stochastic Block Models; </li>
-  <li> Clustering mixture models; </li>
-  <li> Semidefinite programming; </li>
-  <li> Machine learning applications to medical data. </li>
-</ul>
-  
-<p> I'm graduating in Spring 2018 and will join <a href="http://jumptrading.com/">Jump Trading</a> as a
-  quantitative researcher.</p>
-
-</div>
-
-      </div>
-    </main>
-
-    <footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">Contact</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">      
-          <p> Email: <a href="mailto:yanbowei@gmail.com">yanbowei@gmail.com</a></p>
-<p> Office: 
-2317 Speedway, GDC 7.412B, Austin, TX 78703<br>
-</p>            
-        
-      </div>
-
-
-
-
-    </div>
-
-  </div>
-
-</footer>
-
-
-  </body>
-
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul><hr/>{% endunless %}
+    <h2 id="y{{post.date | date: "%Y"}}" class="page-title">{{ currentdate }}</h2>
+    <ul class="related-posts">
+    {% assign date = currentdate %}
+  {% endif %}
+  <li>
+    <h4>
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <span>{{ post.title }}</span>
+        <small>{{ post.date | date: "%m/%d" }}</small>
+      </a>
+    </h4>
+  </li>
+  {% if forloop.last %}</ul><hr/>{% endif %}
+{% endfor %}
 
