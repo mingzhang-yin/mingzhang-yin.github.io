@@ -2,8 +2,8 @@
 permalink:        pretty
 
 # Setup
-url:              https://sirarsalih.com
-enforce_ssl:      sirarsalih.com
+#url:              https://sirarsalih.com
+#enforce_ssl:      sirarsalih.com
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          ''
@@ -18,23 +18,23 @@ description:      >
 sidebar_tags:     
 
 # Fallback image and color if not overwritten for tag or post
-image:            /public/img/romanticnap.jpg
-color:            '#A85641'
+image:            /assets/img/sidebar-bg.jpg
+color:            '#4fb1ba'
 
 author:
   name:           'Sirar Salih'
 
   # Setting social media usernames will add icons at the bottom of the sidebar
-  twitter:        sirarsalih
-  github:         sirarsalih
-  linkedin:       sirar-salih
-  rss:            atom.xml
+  #twitter:        sirarsalih
+  #github:         sirarsalih
+  #linkedin:       sirar-salih
+  #rss:            atom.xml
 
   # Setting a disqus username will enable the comment section
-  disqus:         sirarsalih
+  #disqus:         sirarsalih
 
   # This photo will be used in the about section
-  photo:          /public/img/me_3.png
+  #photo:          /public/img/me_3.png
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
