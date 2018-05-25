@@ -18,7 +18,7 @@ title: Mingzhang Yin
 
 email: mzyin@utexas.edu
 
-description: > Mingzhang's homepage# this means to ignore newlines until "baseurl:"
+#description: > Mingzhang's homepage# this means to ignore newlines until "baseurl:"
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 
