@@ -44,7 +44,7 @@ author:
      
     Blog theme is [Hydejack](http://qwtel.com/hydejack/) built with [Jekyll](https://jekyllrb.com/) and [hosted at GitHub](https://github.com/sirarsalih/sirarsalih.github.io).
 
-theme: jekyll-theme-hydejack
+remote_theme: jekyll-theme-hydejack
 
 kramdown:
   math_engine: mathjax
