@@ -1,0 +1,51 @@
+---
+title: "Olympic history (part 4): which events are included the Games?"
+date: '2018-xx-xx'
+layout: post
+tags: R olympics sports tidyr ggplot2
+comment: yes
+---
+
+```{r setup, include=FALSE}
+# knitr settings
+#knitr::opts_chunk$set(fig.path = "assets/Rfigs/", echo=FALSE, comment="> ", fig.align='center')
+#knitr::opts_knit$set(base.dir = "/Users/nunnlab/Desktop/GitHub/rgriff23.github.io/", base.url = "/")
+
+# load packages 
+library("ggplot2")
+```
+
+This is the fourth in a series of posts analyzing data on the modern Olympic Games. Here, I explore the history of which events are included in the Olympics and investigate whether new events tend to benefit countries that are more or less dominant in terms of past medal counts. I predict that countries that dominate the Olympics have more influence over the IOC's decisions about which events to include, therefore newly added events are more likely to be dominated by already dominant countries. On the other hand, it is possible that the IOC aims to broaden interest and inclusion in the Olympics by preferentially adding events that are popular in countries that are less dominent in the Olympics.
+
+As in previous posts, I will consider the Summer and Winter Games separately. In addition, since it is possible that the decision-making process for adding events differs for men and women, I will look at the data for men and women separately.
+
+### Historical trends in Olympic events
+
+It is well known that the number of events included in the Olympics has ballooned over the past century or so. Here is a graph to visualize that:
+
+```{r}
+# number of events vs. year
+```
+
+[some summarizing remarks]
+
+### Do dominant countries dominate new events more or less than expected? 
+
+There are many reasons why a country that widely dominates the Olympics might be expected to dominate new events, including population size, wealth, and culture. What I really want to know is whether dominant countries dominate new sports *more than expected*. To investigate this, I computed the expected and observed proportion of medals won by dominant countries in new events for each Olympic Games. I define 'dominant countries' as [definition], and I use the proportion of medals won by these countries in non-new events as the expected proportion of medals won in new events. For each Olympic Games, I computed the Observed - Expected proportion of medals won by dominant countries in new events. This index will be greater than 0 if dominant countries are more successful than expected in new events, and it will be less than 0 if dominant countries are less successful than expected in new events. 
+
+Let's inspect a plot of this index versus time to see if a temporal trend is apparent:
+
+```{r}
+# exp - obs prop of new event medals won by dom countries vs. time
+```
+
+[comment on temporal trend] [comment on whether values tend to be above or below 0] [present statistical test for these values being greater than 0]
+
+### Conclusion
+
+Up next: Is there a home team advantage in the Olympics?
+
+**Footnotes**
+
+For a comprehensive history of the modern Olympics, I recommend ['Politics, Power, and the Olympic Games'](https://www.amazon.com/Power-Politics-Olympic-Games-Alfred/dp/0880119586/ref=sr_1_1?ie=UTF8&qid=1523105541&sr=8-1&keywords=politics+power+olympic+games) by Alfred Senn. It's a bit dry, but very thorough.
+

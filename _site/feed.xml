@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html" /><updated>2017-04-23T15:24:36-04:00</updated><id>http://localhost:4000//</id><title type="html">Randi Griffin</title><subtitle>Using R since 2010.
+</subtitle><entry><title type="html">Chickens</title><link href="http://localhost:4000//analysis/2017/04/23/chickens.html" rel="alternate" type="text/html" title="Chickens" /><published>2017-04-23T00:00:00-04:00</published><updated>2017-04-23T00:00:00-04:00</updated><id>http://localhost:4000//analysis/2017/04/23/chickens</id><content type="html" xml:base="http://localhost:4000//analysis/2017/04/23/chickens.html">&lt;p&gt;I found this interesting&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;n&quot;&gt;chicken&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;chicken&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><author><name></name></author><category term="R," /><category term="chickens" /><summary type="html">I found this interesting</summary></entry><entry><title type="html">My third post</title><link href="http://localhost:4000//note/2017/04/22/third.html" rel="alternate" type="text/html" title="My third post" /><published>2017-04-22T00:00:00-04:00</published><updated>2017-04-22T00:00:00-04:00</updated><id>http://localhost:4000//note/2017/04/22/third</id><content type="html" xml:base="http://localhost:4000//note/2017/04/22/third.html">&lt;p&gt;Well I have a thing or two to say to your mother.&lt;/p&gt;</content><author><name></name></author><category term="R," /><category term="website," /><category term="personal" /><summary type="html">Well I have a thing or two to say to your mother.</summary></entry><entry><title type="html">My second post</title><link href="http://localhost:4000//note/2017/04/21/second.html" rel="alternate" type="text/html" title="My second post" /><published>2017-04-21T00:00:00-04:00</published><updated>2017-04-21T00:00:00-04:00</updated><id>http://localhost:4000//note/2017/04/21/second</id><content type="html" xml:base="http://localhost:4000//note/2017/04/21/second.html">&lt;p&gt;Just to forewarn you, if you touch me I will bite you.&lt;/p&gt;</content><author><name></name></author><category term="R," /><category term="website," /><category term="personal" /><summary type="html">Just to forewarn you, if you touch me I will bite you.</summary></entry><entry><title type="html">My first post</title><link href="http://localhost:4000//note/2017/04/20/first.html" rel="alternate" type="text/html" title="My first post" /><published>2017-04-20T00:00:00-04:00</published><updated>2017-04-20T00:00:00-04:00</updated><id>http://localhost:4000//note/2017/04/20/first</id><content type="html" xml:base="http://localhost:4000//note/2017/04/20/first.html">&lt;p&gt;Hello.&lt;/p&gt;
+
+&lt;h1&gt;Section&lt;/h1&gt;
+
+&lt;p&gt;Here is some R code.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# comment
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;kitten&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Subsection&lt;/h2&gt;
+
+&lt;p&gt;Watch out for the &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Block quote! &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;Subsubsection&lt;/h3&gt;
+
+&lt;p&gt;I have an ordered list.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;One&lt;/li&gt;
+&lt;li&gt;Two&lt;/li&gt;
+&lt;li&gt;Three&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;However I also have an unordered list.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Thing
+
+&lt;ul&gt;
+&lt;li&gt;red&lt;/li&gt;
+&lt;li&gt;blue&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Object
+
+&lt;ul&gt;
+&lt;li&gt;large&lt;/li&gt;
+&lt;li&gt;small&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Stuff
+
+&lt;ul&gt;
+&lt;li&gt;inside&lt;/li&gt;
+&lt;li&gt;outside&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Subsubsubsection&lt;/h4&gt;
+
+&lt;p&gt;Finally, what is the best kind of formatting? Some people like &lt;em&gt;italic&lt;/em&gt; and others like &lt;strong&gt;bold&lt;/strong&gt;, but I like &lt;strong&gt;&lt;em&gt;both&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr&gt;</content><author><name></name></author><category term="R," /><category term="website," /><category term="personal" /><summary type="html">Hello.</summary></entry></feed>
