@@ -23,4 +23,4 @@ title: Home
   <li> Convex/Non-convex optimization; </li>
   <li> Theory in statistical learning </li>
   </ul>
-</div>
+
