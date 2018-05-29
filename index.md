@@ -8,6 +8,8 @@ title: Home
 </div>
 
 <div class="btn-group-xs">
- <a href="https://arxiv.org/abs/1412.4869"
- class="btn btn-default">Paper</a>
+ <strong>Why Aren't You Using Probabilistic Programming?</strong>
+ <a href="/talks/Tran_Probabilistic_Programming.pdf"
+ class="btn btn-default">Slides</a>
+ (An opinionated version)
 </div>
