@@ -21,6 +21,6 @@ title: Home
   <li> Bayesian deep learning; </li>
   <li> Generative models; </li>
   <li> Topic models; </li>
-  <li> Convex/Non-convex optimization; </li>
+  <li> Convex/Non-convex optimization </li>
   </ul>
 
