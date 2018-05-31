@@ -5,5 +5,8 @@ title: About
 
 [comment]: # *Status*
 
-I am in my 3rd year of PhD in <a target="_blank" href="https://stat.utexas.edu"> Statistics at UT Austin</a>.
+“This is Ground Control to Major Tom
+You've really made the grade
+And the papers want to know whose shirts you wear
+Now it's time to leave the capsule if you dare”
 
