@@ -33,7 +33,7 @@ github_username:      mingzhang-yin
 #linkedin_username:    randigriffin
 #gplus_username: 112245393392023660495
 
-markdown: maruku
+markdown: kramdown
 
 gems:
   - jekyll-feed
