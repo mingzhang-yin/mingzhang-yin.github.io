@@ -51,4 +51,6 @@ $$
 
 ![imaget](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/images/heart.jpg){:height="50%" width="50%"}
 
-<img src="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/images/heart.jpg" width="100" height="100">
+<div style="text-align:center">
+<img src="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/images/heart.jpg" width="100" height="100"/>
+</div>
