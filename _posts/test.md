@@ -49,5 +49,6 @@ $$
 
 
 
-![imaget](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/images/heart.jpg)
+![imaget](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/images/heart.jpg){:height="50%" width="50%"}
 
+![imaget](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/images/heart.jpg){:height="700px" width="400px"}
