@@ -51,4 +51,4 @@ $$
 
 ![imaget](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/images/heart.jpg){:height="50%" width="50%"}
 
-![imaget](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/images/heart.jpg){:height="700px" width="400px"}
+<img src="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/images/heart.jpg" width="100" height="100">
