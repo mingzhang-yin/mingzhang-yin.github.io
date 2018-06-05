@@ -49,5 +49,5 @@ $$
 
 
 
-![imaget](../master/assets/images/heart.png)
+![imaget](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/images/heart.jpg)
 
