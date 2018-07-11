@@ -10,7 +10,7 @@ title: Home
 <div>
 <div class="row">
   <p>
-  I am an upcoming 4-th year Ph.D. student at
+  I am an upcoming fourth year Ph.D. student at
   <a href="https://www.utexas.edu">The University of Texas at Austin</a> , <a href="https://stat.utexas.edu">Department of Statistics and Data Sciences</a>
   where I am advised by
   <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a>. Before coming to UT, I received B.S. in mathematics at <a href="http://www.fudan.edu.cn/en/"> Fudan University</a>.
