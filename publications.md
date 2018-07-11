@@ -7,10 +7,14 @@ Download my [CV](https://mingzhang-yin.github.io/assets/pdfs/CV_MingzhangYin.pdf
 
 ___
 
+### Pre-prints
+  
+
 ARM: Augment-REINFORCE-merge gradient for discrete latent variable models
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
  
- 
+### Publications
+
 Semi-Implicit Variational Inference
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
 International Conference on Machine Learning (ICML), 2018.  [pdf](http://arxiv.org/abs/1805.11183), <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_ICML.pdf" target="_blank">slides</a> and <a href="https://github.com/mingzhang-yin/SIVI" target="_blank">codes </a>
