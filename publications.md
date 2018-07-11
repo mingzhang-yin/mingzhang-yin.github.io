@@ -13,7 +13,7 @@ ___
 ARM: Augment-REINFORCE-merge gradient for discrete latent variable models
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
  
-##### Publications
+#### Publications
 
 Semi-Implicit Variational Inference
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
