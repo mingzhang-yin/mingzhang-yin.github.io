@@ -12,7 +12,7 @@ title: Home
   <p>
   I am an upcoming fourth year Ph.D. student at
   <a href="https://www.utexas.edu">The University of Texas at Austin</a> , <a href="https://stat.utexas.edu">Department of Statistics and Data Sciences</a>. I am fortunately to be supervised by
-  <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a> and work with   <a href="https://psarkar.github.io"> Prof. Purnamrita Sarkar </a>.  Before coming to UT, I receive B.S. in mathematics at <a href="http://www.fudan.edu.cn/en/"> Fudan University</a>.
+  <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a> and work with   <a href="https://psarkar.github.io"> Prof. Purnamrita Sarkar </a>.  Before coming to UT, I receive B.S. in <a href="http://math.fudan.edu.cn/en/Data/List/CollegeProfile" mathematics</a> at <a href="http://www.fudan.edu.cn/en/"> Fudan University</a>.
   I am broadly interested in statistical machine learning and Bayesian methods. Some of my interests are 
   <p>
   <ul>
