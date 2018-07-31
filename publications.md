@@ -10,7 +10,7 @@ ___
 ### Pre-prints
   
 
-ARM: Augment-REINFORCE-merge gradient for discrete latent variable models [pdf](https://arxiv.org/abs/1807.11143)
+ARM: Augment-REINFORCE-merge gradient for discrete latent variable models, 2018. [pdf](https://arxiv.org/abs/1807.11143)
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
  
 ### Publications
