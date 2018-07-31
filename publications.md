@@ -10,9 +10,10 @@ ___
 ### Pre-prints
   
 
-ARM: Augment-REINFORCE-merge gradient for discrete latent variable models, 2018. [pdf](https://arxiv.org/abs/1807.11143)
+ARM: Augment-REINFORCE-merge gradient for discrete latent variable models
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
- 
+ Arxiv, 2018. [pdf](https://arxiv.org/abs/1807.11143) and <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">codes </a>
+
 ### Publications
 
 Semi-Implicit Variational Inference
