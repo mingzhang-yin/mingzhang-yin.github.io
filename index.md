@@ -19,7 +19,7 @@ title: Home
   <li> Approximate Bayes inference, esp. Variational inference and MCMC; </li>
   <li> Theoretical analysis of iterative algorithms, esp. EM, Variational inference, Gibbs sampling; </li>
   <li> Bayesian deep learning; </li>
-  <li> High dimensional causality and correlation; </li>
+  <li> High dimensional causality and dependency; </li>
   <li> Convex/Non-convex optimization </li>
   </ul>
 
