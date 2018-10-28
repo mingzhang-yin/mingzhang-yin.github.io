@@ -9,6 +9,10 @@ title: Publications
 ARM: Augment-REINFORCE-merge gradient for discrete latent variable models
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
  Arxiv, 2018. [pdf](https://arxiv.org/abs/1807.11143) and <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">codes </a>
+  
+Semi-implicit generative model
+<br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
+ 2018. [pdf](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIGMO_v2.pdf)
 
 ### Publications
 
