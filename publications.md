@@ -12,7 +12,7 @@ ARM: Augment-REINFORCE-merge gradient for discrete latent variable models
   
 Semi-implicit generative model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
- 2018. [pdf](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIGMO_v2.pdf)
+ 2018. [pdf](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIGMO_v2.pdf) <a> </a>
 
 ### Publications
 
