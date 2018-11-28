@@ -10,7 +10,7 @@ title: Home
 <div>
 <div class="row">
   <p>
-  I am an upcoming fourth year Ph.D. student at
+  I am a fourth year Ph.D. student at
   <a href="https://www.utexas.edu">The University of Texas at Austin</a> , <a href="https://stat.utexas.edu">Department of Statistics and Data Sciences</a>. I am fortunately to be supervised by
   <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a> and also work with   <a href="https://psarkar.github.io"> Prof. Purnamrita Sarkar </a>.  Before coming to UT, I spent four years as undergraduate in <a href="http://www.fudan.edu.cn/en/"> Fudan University</a> studying <a href="http://math.fudan.edu.cn/en/Data/List/CollegeProfile"> mathematics</a>.
   I am broadly interested in statistical machine learning and Bayesian methods. Some of my interests are 
@@ -19,7 +19,7 @@ title: Home
   <li> Approximate Bayes inference, esp. Variational inference and MCMC; </li>
   <li> Theoretical analysis of iterative algorithms, esp. EM, Variational inference, Gibbs sampling; </li>
   <li> Bayesian deep learning; </li>
-  <li> High dimensional causality and dependency; </li>
-  <li> Convex/Non-convex optimization </li>
+  <li> Convex/Non-convex optimization; </li>
+  <li> Reinforcement Learning </li>
   </ul>
 
