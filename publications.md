@@ -22,7 +22,7 @@ Convergence of Gradient EM on Multi-component Mixture of Gaussians
 Advances in Neural Information Processing Systems (NIPS, 2017).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians) and <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">codes </a> </span>
 
   
-Semi-implicit generative model
+Semi-Implicit Generative Model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
   NeurIPS 2018, Workshop on Bayesian Deep Learning. [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf)
 
