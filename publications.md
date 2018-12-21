@@ -13,7 +13,7 @@ International Conference on Machine Learning (ICML 2018), **Long talk**.  [pdf](
  
  ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks 
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-International Conference on Learning Representations (ICLR, 2019), **Top 10% **.  [pdf](https://openreview.net/pdf?id=S1lg0jAcYm), and <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">codes </a>
+International Conference on Learning Representations (ICLR, 2019), **Top 10%**.  [pdf](https://openreview.net/pdf?id=S1lg0jAcYm), and <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">codes </a>
  </span>
 
 
