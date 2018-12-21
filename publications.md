@@ -8,7 +8,7 @@ title: Publications
 
 Semi-Implicit Variational Inference
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-International Conference on Machine Learning (ICML 2018), **Long talk**.  [pdf](http://arxiv.org/abs/1805.11183), <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_ICML.pdf" target="_blank">slides</a>, <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_poster.pdf" target="_blank">poster</a> and <a href="https://github.com/mingzhang-yin/SIVI" target="_blank">codes </a>
+International Conference on Machine Learning (ICML 2018), **Long talk**.  [pdf](http://proceedings.mlr.press/v80/yin18b/yin18b.pdf), <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_ICML.pdf" target="_blank">slides</a>, <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_poster.pdf" target="_blank">poster</a> and <a href="https://github.com/mingzhang-yin/SIVI" target="_blank">codes </a>
  </span>
  
  ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks 
@@ -24,7 +24,7 @@ Advances in Neural Information Processing Systems (NIPS, 2017).  [pdf](https://p
   
 Semi-implicit generative model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-  NeurIPS 2018, Workshop on Bayesian Deep Learning. [pdf](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIGMO_v2.pdf)
+  NeurIPS 2018, Workshop on Bayesian Deep Learning. [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf)
 
 
 
