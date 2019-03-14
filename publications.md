@@ -32,9 +32,9 @@ Semi-Implicit Generative Model
 ### Pre-prints
   
 
-ARM: Augment-REINFORCE-merge Gradient for Discrete Latent Variable Models
-<br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-  Arxiv, 2018. [pdf](https://arxiv.org/abs/1807.11143) and <a href="http://bayesiandeeplearning.org/2018/papers/84.pdf" target="_blank">codes </a>
+Augment-Reinforce-Merge Policy Gradient for Binary Stochastic Policy
+<br> <span style="font-size:14px"> Yunhao Tang, **Mingzhang Yin**, Mingyuan Zhou  <br>
+  Arxiv, 2018. [pdf](https://arxiv.org/pdf/1903.05284.pdf) </a>
   
 
 
