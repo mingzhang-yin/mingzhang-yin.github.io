@@ -16,10 +16,11 @@ title: Home
   I am broadly interested in statistical machine learning and Bayesian methods. Some of my interests are 
   <p>
   <ul>
-  <li> Approximate Bayes inference, eg. Variational Bayes and MCMC; </li>
-  <li> Theoretical analysis of iterative algorithms, eg. EM, Variational inference, Gibbs sampling; </li>
+  <li> Approximate Bayes inference, eg. Variational Bayes, MCMC, Sequential Monte Carlo, Expectation propagation, EM etc.; </li>
+  <li> Statistical learning theory; </li>
   <li> Bayesian deep learning; </li>
-  <li> Convex/Non-convex optimization; </li>
+  <li> Information theory; </li>
   <li> Reinforcement Learning </li>
+   <li> Convex/Non-convex optimization; </li>
   </ul>
 
