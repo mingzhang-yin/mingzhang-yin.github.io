@@ -20,7 +20,7 @@ title: Home
   <li> Statistical learning theory; </li>
   <li> Bayesian deep learning; </li>
   <li> Information theory; </li>
-  <li> Reinforcement Learning </li>
-   <li> Convex/Non-convex optimization; </li>
+  <li> Reinforcement Learning; </li>
+   <li> Biostatistics </li>
   </ul>
 
