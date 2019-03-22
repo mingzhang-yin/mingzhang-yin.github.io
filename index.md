@@ -18,8 +18,8 @@ title: Home
   <ul>
   <li> Approximate Bayes inference, eg. Variational Bayes, MCMC, Sequential Monte Carlo, Expectation propagation, EM; </li>
   <li> Statistical learning theory; </li>
-  <li> Bayesian deep learning; </li>
   <li> Information theory; </li>
+  <li> Bayesian deep learning; </li>
   <li> Reinforcement Learning; </li>
    <li> Biostatistics </li>
   </ul>
