@@ -16,7 +16,7 @@ title: Home
   I am broadly interested in statistical machine learning and Bayesian methods. Some of my interests are 
   <p>
   <ul>
-  <li> Approximate Bayes inference, eg. Variational Bayes, MCMC, Sequential Monte Carlo, Expectation propagation, EM etc.; </li>
+  <li> Approximate Bayes inference, eg. Variational Bayes, MCMC, Sequential Monte Carlo, Expectation propagation, EM; </li>
   <li> Statistical learning theory; </li>
   <li> Bayesian deep learning; </li>
   <li> Information theory; </li>
