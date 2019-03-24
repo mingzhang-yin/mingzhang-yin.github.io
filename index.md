@@ -21,6 +21,6 @@ title: Home
   <li> Information theory; </li>
   <li> Bayesian deep learning; </li>
   <li> Reinforcement Learning; </li>
-   <li> Biostatistics </li>
+   <li> Biomedical and public health </li>
   </ul>
 
