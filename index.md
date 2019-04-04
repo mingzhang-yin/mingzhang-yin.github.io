@@ -17,10 +17,10 @@ title: Home
   <p>
   <ul>
   <li> Approximate Bayes inference, eg. VB, MCMC, SMC, EP, EM; </li>
-  <li> Statistical learning theory; </li>
-  <li> Information theory; </li>
-  <li> Bayesian deep learning; </li>
-  <li> Reinforcement learning; </li>
+  <li> Statistical learning theory </li>
+  <li> Information theory </li>
+  <li> Bayesian deep learning </li>
+  <li> Reinforcement learning </li>
    <li> Biomedical and healthcare </li>
   </ul>
 
