@@ -25,7 +25,7 @@ Advances in Neural Information Processing Systems (NIPS, 2017).  [pdf](https://p
   
 Semi-Implicit Generative Model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-  NeurIPS 2018, Workshop on Bayesian Deep Learning. [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf)
+ Workshop on Bayesian Deep Learning, NeurIPS 2018. [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf)
 
 
 
