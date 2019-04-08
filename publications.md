@@ -34,7 +34,7 @@ Semi-Implicit Generative Model
 
 Augment-Reinforce-Merge Policy Gradient for Binary Stochastic Policy
 <br> <span style="font-size:14px"> Yunhao Tang, **Mingzhang Yin**, Mingyuan Zhou  <br>
-  Arxiv, 2018. [pdf](https://arxiv.org/abs/1903.05284)
+arXiv, 2018. [pdf](https://arxiv.org/abs/1903.05284)
   
 
 
