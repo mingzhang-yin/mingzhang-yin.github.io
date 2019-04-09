@@ -11,9 +11,10 @@ Semi-Implicit Variational Inference
 International Conference on Machine Learning (ICML 2018), **Long talk**.  [pdf](http://proceedings.mlr.press/v80/yin18b/yin18b.pdf), <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_ICML.pdf" target="_blank">slides</a>, <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_poster.pdf" target="_blank">poster</a>, <a href="https://github.com/mingzhang-yin/SIVI" target="_blank">codes </a> and <a href="https://vimeo.com/294655456" target="_blank"> talk </a> 
  </span>
  
+ 
  ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks 
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-International Conference on Learning Representations (ICLR, 2019), **Top 10%**.  [pdf](https://openreview.net/pdf?id=S1lg0jAcYm), and <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">codes </a>
+International Conference on Learning Representations (ICLR, 2019), **Top 10%**.  [pdf](https://openreview.net/pdf?id=S1lg0jAcYm), <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">codes </a> and <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/ARM_slides_binary.pdf" target="_blank">slides </a>
  </span>
 
 
@@ -22,10 +23,10 @@ Convergence of Gradient EM on Multi-component Mixture of Gaussians
 Advances in Neural Information Processing Systems (NIPS, 2017).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians), <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">codes </a> and <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io">poster </a>  </span>
 
 ### Workshops
-  
+
 Semi-Implicit Generative Model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
- Workshop on Bayesian Deep Learning, NeurIPS 2018. [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf)
+ Workshop on Bayesian Deep Learning, NeurIPS 2018. [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf) and <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/sigmo_poster.pdf">poster </a> </span>
 
 
 
@@ -34,7 +35,7 @@ Semi-Implicit Generative Model
 
 Augment-Reinforce-Merge Policy Gradient for Binary Stochastic Policy
 <br> <span style="font-size:14px"> Yunhao Tang, **Mingzhang Yin**, Mingyuan Zhou  <br>
-arXiv, 2018. [pdf](https://arxiv.org/abs/1903.05284)
+arXiv, 2019. [pdf](https://arxiv.org/abs/1903.05284)
   
 
 
