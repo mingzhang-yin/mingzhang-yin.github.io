@@ -5,7 +5,7 @@ title: Publications
   
 ### Publications
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
-<br> <span style="font-size:14px"> **Mingzhang Yin**, Yuguang Yue^*, Mingyuan Zhou  <br>
+<br> <span style="font-size:14px"> **Mingzhang Yin* **, Yuguang Yue*, Mingyuan Zhou  <br>
 International Conference on Machine Learning (ICML 2019)
  </span>
 
