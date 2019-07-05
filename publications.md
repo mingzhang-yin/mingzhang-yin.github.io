@@ -8,7 +8,7 @@ title: Publications
 
 ___
 
-### Refereed Publications 
+### Publications 
 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
 <br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
