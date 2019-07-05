@@ -1,7 +1,4 @@
 
-# Publication [<font size="7">Bibtex</font>](https://mingzhang-yin.github.io/assets/pdfs/reference.bib)
-
-___
 
 ### Publications 
 
