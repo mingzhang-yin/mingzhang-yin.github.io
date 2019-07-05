@@ -1,6 +1,5 @@
 
-# Publication [<font size="7">
-Bibtex</font>](https://mingzhang-yin.github.io/assets/pdfs/reference.bib)
+# Publication [<font size="7">Bibtex</font>](https://mingzhang-yin.github.io/assets/pdfs/reference.bib)
 
 ___
 
