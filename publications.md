@@ -4,7 +4,7 @@ title: Publications
 
 ---
 
-Download [Bibtex](https://mingzhang-yin.github.io/assets/pdfs/reference.bib)
+[Bibtex](https://mingzhang-yin.github.io/assets/pdfs/reference.bib)
 
 ___
 
