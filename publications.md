@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Publication  
+title: Publication  [Bibtex](https://mingzhang-yin.github.io/assets/pdfs/reference.bib)
 ---
 ___
-
-[Bibtex](https://mingzhang-yin.github.io/assets/pdfs/reference.bib)
 
 ### Publications 
 
