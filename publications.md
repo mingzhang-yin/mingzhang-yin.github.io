@@ -1,8 +1,4 @@
----
-layout: page
-title: Publications 
 
----
 
 [Bibtex](https://mingzhang-yin.github.io/assets/pdfs/reference.bib)
 
