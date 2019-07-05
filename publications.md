@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Publications
+
 ---
-  
-### Publications
 
 Download the [Bibtex](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/reference.bib) 
+
 ___
+
+### Publications [Google Scholar](https://scholar.google.com/citations?user=oAEsILEAAAAJ&hl=en)
 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
 <br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
@@ -29,7 +31,6 @@ Convergence of Gradient EM on Multi-component Mixture of Gaussians
  <br> <span style="font-size:14px"> Bowei Yan, **Mingzhang Yin**, and Purnamrita Sarkar  <br>
 Advances in Neural Information Processing Systems (NIPS, 2017).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians), <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">codes </a> and <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/2017nips_poster.pdf">poster </a>  </span>
 
-### Workshops
 
 Semi-Implicit Generative Model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
