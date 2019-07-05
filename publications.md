@@ -2,7 +2,7 @@
 layout: page
 title: Publication 
 ---
-<div style="text-align: right"> <span style="font-size:16px"> <a href="https://mingzhang-yin.github.io/assets/pdfs/reference.bib">Bibtex</a> </span>  </div>
+<span style="font-size:16px"> <a href="https://mingzhang-yin.github.io/assets/pdfs/reference.bib">Bibtex</a> </span> 
 ___ 
 
 
