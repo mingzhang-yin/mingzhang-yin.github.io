@@ -4,7 +4,7 @@ title: Publications
 
 ---
 
-<sub><sup> [Bibtex]</sub></sup>(https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/reference.bib),   <sub><sup>[Google Scholar]</sub></sup>(https://scholar.google.com/citations?user=oAEsILEAAAAJ&hl=en)
+[<sub><sup> Bibtex</sub></sup>](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/reference.bib),   [</sub></sup>Google Scholar</sub></sup>](https://scholar.google.com/citations?user=oAEsILEAAAAJ&hl=en)
 
 ___
 
