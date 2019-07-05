@@ -2,9 +2,9 @@
 layout: page
 title: Publication 
 ---
-___
+___ 
 
-<span style="font-size:14px">[<a href="https://mingzhang-yin.github.io/assets/pdfs/reference.bib">Bibtex</a>]</span>
+<span style="font-size:14px"><a href="https://mingzhang-yin.github.io/assets/pdfs/reference.bib">Bibtex</a> </span>
 
 ### Publication 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
