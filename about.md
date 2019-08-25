@@ -15,5 +15,5 @@ This is a quote from one of my favorite mathematicians that inspires me:
 
 — Récoltes et Semailles, Grothendieck
 
-Besides reading scientific papers, I like reading literatures by authors such as Rabindranath Tagore, Hermann Hesse and many Taiwanese writers. I also love ancient Chinese poems. 
+Besides reading scientific papers, I like reading literatures by Rabindranath Tagore, Hermann Hesse and many Taiwanese writers. 
 
