@@ -40,7 +40,7 @@ Semi-Implicit Generative Model
 ### Pre-prints
 Meta-Learning without Memorization
 <br> <span style="font-size:14px"> **Mingzhang Yin**, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn  <br>
-2019. 
+arXiv, 2019.
  
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
