@@ -33,14 +33,13 @@ Semi-Implicit Generative Model
 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
 <br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
-International Conference on Machine Learning (ICML 2019)  [pdf](https://arxiv.org/abs/1905.01413), <a href="https://github.com/mingzhang-yin/ARSM">codes </a> 
- </span>
+International Conference on Machine Learning (ICML 2019)  [pdf](https://arxiv.org/abs/1905.01413)
 
 
 ### Pre-prints
 Meta-Learning without Memorization
 <br> <span style="font-size:14px"> **Mingzhang Yin**, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn  <br>
-arXiv, 2019. [pdf]
+arXiv, 2019. 
  
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
