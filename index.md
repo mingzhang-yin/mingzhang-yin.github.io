@@ -17,11 +17,10 @@ title: Home
   <p> I am broadly interested in statistical machine learning and Bayesian methods. My Ph.D. research focuses on the statistical dpendencies between latent variables, random samples, multiple tasks, etc. Some of my interests are: </p>
   <p>
   <ul>
-  <li> Approximate Bayes inference, eg. VB, MCMC, SMC, EP, EM; </li>
-  <li> Causal inference </li>
-  <li> Information theory </li>
-  <li> Bayesian deep learning </li>
-   <li> Meta-learning </li>
+   <li> Bayesian deep learning, such as approximate Bayes inference, meta-learning, etc. </li>
+   <li> Causal inference </li>
+   <li> Information theory </li>
+   <li> Statistical learning theory </li>
    <li> Biomedical and healthcare </li>
   </ul>
 
