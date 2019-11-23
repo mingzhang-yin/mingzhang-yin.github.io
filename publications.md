@@ -11,7 +11,7 @@ ___
 ### Publication 
 Meta-Learning without Memorization
  <br> <span style="font-size:14px"> **Mingzhang Yin**, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn  <br>
-Under review, 2019. Short version in NeurIPS 2019 Meta-Learning Workshop. [pdf](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/Meta_Learning_without_Memorization.pdf)   
+Under review. Short version in Meta-Learning Workshop, NeurIPS 2019. [pdf](https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/Meta_Learning_without_Memorization.pdf)   
 
 
 Semi-Implicit Generative Model
