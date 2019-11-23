@@ -36,7 +36,7 @@ International Conference on Learning Representations (ICLR, 2019), **Top 10%**. 
 
 Convergence of Gradient EM on Multi-component Mixture of Gaussians
  <br> <span style="font-size:14px"> Bowei Yan, **Mingzhang Yin**, and Purnamrita Sarkar  <br>
-Advances in Neural Information Processing Systems (NIPS, 2017).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians), <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">codes </a> and <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/2017nips_poster.pdf">poster </a>  </span>
+Advances in Neural Information Processing Systems (NeurIPS, 2017).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians), <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">codes </a> and <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/2017nips_poster.pdf">poster </a>  </span>
 
 
 ### Pre-prints
