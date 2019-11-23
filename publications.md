@@ -20,7 +20,7 @@ Semi-Implicit Generative Model
 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
 <br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
-International Conference on Machine Learning (ICML 2019)  [pdf](https://arxiv.org/abs/1905.01413)
+International Conference on Machine Learning (ICML 2019).  [pdf](https://arxiv.org/abs/1905.01413)
  
 
 Semi-Implicit Variational Inference
