@@ -19,7 +19,7 @@ title: Home
   <ul>
    <li> Approximate Bayes inference </li>
    <li> Causal inference </li>
-   <li> Information theory and statistical learning theory  </li>
+   <li> Information theory and theoretical statistics  </li>
    <li> Meta-learning </li>
    <li> Biomedical and healthcare </li>
   </ul>
