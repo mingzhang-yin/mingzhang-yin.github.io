@@ -1,0 +1,166 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c13333\c13333\c13333;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Meta-review\cb1 \
+\cb3 -----------\cb1 \
+\
+\cb3 The reviewers are in agreement that this submission represents an important contribution to the field.\'a0 However, the authors should carefully review and address the updated concerns of all reviewers in the final version of this work.\cb1 \
+\
+\
+\cb3 Review\cb1 \
+\cb3 ------\cb1 \
+\
+\cb3 Summary of the paper (Summarize the main claims/contributions of the paper.):\cb1 \
+\cb3 The authors present semi-implicit variational inference (SIVI), a form of variational inference in which the variational distribution q(z) is defined as the marginal of q(z, \uc0\u968 ) = q(z | \u968 ) q(\u968 ), where the mixing distribution q(\u968 ) can be an implicit, which is to say that we cannot evaluate the density. The authors define lower and upper bounds on the marginal likelihood that can be made tighter by increasing a number of samples K. The evaluate their approach on a negative binomial model, a model in which the variational distribution is not reparameterizable, Bayesian logistic regression and a semi-implicit variant of variational autoencoders.\cb1 \
+\
+\
+\cb3 Clarity (Assess the clarity of the presentation and reproducibility of the results.):\cb1 \
+\cb3 Above Average\cb1 \
+\
+\cb3 Significance (Does the paper contribute a major breakthrough or an incremental advance?):\cb1 \
+\cb3 Above Average\cb1 \
+\
+\cb3 Correctness (Is the paper technically correct?):\cb1 \
+\cb3 Paper is technically correct\cb1 \
+\
+\cb3 Overall Rating:\cb1 \
+\cb3 Strong accept\cb1 \
+\
+\cb3 Detailed comments. (Explain the basis for your ratings while providing constructive feedback.):\cb1 \
+\cb3 I think this is a paper that is clear, fairly well written, and (upon slightly cursory inspection) technically sound. I'm perhaps not 100% convinced about the motivation for the "semi-implicit" part of the pitch here, or at least I can't immediately think of\'a0 settings where we will really rely on this property. That said I guess it is nice that we can if we need to. \cb1 \
+\
+\cb3 If I had to criticize something about this paper it might be that the experiments are maybe a little on the "safe" side in the sense that they either consider relatively low-dimensional target densities or relatively simple problems like Bayesian logistic regression and VAEs for MNIST. I think that Figure 5 is in some sense the strongest result, in the sense that it shows that MFVI indeed underestimates the prediction variance whereas SIVI does not. \cb1 \
+\
+\cb3 Have the authors thought about using this setup in hierarchical models? At least naively it seems like adding a mixing distribution might yield big improvements over mean-field VI in such settings.\cb1 \
+\
+\cb3 As a final comment/question: When approximating gradients of lower bounds, it is not necessarily the case that tigher bounds will also result in lower-variance gradient estimates [1]. Have the authors looked at the effect of the choice of K on the variance of the gradient? \cb1 \
+\
+\cb3 # Minor\cb1 \
+\
+\cb3 - KL divergences are technically only defined between probability distributions\cb1 \
+\
+\cb3 - banarized -> binarized\cb1 \
+\
+\cb3 - The plots would benefit from increasing the font sizes on the axis and tick labels.\'a0 Figure 6 requires a magnifying glass.\cb1 \
+\
+\cb3 # References\cb1 \
+\
+\cb3 [1] Rainforth, T. et al. Tighter Variational Bounds are Not Necessarily Better. arXiv preprint arXiv:1802.04537 (2018).\cb1 \
+\
+\
+\cb3 Reviewer confidence:\cb1 \
+\cb3 Reviewer is knowledgeable\cb1 \
+\
+\
+\cb3 Review\cb1 \
+\cb3 ------\cb1 \
+\
+\cb3 Summary of the paper (Summarize the main claims/contributions of the paper.):\cb1 \
+\cb3 This paper proposes SIVI, a semi-implicit variational inference method for Bayesian posterior inference. The main idea is to use a hierarchical variational model. The variational model has two parts, a distribution q(z|\\psi) on the latent variables, and a mixing distribution q(\\psi) on the parameters. In contrast to previous works, only q(\\psi) is implicit, while q(z|\\psi) is not. This enables the derivation of a sandwich estimator of the ELBO, and more importantly, it avoids the requirement of previous implicit VI approaches of estimating density ratios.\cb1 \
+\
+\
+\cb3 Clarity (Assess the clarity of the presentation and reproducibility of the results.):\cb1 \
+\cb3 Excellent (Easy to follow)\cb1 \
+\
+\cb3 Significance (Does the paper contribute a major breakthrough or an incremental advance?):\cb1 \
+\cb3 Excellent (substantial, novel contribution)\cb1 \
+\
+\cb3 Correctness (Is the paper technically correct?):\cb1 \
+\cb3 Paper is technically correct\cb1 \
+\
+\cb3 Overall Rating:\cb1 \
+\cb3 Strong accept\cb1 \
+\
+\cb3 Detailed comments. (Explain the basis for your ratings while providing constructive feedback.):\cb1 \
+\cb3 I think the derivations in this paper are neat and are interesting for the community, and as such I recommend acceptance. I also have a couple of major comments as well as some minor comments.\cb1 \
+\
+\cb3 My major comments are the following:\cb1 \
+\
+\cb3 1) The lower bound in (9) requires to average K+1 distributions q(z|\\psi). I wonder if this is an issue in high-dimensional settings, where one of the distributions q(z|\\psi) is much larger than the others and the average is dominated by only one of the terms.\cb1 \
+\
+\cb3 2) Regarding dimensionality, I would like to ask if this procedure has any issue when either z or \\psi (or both) has high dimensionality. For example, are there any numerical instabilities when taking gradients through the term I mentioned above?\cb1 \
+\
+\cb3 3) I was missing a discussion about the choice of K and its effect on the resulting approximation. Can you elaborate here? From the experiments, it seems like K needs to be large, which in turn means that many evaluations of q(z|\\psi) are needed. Does this make the runtime performance worse? In general, I was also missing an evaluation in terms of runtime complexity.\cb1 \
+\
+\cb3 4) The upper bound is a nice idea but I noticed it isn't used in any of the experiments. It would be really interesting to see the performance of the sandwich estimator on the ELBO in practice.\cb1 \
+\
+\
+\cb3 Here are the minor comments:\cb1 \
+\
+\cb3 - For the regularized lower bound in Proposition 2, is it possible to show that L_\{K+1\} >= L_K ? (similarly as for the upper bound).\cb1 \
+\
+\cb3 - I didn't understand the point that SIVI can "generate samples on the fly". What does this exactly mean and why is it a desirable property?\cb1 \
+\
+\cb3 - The sign seems to be different for the lower bound in Algorithm 1, compared to Eq. (9) (log p(x,z) should have positive sign in Algorithm 1 and the q terms should have negative sign).\cb1 \
+\
+\cb3 - What's the value of K in section 5.4?\cb1 \
+\
+\cb3 - In the fourth paragraph of the introduction, two concepts that are not precisely defined are used. These concepts are "mixing distribution" and "marginal variational distribution". I am aware that these concepts become clear in later sections, but at this point I got confused because little description is provided. Since the idea of a mixing distribution on the parameters of Q is analogous to hierarchical variational models, establishing the connection in this paragraph would help the reader.\cb1 \
+\
+\cb3 - The word "clearly" is subjective and typically not necessary. Avoid subjective phrases like "clearly differs from it", "clearly helps restore", "clearly improves", "clearly helps capture", and many others.\cb1 \
+\
+\cb3 - The notation in Eq. (1) should be avoided. It is a KL divergence between a distribution over z and a distribution over (x,z), which is undefined because the KL only measures the divergence between two distributions on the same random variable. To make it correct, this should be rewritten as an expectation instead. The same comment applies to other paragraphs of the paper, as well as the derivation in (4) or (12), among others.\cb1 \
+\
+\cb3 - In section 3.2, "proposition blow" should be "proposition BELOW".\cb1 \
+\
+\cb3 - In Proposition 1, x in p(x,z) should have bold font.\cb1 \
+\
+\cb3 - In the paragraph below Eq. (7), "is taking" should be "is TAKEN".\cb1 \
+\
+\cb3 - I think there's a missing log for p(z_j) in Algorithm 1.\cb1 \
+\
+\cb3 - "gradient ascend" should be "gradient ASCENT".\cb1 \
+\
+\cb3 - I strongly recommend to increase the font size of the plots.\cb1 \
+\
+\cb3 - I think there's something wrong with the caption of figure 8 ("Against the correlation coefficients...")\cb1 \
+\
+\
+\cb3 Reviewer confidence:\cb1 \
+\cb3 Reviewer is an expert\cb1 \
+\
+\
+\cb3 Review\cb1 \
+\cb3 ------\cb1 \
+\
+\cb3 Summary of the paper (Summarize the main claims/contributions of the paper.):\cb1 \
+\cb3 This work introduces Semi-implicit variational inference (SIVI), which aims at constructing a flexible variational distribution by mixing an implicit distribution (e.g., based on a neural network transformation) with an explicit one, while maintaining a tractable optimization problem via an asymptotically exact surrogate ELBO. \cb1 \
+\
+\cb3 This work provides an alternative to works that make use of implicit models to make the variational distribution more flexible but then rely on density ratio estimation to evaluate and optimize the ELBO. \cb1 \
+\
+\cb3 Experiments show results matching the accuracy of MCMC methods.\cb1 \
+\
+\cb3 Clarity (Assess the clarity of the presentation and reproducibility of the results.):\cb1 \
+\cb3 Above Average\cb1 \
+\
+\cb3 Significance (Does the paper contribute a major breakthrough or an incremental advance?):\cb1 \
+\cb3 Excellent (substantial, novel contribution)\cb1 \
+\
+\cb3 Correctness (Is the paper technically correct?):\cb1 \
+\cb3 Paper is technically correct\cb1 \
+\
+\cb3 Overall Rating:\cb1 \
+\cb3 Strong accept\cb1 \
+\
+\cb3 Detailed comments. (Explain the basis for your ratings while providing constructive feedback.):\cb1 \
+\cb3 This paper is based on the insight that the structure of a variational distribution built as a hierarchical model combining an implicit but flexible component with an explicit component can be leveraged to make the variational distribution as powerful as needed, while maintaining tractable computation. This insight is examined thoroughly to lead to an asymptotically exact surrogate of the ELBO. \cb1 \
+\
+\cb3 In my opinion, this work represents an elegant alternative to variational distributions similarly built around implicit models but requiring the difficult evaluation of log density ratios.\cb1 \
+\
+\cb3 Overall, I strongly recommend this paper for acceptance for the following reason:\cb1 \
+\cb3 + The authors present (as far as I know) a novel and elegant idea to improve the flexibility variational inference.\cb1 \
+\cb3 + The idea is examined carefully to theoretically derive an asymptotically exact surrogate of the ELBO.\cb1 \
+\cb3 + Experiments are thorough and include both illustrative and benchmark results on Bayesian inference tasks. Experimental results underline the validity and expressiveness of SIVI, giving performance that is on par with MCMC. \cb1 \
+\cb3 - However, we may regret that SIVI is not compared experimentally to any the related works that build around implicit models. \cb1 \
+\
+\
+\cb3 Reviewer confidence:\cb1 \
+\cb3 Reviewer is knowledgeable\cb1 \
+\
+}
