@@ -10,7 +10,7 @@ ___
 ### Publication 
 Meta-Learning without Memorization
  <br> <span style="font-size:14px"> **Mingzhang Yin**, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn  <br>
-International Conference on Learning Representations (ICLR), **Spotlight, Top 5%**. Short version in Meta-Learning Workshop, NeurIPS 2019. [pdf](https://arxiv.org/pdf/1912.03820.pdf), <a href="http://ai.stanford.edu/~cbfinn/_files/neurips19_memorization.pdf" target="_blank"> slides</a>, <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/memo_poster.pdf" target="_blank"> poster </a> and <a href="https://slideslive.com/38921876/bayesian-deep-learning-3" target="_blank"> talk</a> 
+International Conference on Learning Representations (ICLR), **Spotlight, Top 5%**. Short version in Meta-Learning Workshop, NeurIPS 2019. [pdf](https://arxiv.org/pdf/1912.03820.pdf), <a href="http://ai.stanford.edu/~cbfinn/_files/neurips19_memorization.pdf" target="_blank">slides</a>, <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/memo_poster.pdf" target="_blank">poster</a> and <a href="https://slideslive.com/38921876/bayesian-deep-learning-3" target="_blank">talk</a> 
 
 Semi-Implicit Generative Model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
