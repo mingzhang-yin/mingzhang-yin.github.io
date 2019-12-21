@@ -10,11 +10,11 @@ ___
 ### Publication 
 Meta-Learning without Memorization
  <br> <span style="font-size:14px"> **Mingzhang Yin**, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn  <br>
-International Conference on Learning Representations (ICLR), **Spotlight, Top 5%**. Short version in Meta-Learning Workshop, NeurIPS 2019. [pdf](https://arxiv.org/pdf/1912.03820.pdf), <a href="http://ai.stanford.edu/~cbfinn/_files/neurips19_memorization.pdf" target="_blank">slides</a>, <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/memo_poster.pdf" target="_blank">poster</a> and <a href="https://slideslive.com/38921876/bayesian-deep-learning-3" target="_blank">talk</a> 
+International Conference on Learning Representations (ICLR), **Spotlight, Top 5%**. Short version in Meta-Learning Workshop, NeurIPS 2019. [pdf](https://arxiv.org/pdf/1912.03820.pdf), <a href="http://ai.stanford.edu/~cbfinn/_files/neurips19_memorization.pdf" target="_blank">slides</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/memo_poster.pdf" target="_blank">poster</a> and <a href="https://slideslive.com/38921876/bayesian-deep-learning-3" target="_blank">talk</a> 
 
 Semi-Implicit Generative Model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
- Workshop on Bayesian Deep Learning, NeurIPS 2018. [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf) and <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/sigmo_poster.pdf">poster </a> </span>
+ Workshop on Bayesian Deep Learning, NeurIPS 2018. [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf) and <a href="https://mingzhang-yin.github.io/assets/pdfs/sigmo_poster.pdf">poster </a> </span>
 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
 <br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
@@ -22,18 +22,18 @@ International Conference on Machine Learning (ICML).  [pdf](https://arxiv.org/ab
 
 Semi-Implicit Variational Inference
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-International Conference on Machine Learning (ICML), **Long talk**.  [pdf](http://proceedings.mlr.press/v80/yin18b/yin18b.pdf), <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_ICML.pdf" target="_blank">slides</a>, <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_poster.pdf" target="_blank">poster</a>, <a href="https://github.com/mingzhang-yin/SIVI" target="_blank">codes</a>, <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/sivi_review.txt" target="_blank"> review </a> and <a href="https://vimeo.com/294655456" target="_blank"> talk </a> 
+International Conference on Machine Learning (ICML), **Long talk**.  [pdf](http://proceedings.mlr.press/v80/yin18b/yin18b.pdf), <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_ICML.pdf" target="_blank">slides</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/SIVI_poster.pdf" target="_blank">poster</a>, <a href="https://github.com/mingzhang-yin/SIVI" target="_blank">codes</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/sivi_review.txt" target="_blank"> review </a> and <a href="https://vimeo.com/294655456" target="_blank"> talk </a> 
  </span>
  
 
  ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks 
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-International Conference on Learning Representations (ICLR), **Top 10%**.  [pdf](https://openreview.net/pdf?id=S1lg0jAcYm), <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">codes </a> and <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/ARM_slides_binary.pdf" target="_blank">slides </a>
+International Conference on Learning Representations (ICLR), **Top 10%**.  [pdf](https://openreview.net/pdf?id=S1lg0jAcYm), <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">codes </a> and <a href="https://mingzhang-yin.github.io/assets/pdfs/ARM_slides_binary.pdf" target="_blank">slides </a>
  </span>
 
 Convergence of Gradient EM on Multi-component Mixture of Gaussians
  <br> <span style="font-size:14px"> Bowei Yan, **Mingzhang Yin**, and Purnamrita Sarkar  <br>
-Advances in Neural Information Processing Systems (NeurIPS).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians), <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">codes </a> and <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/2017nips_poster.pdf">poster </a>  </span>
+Advances in Neural Information Processing Systems (NeurIPS).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians), <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">codes </a> and <a href="https://mingzhang-yin.github.io/assets/pdfs/2017nips_poster.pdf">poster </a>  </span>
 
 
 ### Pre-prints
