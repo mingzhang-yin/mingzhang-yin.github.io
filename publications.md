@@ -22,7 +22,7 @@ International Conference on Machine Learning (ICML).  [pdf](https://arxiv.org/ab
 
 Semi-Implicit Variational Inference
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-International Conference on Machine Learning (ICML), **Long talk**.  [pdf](http://proceedings.mlr.press/v80/yin18b/yin18b.pdf), <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_ICML.pdf" target="_blank">slides</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/SIVI_poster.pdf" target="_blank">poster</a>, <a href="https://github.com/mingzhang-yin/SIVI" target="_blank">codes</a>, </a> and <a href="https://vimeo.com/294655456" target="_blank"> talk </a> 
+International Conference on Machine Learning (ICML), **Long talk**.  [pdf](http://proceedings.mlr.press/v80/yin18b/yin18b.pdf), <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_ICML.pdf" target="_blank">slides</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/SIVI_poster.pdf" target="_blank">poster</a>, <a href="https://github.com/mingzhang-yin/SIVI" target="_blank">codes</a> and <a href="https://vimeo.com/294655456" target="_blank"> talk </a> 
  </span>
  
 
