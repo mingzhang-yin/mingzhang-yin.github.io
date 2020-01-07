@@ -30,14 +30,14 @@ International Conference on Learning Representations (ICLR), **Top 10%**.  [pdf]
 Discrete Action On-Policy Learning with Action-Value Critic
 <br> <span style="font-size:14px">  Yuguang Yue, Yunhao Tang, **Mingzhang Yin** and Mingyuan Zhou <br>
 International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf]()  
+ 
+ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
+<br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
+International Conference on Machine Learning (ICML).  [pdf](https://arxiv.org/abs/1905.01413), <a href="https://mingzhang-yin.github.io/assets/pdfs/errata.pdf">errata </a> and <a href="">poster </a> </span>
 
 Semi-Implicit Generative Model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
  Workshop on Bayesian Deep Learning, (NeurIPS BDL). [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf) and <a href="https://mingzhang-yin.github.io/assets/pdfs/sigmo_poster.pdf">poster </a> </span>
-
-ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
-<br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
-International Conference on Machine Learning (ICML).  [pdf](https://arxiv.org/abs/1905.01413), <a href="https://mingzhang-yin.github.io/assets/pdfs/errata.pdf">errata </a> and <a href="">poster </a> </span>
 
 
 Convergence of Gradient EM on Multi-component Mixture of Gaussians
