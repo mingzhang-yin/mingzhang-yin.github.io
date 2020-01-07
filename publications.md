@@ -19,11 +19,11 @@ International Conference on Artificial Intelligence and Statistics (AISTATS). [p
 
 Meta-Learning without Memorization
  <br> <span style="font-size:14px"> **Mingzhang Yin**, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn  <br>
-International Conference on Learning Representations (ICLR), **Spotlight, Top 5%**. Short version in Meta-Learning Workshop, NeurIPS 2019. [pdf](https://arxiv.org/pdf/1912.03820.pdf), <a href="http://ai.stanford.edu/~cbfinn/_files/neurips19_memorization.pdf" target="_blank">slides</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/memo_poster.pdf" target="_blank">poster</a> and <a href="https://slideslive.com/38921876/bayesian-deep-learning-3" target="_blank">talk</a> 
+International Conference on Learning Representations (ICLR), **Spotlight, Top 5%**. Short version in Meta-Learning Workshop, (NeurIPS MetaLearn). [pdf](https://arxiv.org/pdf/1912.03820.pdf), <a href="http://ai.stanford.edu/~cbfinn/_files/neurips19_memorization.pdf" target="_blank">slides</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/memo_poster.pdf" target="_blank">poster</a> and <a href="https://slideslive.com/38921876/bayesian-deep-learning-3" target="_blank">talk</a> 
 
 Semi-Implicit Generative Model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
- Workshop on Bayesian Deep Learning, NeurIPS 2018. [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf) and <a href="https://mingzhang-yin.github.io/assets/pdfs/sigmo_poster.pdf">poster </a> </span>
+ Workshop on Bayesian Deep Learning, (NeurIPS BDL). [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf) and <a href="https://mingzhang-yin.github.io/assets/pdfs/sigmo_poster.pdf">poster </a> </span>
 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
 <br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
