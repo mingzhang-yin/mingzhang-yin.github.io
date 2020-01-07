@@ -8,6 +8,15 @@ ___
 
 
 ### Publication 
+
+A Theoretical Case Study of Structured Variational Inference for Community Detection
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Y. X. Rachel Wang, Purnamrita Sarkar  <br>
+International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf](https://arxiv.org/abs/1907.12203)  
+ 
+Discrete Action On-Policy Learning with Action-Value Critic
+<br> <span style="font-size:14px">  Yuguang Yue, Yunhao Tang, **Mingzhang Yin** and Mingyuan Zhou <br>
+International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf]()  
+
 Meta-Learning without Memorization
  <br> <span style="font-size:14px"> **Mingzhang Yin**, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn  <br>
 International Conference on Learning Representations (ICLR), **Spotlight, Top 5%**. Short version in Meta-Learning Workshop, NeurIPS 2019. [pdf](https://arxiv.org/pdf/1912.03820.pdf), <a href="http://ai.stanford.edu/~cbfinn/_files/neurips19_memorization.pdf" target="_blank">slides</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/memo_poster.pdf" target="_blank">poster</a> and <a href="https://slideslive.com/38921876/bayesian-deep-learning-3" target="_blank">talk</a> 
@@ -37,11 +46,6 @@ Advances in Neural Information Processing Systems (NeurIPS).  [pdf](https://pape
 
 
 ### Pre-prints
- 
- 
-A Theoretical Case Study of Structured Variational Inference for Community Detection
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Y. X. Rachel Wang, Purnamrita Sarkar  <br>
-arXiv, 2019. [pdf](https://arxiv.org/abs/1907.12203)  
  
 
 
