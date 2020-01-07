@@ -17,7 +17,7 @@ title: Home
   <p> I am broadly interested in Bayesian statistics and machine learning. My Ph.D. research focuses on the statistical dependency structure at different levels of data. Some of my interests are: </p>
   <p>
   <ul>
-   <li> Approximate Bayes inference </li>
+   <li> (Approximate) Bayes inference </li>
    <li> Causal inference </li>
    <li> Information theory and theoretical statistics  </li>
    <li> Meta-learning </li>
