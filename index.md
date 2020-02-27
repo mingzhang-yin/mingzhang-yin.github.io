@@ -21,5 +21,6 @@ title: Home
    <li> Causal inference </li>
    <li> Information theory and theoretical statistics  </li>
    <li> Biomedical and cancer research </li>
+   <li> Bayesian deep learning, meta-learning </li>
   </ul>
 
