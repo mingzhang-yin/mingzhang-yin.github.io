@@ -20,7 +20,6 @@ title: Home
    <li> (Approximate) Bayesian inference </li>
    <li> Causal inference </li>
    <li> Information theory and theoretical statistics  </li>
-   <li> Meta-learning </li>
-   <li> Biomedical and healthcare </li>
+   <li> Cancer research </li>
   </ul>
 
