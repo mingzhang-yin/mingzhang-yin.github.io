@@ -20,6 +20,6 @@ title: Home
    <li> (Approximate) Bayesian inference </li>
    <li> Causal inference </li>
    <li> Information theory and theoretical statistics  </li>
-   <li> Cancer research </li>
+   <li> Biomedical and cancer research </li>
   </ul>
 
