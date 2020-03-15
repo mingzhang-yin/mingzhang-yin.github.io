@@ -21,6 +21,6 @@ title: Home
    <li> Causal inference </li>
    <li> Information theory and asymptotics </li>
    <li> Biomedical and cancer research </li>
-   <li> Meta-learning </li>
+   <li> Meta-learning and domain adaptation</li>
   </ul>
 
