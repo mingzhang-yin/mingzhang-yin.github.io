@@ -19,7 +19,7 @@ title: Home
   <ul>
    <li> (Approximate) Bayesian inference </li>
    <li> Causal inference </li>
-   <li> Information theory and asymptotics </li>
+   <li> Information theory, asymptotics </li>
    <li> Meta-learning and domain adaptation</li>
    <li> Biomedical research</li>
   </ul>
