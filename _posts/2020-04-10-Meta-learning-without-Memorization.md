@@ -22,7 +22,7 @@ Let's come back to the student example at the beginning. The daily study at scho
 
 Let's consider another illustrative example.  Assume each task is a 1D regression on some related data. In the following figures, a meta-learning algorithm is trained to adapt on a few training data, as the red points, and to fit on the validation data, as the blue points, where the dashed line represents a good adapted model 
 
-![An image](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l1.jpg) <!-- .element height="50%" width="50%" -->
+![An image](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l1.jpg) {:height="36px" width="36px"}
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l1.jpg" width="50"/>  <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l2.jpg" width="50"/>  <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l3.jpg" width="50"/> 
