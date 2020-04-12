@@ -22,11 +22,12 @@ Let's come back to the student example at the beginning. The daily study at scho
 
 Let's consider another illustrative example.  Assume each task is a 1D regression on some related data. In the following figures, a meta-learning algorithm is trained to adapt on a few training data, as the red points, and to fit on the validation data, as the blue points, where the dashed line represents a good adapted model 
 
+![test](https://github.com/favicon.ico | width=48)
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l1.jpg" width="50"/>  <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l2.jpg" width="50"/>  <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l3.jpg" width="50"/> 
 </p>
 
-![test](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l1.jpg| width=20)
 
 
 By training on multiple correlated tasks, the model develops a fast adaptation ability, which can generalize to solving tasks that are unseen in the meta-training, as the left figure below. However, we find if the meta-learner is flexible enough, a single model can solve all the training tasks without adapting to the task training data, as the right figure below. This solution may seem somewhat innocuous at the first glance. However, in the test-time, when facing a new task, the algorithm will not know how to utilize the task training data and therefore cannot solve the new task.
