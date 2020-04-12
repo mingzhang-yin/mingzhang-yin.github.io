@@ -24,7 +24,7 @@ Let's consider another illustrative example.  Assume each task is a 1D regressio
 
 
 <center>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/s1.png" alt="drawing" width="900"/>
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/s1.png" alt="drawing" width="850"/>
 </center>
 
 
@@ -32,7 +32,7 @@ Let's consider another illustrative example.  Assume each task is a 1D regressio
 By training on multiple correlated tasks, the model develops a fast adaptation ability, which can generalize to solving tasks that are unseen in the meta-training, as the left figure below. However, we find if the meta-learner is flexible enough, a single model can solve all the training tasks without adapting to the task training data, as the right figure below. This solution may seem somewhat innocuous at the first glance. However, in the test-time, when facing a new task, the algorithm will not know how to utilize the task training data and therefore cannot solve the new task.
 
 <center>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/s2.png" alt="drawing" width="600"/>
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/s2.png" alt="drawing" width="550"/>
 </center>
 
 
@@ -56,12 +56,12 @@ $$D_{KL}(q(\theta | \mathcal{M})||r(\theta))$$
 where $\theta$ are the parameters of an encoder: $x \to z$. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning $($MAML$)$ and Conditional Neural Process $($CNP$)$, we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
 
 <center>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee2.png" alt="drawing" width="800"/>
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee2.png" alt="drawing" width="750"/>
 </center>
 
 We also test on the non-mutually exclusive few-shot classification problems, for which standard meta-learning methods can give near random predictions in some cases
 <center>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee3.png" alt="drawing" width="800"/>
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee3.png" alt="drawing" width="750"/>
 </center>
 
 ## Takeaways
@@ -69,7 +69,7 @@ We also test on the non-mutually exclusive few-shot classification problems, for
 * Memorization problem is a task-level overfitting problem; it differs from standard datapoint-level problem
 *  We can effectively control the memorization problem by meta-regularization, expanding the meta-learning to the domains that it cannot be effectively applied to before
 
-Thanks to the collaborations of George Tucker，Mingyuan Zhou，Sergey Levine and Chelsea Finn!
+Thanks to the collaborations of George Tucker, Mingyuan Zhou, Sergey Levine and Chelsea Finn!
 
 
 
