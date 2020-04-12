@@ -37,6 +37,11 @@ By training on multiple correlated tasks, the model develops a fast adaptation a
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l4.jpg" width="50"/> <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l6.jpg" width="50"/> 
 </p>
 
+
+- `![](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l4.jpg | width=100)`
+  - ![](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l4.jpg | width=100)
+
+
 We call this phenomenon as the (complete) memorization problem in meta-learning and formally define it as
 $$I(\hat{y}^{\star};\mathcal{D} | x^{\star}, \mathcal{M})=0$$
 which means the predicted label and task training data are conditionally independent.
