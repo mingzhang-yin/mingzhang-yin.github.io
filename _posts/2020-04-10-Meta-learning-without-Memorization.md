@@ -4,7 +4,6 @@ layout: post
 date: 2020-04-10
 tags: blog
 comments: false
-markdown: kramdown
 use_math: true
 ---
 
@@ -39,8 +38,7 @@ By training on multiple correlated tasks, the model develops a fast adaptation a
 </p>
 
 
-- `![](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l4.jpg | width=100)`
-  - ![](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l4.jpg | width=100)
+![test image size](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l4.jpg){:height="50%" width="50%"}
 
 
 We call this phenomenon as the (complete) memorization problem in meta-learning and formally define it as
