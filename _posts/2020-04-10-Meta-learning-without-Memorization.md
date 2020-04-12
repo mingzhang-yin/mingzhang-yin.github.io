@@ -26,8 +26,6 @@ Let's consider another illustrative example.  Assume each task is a 1D regressio
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l1.jpg" width="50"/>  <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l2.jpg" width="50"/>  <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l3.jpg" width="50"/> 
 </p>
 
-:-:|:-:|:-:
-![](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l1.jpg)   |   ![](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l2.jpg)| ![](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l3.jpg) 
 
 | [![VideoBlocks](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l1.jpg)](http://videoblocks.com)  | [![AudioBlocks](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l2.jpg)](http://audioblocks.com) | [![GraphicStock](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l3.jpg)](http://graphicstock.com) |
 |:---:|:---:|:---:|
