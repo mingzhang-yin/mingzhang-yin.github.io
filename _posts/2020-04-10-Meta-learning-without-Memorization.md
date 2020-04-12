@@ -46,14 +46,13 @@ Notice the memorization problem is closely related to the task distribution. We 
 
 ## Meta-Regularization
 Based on the above analysis and graphical model, we find that the information that is used to predict the task test labels comes from meta-traing data $\mathcal{M}$, task training data $\mathcal{D}$ and task test input $x^\star$. Hence, if we can control the information that flows from $\mathcal{M}$ and $x^\star$, and ask for accurate prediction in the meantime, we can encourage the model to use the information in $\mathcal{D}$ and not ignore it. Using the inequalities in information theory and PAC-Bayes theory, one approach to the meta-regularization we derived is based on the information bottleneck which regularizes
-$$
-D_{KL}(q(z^\star | x^\star, \theta)||r(z^\star ))
-$$
+
+$$D_{KL}(q(z^\star | x^\star, \theta)||r(z^\star ))$$
 
 The other approach is to regularize
-$$
-D_{KL}(q(\theta | \mathcal{M})||r(\theta))
-$$
+
+$$D_{KL}(q(\theta | \mathcal{M})||r(\theta))$$
+
 where $\theta$ are the parameters of an encoder: $x \to z$. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning(MAML) and Conditional Neural Process(CNP), we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
 
 <center>
