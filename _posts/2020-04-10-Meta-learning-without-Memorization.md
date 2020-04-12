@@ -16,6 +16,8 @@ To set things up, we assume there are multiple tasks generated from a task distr
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/graph3.png" alt="drawing" width="200"/>
 </center>
 
+![](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/graph3.png)
+
 ##Memorization Problem
 Let's come back to the student example at the beginning. The daily study at school can be considered as a task in meta-training, and we assume the student learn to solve one type of math problem each day. After a period, assume all types of required problems have been repeated several times in class. If a student can remember all types of problems, he/she does not need to attend the class and can answer the homework questions perfectly. Such memorization approach can solve new problems of the known types, but cannot solve an unseen type of problems. 
 
