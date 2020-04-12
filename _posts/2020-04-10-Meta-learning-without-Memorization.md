@@ -33,7 +33,7 @@ Let's consider another illustrative example.  Assume each task is a 1D regressio
 
 By training on multiple correlated tasks, the model develops a fast adaptation ability, which can generalize to solving tasks that are unseen in the meta-training, as the left figure below. However, we find if the meta-learner is flexible enough, a single model can solve all the training tasks without adapting to the task training data, as the right figure below. This solution may seem somewhat innocuous at the first glance. However, in the test-time, when facing a new task, the algorithm will not know how to utilize the task training data and therefore cannot solve the new task.
 
-![test image size](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l4.jpg){:height="50%" width="50%"} ![test image size](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l6.jpg){:height="50%" width="50%"}
+![test image size](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l4.jpg){:height="30%" width="30%"} ![test image size](https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l6.jpg){:height="30%" width="30%"}
 
 
 
@@ -56,7 +56,7 @@ The other approach is to regularize
 
 $$D_{KL}(q(\theta | \mathcal{M})||r(\theta))$$
 
-where $\theta$ are the parameters of an encoder: $x \to z$. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning \(MAML\) and Conditional Neural Process \(CNP\), we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
+where $\theta$ are the parameters of an encoder: $x \to z$. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning $($MAML$)$ and Conditional Neural Process $($CNP$)$, we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
 
 <center>
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee2.png" alt="drawing" width="600"/>
