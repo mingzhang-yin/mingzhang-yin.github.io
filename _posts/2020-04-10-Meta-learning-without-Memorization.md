@@ -14,7 +14,7 @@ Let's consider how human-beings can obtain intelligence from school. In the morn
 ## Basics
 To set things up, we assume there are multiple tasks generated from a task distribution $p(\mathcal{T})$. Each task has some labeled training data $\mathcal{D} = (X,Y)$ and test data $\mathcal{D}^{\star} = (X^{\star},Y^{\star})$.  $\mathcal{M}$ represents all the meta-training data and $\mathcal{T}\_j$ is a new task. The meta-learner is trained on $\mathcal{M}$, adapted on the new task training data $\mathcal{D}_{j},$ and aims to make good predictions on the new task test inputs $X^{\star}\_{j}$. This process can be summarized in a hierarchical graphical model:
 <center>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/graph3.png" alt="drawing" width="450"/>
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/graph3.png" alt="drawing" width="320"/>
 </center>
 
 ## Memorization Problem
@@ -23,9 +23,9 @@ Let's come back to the student example at the beginning. The daily study at scho
 Let's consider another illustrative example.  Assume each task is a 1D regression on some related data. In the following figures, a meta-learning algorithm is trained to adapt on a few training data, as the red points, and to fit on the validation data, as the blue points, where the dashed line represents a good adapted model 
 
 <center>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l1.jpg" alt="drawing" width="200"/>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l2.jpg" alt="drawing" width="200"/>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l3.jpg" alt="drawing" width="200"/> 
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l1.jpg" alt="drawing" width="150"/>
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l2.jpg" alt="drawing" width="150"/>
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/l3.jpg" alt="drawing" width="150"/> 
 </center>
 
 
