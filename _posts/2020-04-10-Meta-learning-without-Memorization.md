@@ -4,6 +4,7 @@ layout: post
 date: 2020-04-10
 tags: blog
 comments: false
+markdown: kramdown
 use_math: true
 ---
 
