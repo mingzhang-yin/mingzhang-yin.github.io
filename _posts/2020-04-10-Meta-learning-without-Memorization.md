@@ -24,7 +24,7 @@ Let's consider another illustrative example.  Assume each task is a 1D regressio
 
 
 <center>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/s1.png" alt="drawing" width="600"/>
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/s1.png" alt="drawing" width="900"/>
 </center>
 
 
@@ -56,12 +56,12 @@ $$D_{KL}(q(\theta | \mathcal{M})||r(\theta))$$
 where $\theta$ are the parameters of an encoder: $x \to z$. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning $($MAML$)$ and Conditional Neural Process $($CNP$)$, we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
 
 <center>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee2.png" alt="drawing" width="600"/>
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee2.png" alt="drawing" width="800"/>
 </center>
 
 We also test on the non-mutually exclusive few-shot classification problems, for which standard meta-learning methods can give near random predictions in some cases
 <center>
-<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee3.png" alt="drawing" width="600"/>
+<img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee3.png" alt="drawing" width="800"/>
 </center>
 
 ## Takeaways
