@@ -31,8 +31,7 @@ Let's consider another illustrative example.  Assume each task is a 1D regressio
 </center>
 
 
-
-By training on multiple correlated tasks, the model develops a fast adaptation ability, which can generalize to solving tasks that are unseen in the meta-training, as the left figure below. However, we find if the meta-learner is flexible enough, a single model can solve all the training tasks without adapting to the task training data, as the right figure below. This solution may seem somewhat innocuous at the first glance. However, in the test-time, when facing a new task, the algorithm will not know how to utilize the task training data and therefore cannot solve the new task.
+By training on multiple correlated tasks, the model develops a fast adaptation ability, which can generalize to solving tasks that are unseen in the meta-training, as the left figure below. However, we find if the meta-learner is flexible enough, a single model can solve all the training tasks without adapting to the task training data, as the right figure below. In the test-time, when facing a new task, the algorithm will not know how to utilize a few task training data to infer the local parameters and therefore cannot solve the new task.
 
 <center>
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/s2.png" alt="drawing" width="550"/>
