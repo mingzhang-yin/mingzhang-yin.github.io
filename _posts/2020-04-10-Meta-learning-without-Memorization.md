@@ -7,7 +7,7 @@ comments: false
 use_math: true
 ---
 
->  Paper link: [Openreview](https://openreview.net/pdf?id=BklEFpEYwS)    
+>  Paper link: [OpenReview.net](https://openreview.net/pdf?id=BklEFpEYwS)    
 >  Code link: [Google Research Github](https://github.com/google-research/google-research/tree/master/meta_learning_without_memorization)
 
 Let's consider how human-beings can obtain intelligence from school. In the morning, we go to school to take classes, answering the questions that teachers ask. In the evening, we come back home, finish the homework and check the answer key. In the end, when we graduate from school, we not only obtain some specific knowledge, but have learnt how to learn.  Meta-learning is a paradigm in artificial intelligence that mimics such learning procedure. By leveraging past experience from previous tasks, it aims to adapt fast to a few training data when it comes to a new task. tldr: we identify a common pitfall that prevents the fast adaptation for a variety of meta-learning algorithms and propose a method to prevent this pitfall.
