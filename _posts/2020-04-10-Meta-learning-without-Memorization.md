@@ -53,7 +53,7 @@ The other approach is to regularize
 
 $$D_{KL}(q(\theta | \mathcal{M})||r(\theta))$$
 
-where $\theta$ are the parameters of an encoder: $x \to z$. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning $($MAML$)$ and Conditional Neural Process $($CNP$)$, we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
+where $\theta$ are the parameters of an encoder: $x \to z$ and we only regularize the parameters that are not used in the adaptation. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning $($MAML$)$ and Conditional Neural Process $($CNP$)$, we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
 
 <center>
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee2.png" alt="drawing" width="750"/>
@@ -66,8 +66,8 @@ We also test on the non-mutually exclusive few-shot classification problems, for
 
 ## Takeaways
 * Memorization is a prevalent problem for many meta-learning tasks and algorithms  
-* Memorization problem is a task-level overfitting problem; it differs from standard datapoint-level problem
-*  We can effectively control the memorization problem by meta-regularization, expanding the meta-learning to the domains that it cannot be effectively applied to before
+* Memorization problem is a task-level overfitting problem; it differs from standard datapoint-level overfitting
+* We can effectively control the memorization problem by meta-regularization, expanding the meta-learning to the domains that it cannot be effectively applied to before
 
 Thanks to the collaborations of George Tucker, Mingyuan Zhou, Sergey Levine and Chelsea Finn!
 
