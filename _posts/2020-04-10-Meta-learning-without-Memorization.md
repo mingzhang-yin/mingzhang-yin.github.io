@@ -7,9 +7,12 @@ comments: false
 use_math: true
 ---
 
->  Paper:  https://openreview.net/pdf?id=BklEFpEYwS  
+>  Paper link: [OpenReview.net](https://openreview.net/pdf?id=BklEFpEYwS)    
+>  Code link: [Google Research Github](https://github.com/google-research/google-research/tree/master/meta_learning_without_memorization)
 
-Let's consider how human-beings can obtain intelligence from school. In the morning, we go to school to take classes, answering the questions that teachers ask. In the evening, we come back home, finish the homework and check the answer key. In the end, when we graduate from school, we not only obtain some specific knowledge, but have learnt how to learn.  Meta-learning is a paradigm in artificial intelligence that mimics such learning procedure. By leveraging past experience from previous tasks, it aims to adapt fast to a few training data when it comes to a new task. tldr: we identify a common pitfall that prevents the fast adaptation for a variety of meta-learning algorithms and propose a method to prevent this pitfall.
+Let's consider how people learn at school. In the morning, we go to school, taking classes and answering the questions that teachers ask. In the evening, we come back home, finishing the homeworks and checking the answer keys. This can be considered as solving one task each day, with training in class and testing by homework. In the end, when we graduate from school, we not simply obtain some specific knowledge, but have learnt how to learn, which is the goal of education after all. Meta-learning is a paradigm in artificial intelligence that mimics such learning procedure. By leveraging  experience from previous tasks, it aims to be able to solve a new task by fast adapting to a few training data.
+
+tl;dr: we identify a common pitfall that prevents the fast adaptation for a variety of meta-learning algorithms and propose a method to prevent this pitfall.
 
 ## Basics
 To set things up, we assume there are multiple tasks generated from a task distribution $p(\mathcal{T})$. Each task has some labeled training data $\mathcal{D} = (X,Y)$ and test data $\mathcal{D}^{\star} = (X^{\star},Y^{\star})$.  $\mathcal{M}$ represents all the meta-training data and $\mathcal{T}\_j$ is a new task. The meta-learner is trained on $\mathcal{M}$, adapted on the new task training data $\mathcal{D}_{j},$ and aims to make good predictions on the new task test inputs $X^{\star}\_{j}$. This process can be summarized in a hierarchical graphical model:
@@ -18,7 +21,7 @@ To set things up, we assume there are multiple tasks generated from a task distr
 </center>
 
 ## Memorization Problem
-Let's come back to the student example at the beginning. The daily study at school can be considered as a task in meta-training, and we assume the student learn to solve one type of math problem each day. After a period, assume all types of required problems have been repeated several times in class. If a student can remember all types of problems, he/she does not need to attend the class and can answer the homework questions perfectly. Such memorization approach can solve new problems of the known types, but cannot solve an unseen type of problems. 
+Let's come back to the student example at the beginning. The daily study at school can be considered as a task in meta-training, and we assume the student learn to solve one type of math problem each day. After a period, assume all types of required problems have been repeated several times in class. If a student can remember all types of problems, he/she does not need to attend the class and can answer the homework questions perfectly. Though such seemingly innocuous memorization approach can solve new problems of the known types, however, when the student faces with an unseen type of problem, he/she cannot solve it without learning from new resources. 
 
 Let's consider another illustrative example.  Assume each task is a 1D regression on some related data. In the following figures, a meta-learning algorithm is trained to adapt on a few training data, as the red points, and to fit on the validation data, as the blue points, where the dashed line represents a good adapted model 
 
@@ -53,7 +56,7 @@ The other approach is to regularize
 
 $$D_{KL}(q(\theta | \mathcal{M})||r(\theta))$$
 
-where $\theta$ are the parameters of an encoder: $x \to z$. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning $($MAML$)$ and Conditional Neural Process $($CNP$)$, we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
+where $\theta$ are the parameters of an encoder: $x \to z$. Notice here we should only regularize the parameters that are not used in the adaptation, which differs from stardand regularizations. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning $($MAML$)$ and Conditional Neural Process $($CNP$)$, we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
 
 <center>
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee2.png" alt="drawing" width="750"/>
@@ -66,8 +69,8 @@ We also test on the non-mutually exclusive few-shot classification problems, for
 
 ## Takeaways
 * Memorization is a prevalent problem for many meta-learning tasks and algorithms  
-* Memorization problem is a task-level overfitting problem; it differs from standard datapoint-level problem
-*  We can effectively control the memorization problem by meta-regularization, expanding the meta-learning to the domains that it cannot be effectively applied to before
+* Memorization problem is a task-level overfitting problem; it differs from standard datapoint-level overfitting
+* We can effectively control the memorization problem by meta-regularization, expanding the meta-learning to the domains that it cannot be effectively applied to before
 
 Thanks to the collaborations of George Tucker, Mingyuan Zhou, Sergey Levine and Chelsea Finn!
 
