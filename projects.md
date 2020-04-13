@@ -4,6 +4,6 @@ title: Projects
 active: projects
 ---
 
-<p>&nbsp;</p>
+&nbsp;
 
 [**Meta-Learning without Memorization**](/_posts/2020-04-10-Meta-learning-without-Memorization.md)
