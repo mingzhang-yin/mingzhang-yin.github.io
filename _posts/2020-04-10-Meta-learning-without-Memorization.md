@@ -42,14 +42,14 @@ We call this phenomenon as the (complete) memorization problem in meta-learning 
  
 $$I(\hat{y}^{\star};\mathcal{D} | x^{\star}, \mathcal{M})=0$$
 
-which means the predicted label and task training data are conditionally independent.
+which means the predicted label and the task training data are conditionally independent.
 
 
-Notice the memorization problem is closely related to the task distribution. We find that if the meta-training tasks are mutually exclusive, which means a single model cannot solve all the tasks, the memorization problem will not occur. For example, in few-shot classification problems, mutually exclusive tasks are created by randomly shuffling the labels across tasks. However, in a wide range of problems the tasks are non-mutually exclusive. Therefore, the memorization problem widely exist and can influence many meta-learning algorithms.
+Notice the memorization problem is closely related to the task distribution. We find that if the meta-training tasks are *mutually exclusive*, which means a single model cannot solve all the tasks, the memorization problem will not happen. For example, in the few-shot classification problems, mutually exclusive tasks are created by randomly shuffling the labels across tasks. However, in a wide range of problems the tasks are non-mutually exclusive. Therefore, the memorization problem widely exist and can influence many meta-learning algorithms.
 
 
 ## Meta-Regularization
-Based on the above analysis and graphical model, we find that the information that is used to predict the task test labels comes from meta-traing data $\mathcal{M}$, task training data $\mathcal{D}$ and task test input $x^\star$. Hence, if we can control the information that flows from $\mathcal{M}$ and $x^\star$, and ask for accurate prediction in the meantime, we can encourage the model to use the information in $\mathcal{D}$ and not ignore it. Using the inequalities in information theory and PAC-Bayes theory, one approach to the meta-regularization we derived is based on the information bottleneck which regularizes
+Based on the above analysis and the graphical model, we find that the information that is used to predict the task test labels comes from the meta-traing data $\mathcal{M}$, task training data $\mathcal{D}$ and task test input $x^\star$. Hence, if we can limit the information that flows from $\mathcal{M}$ and $x^\star$, and in the meantime ask for accurate predictions, we can encourage the model to use the information in $\mathcal{D}$ and not ignore it. Using the inequalities in information and PAC-Bayes theory, one approach to the meta-regularization we derived is based on the information bottleneck, which regularizes
 
 $$D_{KL}(q(z^\star | x^\star, \theta)||r(z^\star ))$$
 
@@ -57,13 +57,13 @@ The other approach is to regularize
 
 $$D_{KL}(q(\theta | \mathcal{M})||r(\theta))$$
 
-where $\theta$ are the parameters of an encoder: $x \to z$. Notice here we should only regularize the parameters that are not used in the adaptation, which differs from stardand regularizations. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning $($MAML$)$ and Conditional Neural Process $($CNP$)$, we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
+where $\theta$ are the parameters of an encoder: $x \to z$. Notice we should only regularize the parameters that are not used in the adaptation, which differs from stardand regularizations. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning $($MAML$)$ and Conditional Neural Process $($CNP$)$, we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
 
 <center>
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee2.png" alt="drawing" width="750"/>
 </center>
 
-We also test on the non-mutually exclusive few-shot classification problems, for which standard meta-learning methods can give near random predictions in some cases
+We test on the non-mutually exclusive few-shot classification problems, for which standard meta-learning methods can even give near random predictions in some cases. Our methods provide a remedy.
 <center>
 <img src="https://raw.githubusercontent.com/mingzhang-yin/mingzhang-yin.github.io/master/assets/images/figure_memo/ee3.png" alt="drawing" width="750"/>
 </center>
@@ -71,7 +71,7 @@ We also test on the non-mutually exclusive few-shot classification problems, for
 ## Takeaways
 * Memorization is a prevalent problem for many meta-learning tasks and algorithms  
 * Memorization problem is a task-level overfitting problem; it differs from standard datapoint-level overfitting
-* We can effectively control the memorization problem by meta-regularization, expanding the meta-learning to the domains that it cannot be effectively applied to before
+* We can effectively control the memorization problem by meta-regularization, expanding the meta-learning to the domains that previously it was hard to be effective on
 
 Thanks to the collaborations of George Tucker, Mingyuan Zhou, Sergey Levine and Chelsea Finn!
 
