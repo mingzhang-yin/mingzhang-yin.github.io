@@ -74,7 +74,7 @@ We test on the non-mutually exclusive few-shot classification problems, for whic
 * Meta-regularization can effectively control the memorization problem, and expands the meta-learning to the domains that it was hard to be effective on previously
 * 👉 Keep calm and remain adaptive!
 
-Thanks to the collaborations of George Tucker, Mingyuan Zhou, Sergey Levine and Chelsea Finn!
+Thanks to the collaborations of George Tucker, Mingyuan Zhou, Sergey Levine and Chelsea Finn
 
 
 
