@@ -71,7 +71,8 @@ We test on the non-mutually exclusive few-shot classification problems, for whic
 ## Takeaways
 * Memorization is a prevalent problem for many meta-learning tasks and algorithms  
 * Memorization problem is a task-level overfitting problem; it differs from standard datapoint-level overfitting
-* We can effectively control the memorization problem by meta-regularization, expanding the meta-learning to the domains that previously it was hard to be effective on
+* Meta-regularization can effectively control the memorization problem, and expands the meta-learning to the domains that it was hard to be effective on previously
+* Be adaptive!
 
 Thanks to the collaborations of George Tucker, Mingyuan Zhou, Sergey Levine and Chelsea Finn!
 
