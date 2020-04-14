@@ -21,7 +21,7 @@ To set things up, we assume there are multiple tasks generated from a task distr
 </center>
 
 ## Memorization Problem
-Let's come back to the student example at the beginning. The daily study at school can be considered as a task in meta-training, and we assume the student learn to solve one type of math problem each day. After a period, assume all types of required problems have been repeated several times in class (like what we all once did for a college entrance exam 💆). If a student can remember all types of problems, he/she does not need to attend the class and can answer the homework questions of these types correctly. Though such seemingly innocuous memorization approach can solve new problems of the known types, however, when the student faces an unseen type of problem, he/she cannot solve it without learning from new resources. 
+Let's come back to the student example at the beginning. The daily study at school can be considered as a task in meta-training, and we assume the student learn to solve one type of math problem each day. After a period, assume all types of required problems have been repeated several times in class $($like what we all once did for a college entrance exam 💆$)$. If a student can remember all types of problems, he/she does not need to attend the class and can answer the homework questions of these types correctly. Though such seemingly innocuous memorization approach can solve new problems of the known types, however, when the student faces an unseen type of problem, he/she cannot solve it without learning from new resources. 
 
 Let's consider another illustrative example.  Assume each task is a 1D regression on some related data. In the following figures, a meta-learning algorithm is trained to adapt on a few training data, as the red points, and to fit on the validation data, as the blue points, where the dashed line represents a good adapted model 
 
@@ -38,7 +38,7 @@ By training on multiple correlated tasks, the model develops a fast adaptation a
 </center>
 
 
-We call this phenomenon as the (complete) memorization problem in meta-learning and formally define it as
+We call this phenomenon as the $($complete$)$ memorization problem in meta-learning and formally define it as
  
 $$I(\hat{y}^{\star};\mathcal{D} | x^{\star}, \mathcal{M})=0$$
 
