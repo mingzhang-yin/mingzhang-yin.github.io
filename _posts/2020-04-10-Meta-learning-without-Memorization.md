@@ -12,7 +12,7 @@ use_math: true
 
 Let's consider how people learn at school. In the morning, we go to school, taking classes and answering the questions that teachers ask. In the evening, we come back home, finishing the homeworks and checking the answer keys. This can be considered as solving one task each day, with training in class and testing by homework. In the end, when we graduate from school, we not simply obtain some specific knowledge, but have learnt how to learn, which is the goal of education after all. Meta-learning is a paradigm in artificial intelligence that mimics such learning procedure. By leveraging  experience from previous tasks, it aims to be able to solve a new task by fast adapting to a few training data.
 
-tl;dr: we identify a common pitfall that prevents the fast adaptation for a variety of meta-learning algorithms and propose a method to prevent this pitfall.
+tl;dr: we identify a common pitfall that potentially hampers the fast adaptation property of a variety of meta-learning algorithms and propose a method to prevent this pitfall.
 
 ## Basics
 To set things up, we assume there are multiple tasks generated from a task distribution $p(\mathcal{T})$. Each task has some labeled training data $\mathcal{D} = (X,Y)$ and test data $\mathcal{D}^{\star} = (X^{\star},Y^{\star})$.  $\mathcal{M}$ represents all the meta-training data and $\mathcal{T}\_j$ is a new task. The meta-learner is trained on $\mathcal{M}$, adapted on the new task training data $\mathcal{D}_{j},$ and aims to make good predictions on the new task test inputs $X^{\star}\_{j}$. This process can be summarized in a hierarchical graphical model:
