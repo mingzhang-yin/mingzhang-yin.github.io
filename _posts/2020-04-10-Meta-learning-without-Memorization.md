@@ -12,7 +12,7 @@ use_math: true
 
 Consider how people learn at school. In the morning, we go to school, taking classes and answering questions asked by teachers. In the evening, we go back home, finishing homeworks and checking answer key. This daily routine can be considered as solving a task everyday, with task training in class and validation at home. In the end, when graduate from school, we not only obtain specific knowledge, but learn how to learn as well, which is the goal of education after all. Meta-learning is a paradigm in artificial intelligence that mimics such learning procedure. By leveraging experience from previous tasks, it aims to be able to solve a new task by fast adapting to a few training data.
 
->tl;dr: we formalize a meta-overfitting problem that potentially hampers fast adaptation of many meta-learning algorithms, and we propose a solution to prevent this pitfall.
+>tl;dr: we formalize a meta-overfitting problem that potentially hampers fast adaptation of many meta-learning algorithms; we propose a solution to prevent this pitfall.
 
 ## Basics
 To set things up, we assume there are multiple tasks generated from a task distribution $p(\mathcal{T})$. Each task has some labeled training data $\mathcal{D} = (X,Y)$ and test data $\mathcal{D}^{\star} = (X^{\star},Y^{\star})$.  $\mathcal{M}$ represents all the meta-training data and $\mathcal{T}\_j$ is a new task. The meta-learner is trained on $\mathcal{M}$, adapted on the new task training data $\mathcal{D}_{j},$ and aims to make good predictions on the new task test inputs $X^{\star}\_{j}$. This process can be summarized in a hierarchical graphical model:
