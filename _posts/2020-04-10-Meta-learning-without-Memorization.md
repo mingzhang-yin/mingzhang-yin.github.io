@@ -45,7 +45,7 @@ $$I(\hat{y}^{\star};\mathcal{D} | x^{\star}, \mathcal{M})=0$$
 which means the predicted label and the task training data are conditionally independent.
 
 
-Notice the memorization problem is closely related to the task distribution. We find that if the meta-training tasks are *mutually exclusive*, which means a single model cannot solve all the tasks, the memorization problem will not happen. For example, in the few-shot classification problems, mutually exclusive tasks are created by randomly shuffling the labels across tasks. However, in a wide range of problems the tasks are non-mutually exclusive. Therefore, the memorization problem widely exist and can influence many meta-learning algorithms.
+Notice the memorization problem is closely related to the task distribution. We find that if the meta-training tasks are *mutually exclusive*, which means a single model cannot solve all the tasks, the memorization problem will not happen. For example, in the few-shot classification problems, mutually exclusive tasks are created by randomly shuffling the labels across tasks. However, in a wide range of problems the tasks are non-mutually exclusive. Therefore, the memorization problem widely exists and can influence a variety of meta-learning algorithms.
 
 
 ## Meta-Regularization
