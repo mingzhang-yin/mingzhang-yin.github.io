@@ -12,7 +12,8 @@ use_math: true
 
 Consider how people learn as students. In the morning, we go to school, taking classes and answering questions asked by teachers. In the evening, we go back home, finishing homeworks and checking the answer keys. This daily routine can be considered as solving a task everyday, with task training in class and validation at home. In the end, when graduate from school, we not only obtain specific knowledge, but learn how to learn. Meta-learning is a paradigm in artificial intelligence that mimics such learning procedure. By leveraging experience from previous tasks, the algorithm aims to be able to solve a new task by fast adapting to a few training data.
 
-TL;DR: we formalize a meta-overfitting problem that potentially hampers fast adaptation of many meta-learning algorithms. We then propose a solution to prevent this pitfall.
+TL;DR: In this paper, we aim to answer the main questions: What is the memorization problem in meta-learning? Why does memorization problem happen? And how can we prevent the memorization problem?
+
 
 ## Basics
 To set things up, assume there are multiple tasks generated from a task distribution $p(\mathcal{T})$. Each task has some labeled training data $\mathcal{D} = (X,Y)$ and test data $\mathcal{D}^{\star} = (X^{\star},Y^{\star})$.  $\mathcal{M}$ represents all the meta-training data and $\mathcal{T}\_j$ is a new task. The meta-learner is trained on $\mathcal{M}$, adapted on the new task training data $\mathcal{D}_{j},$ and aims to make good predictions on the new task test inputs $X^{\star}\_{j}$. This process can be summarized in a hierarchical graphical model:
@@ -69,9 +70,10 @@ We test on the non-mutually exclusive few-shot classification problems, for whic
 
 ## Takeaways
 * Memorization is a prevalent problem in many meta-learning applications and algorithms  
-* Memorization problem is a task-level overfitting problem; it differs from standard datapoint-level overfitting. The model can generalize to *new points* within a training task, but cannot generalize to a *new task*
+* Memorization problem is meta-overfitting at the task level; it differs from standard datapoint-level overfitting. The model can generalize to *new points* within a training task, but cannot generalize to a *new task*
 * Meta-regularization can effectively control the memorization problem, which expands the meta-learning to the domains that it was once hard to be effective on
 * 👉 Keep calm and remain adaptive!
+
 
 Thanks to the collaborations of Drs. George Tucker, Mingyuan Zhou, Sergey Levine and Chelsea Finn
 
