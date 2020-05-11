@@ -12,7 +12,7 @@ use_math: true
 
 Consider how people learn as students. In the morning, we go to school, taking classes and answering questions asked by teachers. In the evening, we go back home, finishing homeworks and checking the answer keys. This daily routine can be considered as solving a task everyday, with task training in class and validation at home. In the end, when graduate from school, we not only obtain specific knowledge, but learn how to learn. Meta-learning is a paradigm in artificial intelligence that mimics such learning procedure. By leveraging experience from previous tasks, the algorithm aims to be able to solve a new task by fast adapting to a few training data. However, to develop the adapting ability, the learner has to avoid a problematic approach which we call it memorization in meta-learning.
 
-TL;DR: In this paper, we aim to answer the main questions: What is the memorization problem in meta-learning? Why does memorization problem happen? How can we prevent the memorization problem?
+TL;DR: In this paper, we aim to answer the main questions: What is the memorization problem in meta-learning? Why does the memorization problem happen? How can we prevent the memorization problem?
 
 
 ## Basics
