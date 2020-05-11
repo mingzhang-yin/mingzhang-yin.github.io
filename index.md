@@ -16,7 +16,7 @@ title: Home
    
   <p> I will join the <a href="https://datascience.columbia.edu">Data Science Institute </a> at <a href="https://www.columbia.edu">Columbia University </a> as a post-doctoral fellow, mentored by <a href="http://www.cs.columbia.edu/~blei/">Prof. David Blei </a> and <a href="http://stat.columbia.edu/department-directory/name/simon-tavare/">Prof. Simon Tavaré </a>.</p>
   
- <p> I am broadly interested in Bayesian statistics and machine learning.  My thesis research has been focused on the variational methods with statistical dependence structures, by designing fast, accurate algorithms and analyzing their theoretical properties. My research interests are: </p>
+ <p> I am broadly interested in Bayesian statistics and machine learning.  My thesis research has been focused on the variational methods with dependence structures, by designing fast and accurate algorithms, and analyzing their theoretical properties. My research interests are: </p>
   <p>
   <ul>
    <li> (Approximate) Bayesian inference </li>
