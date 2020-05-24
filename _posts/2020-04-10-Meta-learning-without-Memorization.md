@@ -10,7 +10,7 @@ use_math: true
 >  Paper link: [OpenReview.net](https://openreview.net/pdf?id=BklEFpEYwS)    
 >  Code link: [Google Research Github](https://github.com/google-research/google-research/tree/master/meta_learning_without_memorization)
 
-Consider how people learn as students. In the morning, we go to school, taking classes and answering questions asked by teachers. In the evening, we go back home, finishing homeworks and checking the answer keys. This daily routine can be considered as solving a task everyday, with task training in class and validation at home. In the end, when graduate from school, we not only obtain specific knowledge, but learn how to learn. Meta-learning is a paradigm in artificial intelligence that mimics such learning procedure. By leveraging experience from previous tasks, the algorithm aims to be able to solve a new task by fast adapting to a few training data. However, to develop the adapting ability, the learner has to avoid a problematic approach which we refer to as the memorization in meta-learning.
+To start with, let's consider how people learn as students. In the morning, we go to school, taking classes and answering questions asked by teachers. In the evening, we go back home, finishing homeworks and checking the answer keys. This daily routine can be considered as solving a task everyday, with task training in class and validation at home. In the end, when graduate from school, we not only obtain specific knowledge, but learn how to learn. Meta-learning is a paradigm in artificial intelligence that mimics such learning procedure. By leveraging experience from previous tasks, the algorithm aims to be able to solve a new task by fast adapting to a few training data. However, to develop the adapting ability, the learner has to avoid a problematic approach which we refer to as the memorization in meta-learning.
 
 TL;DR: In this paper, we aim to answer the main questions: What is the memorization problem in meta-learning? Why does the memorization problem happen? How can we prevent it?
 
@@ -38,7 +38,7 @@ By training on multiple correlated tasks, the model develops a fast adaptation a
 </center>
 
 
-We call this phenomenon as the $($complete$)$ memorization problem in meta-learning and formally define it as
+We call this phenomenon as the $($complete$)$ memorization problem in meta-learning. We formally define it as
  
 $$I(\hat{y}^{\star};\mathcal{D} | x^{\star}, \mathcal{M})=0$$
 
