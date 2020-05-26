@@ -19,7 +19,7 @@ title: Home
  <p> I am broadly interested in Bayesian statistics and machine learning.  My thesis has focused on the variational methods with dependence structures, by designing fast and accurate algorithms, and analyzing their theoretical properties. My research interests are: </p>
   <p>
   <ul>
-   <li> (Approximate) Bayesian inference </li>
+   <li> Approximate Bayesian inference </li>
    <li> Causal inference </li>
    <li> Information theory, asymptotics </li>
    <li> Meta-learning and domain adaptation</li>
