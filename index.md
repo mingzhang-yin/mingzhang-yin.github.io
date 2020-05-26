@@ -10,7 +10,7 @@ title: Home
 <div>
 <div class="row">
   <p>
- I am from Kunming, a beautiful city in China. I got my PhD from the <a href="https://stat.utexas.edu">Department of Statistics and Data Sciences</a> at
+ I am from Kunming, a beautiful city in southwest China. I got my PhD from the <a href="https://stat.utexas.edu">Department of Statistics and Data Sciences</a> at
   <a href="https://www.utexas.edu">The University of Texas at Austin</a>. I was fortunately to be advised by
   <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a>.  Before coming to UT, I spent four years as undergraduate in the <a href="http://math.fudan.edu.cn/olden/Index.htm"> School of Mathematical Sciences</a> at <a href="http://www.fudan.edu.cn/en/"> Fudan University</a>. </p>
    
