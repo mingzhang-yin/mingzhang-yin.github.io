@@ -20,7 +20,7 @@ International Conference on Learning Representations (ICLR), **Spotlight, Top 5%
 
 
 Probabilistic Best Subset Selection via Gradient-Based Optimization
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Nhat Ho, Bowei Yan, Xiaoning Qian, Mingyuan Zhou  <br> [pdf](https://arxiv.org/pdf/2006.06448.pdf)
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Nhat Ho, Bowei Yan, Xiaoning Qian, Mingyuan Zhou  <br> [pdf](https://arxiv.org/pdf/2006.06448.pdf), [code](https://github.com/mingzhang-yin/Probabilistic-Best-Subset)
  
 ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks 
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
