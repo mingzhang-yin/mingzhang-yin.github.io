@@ -17,11 +17,15 @@ International Conference on Machine Learning (ICML), **Long talk**.  [pdf](http:
 Meta-Learning without Memorization
  <br> <span style="font-size:14px"> **Mingzhang Yin**, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn  <br>
 International Conference on Learning Representations (ICLR), **Spotlight, Top 5%**. Short version in Meta-Learning Workshop, (NeurIPS MetaLearn). [pdf](https://arxiv.org/pdf/1912.03820.pdf), [code](https://github.com/mingzhang-yin/Meta-learning-without-memorization), <a href="https://mingzhang-yin.github.io/assets/pdfs/memo_poster.pdf" target="_blank">poster</a>, <a href="http://ai.stanford.edu/~cbfinn/_files/neurips19_memorization.pdf" target="_blank">slides by Chelsea</a>, <a href="https://slideslive.com/38921876/bayesian-deep-learning-3" target="_blank">talk by Chelsea</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/iclr2020_slides.pdf" target="_blank">slides by Mingzhang</a>, <a href="https://youtu.be/emUvd3WqHMs" target="_blank">talk by Mingzhang</a> and <a href="https://mingzhang-yin.github.io/2020/04/10/Meta-learning-without-Memorization.html" target="_blank">blog</a> 
- 
+
+
+Probabilistic Best Subset Selection via Gradient-Based Optimization
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Nhat Ho, Bowei Yan, Xiaoning Qian, Mingyuan Zhou  <br>
+[pdf](https://arxiv.org/pdf/2006.06448.pdf)
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Y. X. Rachel Wang, Purnamrita Sarkar  <br>
-International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf](https://arxiv.org/abs/1907.12203)  
+International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf](https://arxiv.org/abs/1907.12203), <a href="https://mingzhang-yin.github.io/assets/pdfs/vips_slides.pdf" target="_blank">slides</a>  
 
 ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks 
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
@@ -30,7 +34,11 @@ International Conference on Learning Representations (ICLR), **Top 10%**.  [pdf]
  
 Discrete Action On-Policy Learning with Action-Value Critic
 <br> <span style="font-size:14px">  Yuguang Yue, Yunhao Tang, **Mingzhang Yin** and Mingyuan Zhou <br>
-International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf]()  
+International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf](https://arxiv.org/pdf/2002.03534.pdf)  
+ 
+Pairwise Supervised Hashing with Bernoulli Variational Auto-Encoder and Self-Control Gradient Estimator
+<br> <span style="font-size:14px"> Siamak Zamani Dadaneh, Shahin Boluki, **Mingzhang Yin**, Mingyuan Zhou, Xiaoning Qian<br>
+The Conference on Uncertainty in Artificial Intelligence (UAI). [pdf](https://arxiv.org/pdf/2005.10477.pdf)
  
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
 <br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
@@ -39,7 +47,6 @@ International Conference on Machine Learning (ICML).  [pdf](https://arxiv.org/ab
 Semi-Implicit Generative Model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
  Workshop on Bayesian Deep Learning, (NeurIPS BDL). [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf) and <a href="https://mingzhang-yin.github.io/assets/pdfs/sigmo_poster.pdf">poster </a> </span>
-
 
 Convergence of Gradient EM on Multi-component Mixture of Gaussians
  <br> <span style="font-size:14px"> Bowei Yan, **Mingzhang Yin**, and Purnamrita Sarkar  <br>
