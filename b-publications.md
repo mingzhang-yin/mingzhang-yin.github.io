@@ -11,7 +11,7 @@ ___
 -->  
 Semi-Implicit Variational Inference
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-International Conference on Machine Learning (ICML), **Long talk**.  [pdf](http://proceedings.mlr.press/v80/yin18b/yin18b.pdf), <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_ICML.pdf" target="_blank">slides</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/SIVI_poster.pdf" target="_blank">poster</a>, <a href="https://github.com/mingzhang-yin/SIVI" target="_blank">codes</a> and <a href="https://vimeo.com/294655456" target="_blank"> talk </a> 
+International Conference on Machine Learning (ICML), **Long talk**.  [pdf](http://proceedings.mlr.press/v80/yin18b/yin18b.pdf), <a href="https://github.com/mingzhang-yin/mingzhang-yin.github.io/blob/master/assets/pdfs/SIVI_ICML.pdf" target="_blank">slides</a>, <a href="https://mingzhang-yin.github.io/assets/pdfs/SIVI_poster.pdf" target="_blank">poster</a>, <a href="https://github.com/mingzhang-yin/SIVI" target="_blank">code</a> and <a href="https://vimeo.com/294655456" target="_blank"> talk </a> 
  </span>
  
 Meta-Learning without Memorization
@@ -24,7 +24,7 @@ Probabilistic Best Subset Selection via Gradient-Based Optimization
  
 ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks 
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
-International Conference on Learning Representations (ICLR), **Top 10%**.  [pdf](https://openreview.net/pdf?id=S1lg0jAcYm), <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">codes </a> and <a href="https://mingzhang-yin.github.io/assets/pdfs/ARM_slides_binary.pdf" target="_blank">slides </a>
+International Conference on Learning Representations (ICLR), **Top 10%**.  [pdf](https://openreview.net/pdf?id=S1lg0jAcYm), <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">code </a> and <a href="https://mingzhang-yin.github.io/assets/pdfs/ARM_slides_binary.pdf" target="_blank">slides </a>
  </span>
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
