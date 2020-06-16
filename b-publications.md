@@ -49,7 +49,7 @@ Semi-Implicit Generative Model
 
 Convergence of Gradient EM on Multi-component Mixture of Gaussians
  <br> <span style="font-size:14px"> Bowei Yan, **Mingzhang Yin**, and Purnamrita Sarkar  <br>
-Advances in Neural Information Processing Systems (NeurIPS).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians), <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">codes </a> and <a href="https://mingzhang-yin.github.io/assets/pdfs/2017nips_poster.pdf">poster </a>  </span>
+Advances in Neural Information Processing Systems (NeurIPS).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians), <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">code </a> and <a href="https://mingzhang-yin.github.io/assets/pdfs/2017nips_poster.pdf">poster </a>  </span>
 
 <!--
 ### Pre-prints
