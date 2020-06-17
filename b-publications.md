@@ -29,7 +29,7 @@ International Conference on Learning Representations (ICLR), **Top 10%**.  [pdf]
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Y. X. Rachel Wang, Purnamrita Sarkar  <br>
-International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf](https://arxiv.org/abs/1907.12203), <a href="https://mingzhang-yin.github.io/assets/pdfs/vips_slides.pdf" target="_blank">slides</a>  
+International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf](http://proceedings.mlr.press/v108/yin20a/yin20a.pdf), <a href="https://mingzhang-yin.github.io/assets/pdfs/vips_slides.pdf" target="_blank">slides</a>  
 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
 <br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
