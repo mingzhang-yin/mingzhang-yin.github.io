@@ -3,7 +3,7 @@ layout: page
 title: Misc
 ---
 
-Download my [CV](https://mingzhang-yin.github.io/assets/pdfs/CV_Mingzhang%20Yin.pdf)
+Download my [CV](https://mingzhang-yin.github.io/assets/pdfs/CV_Mingzhang%20Yin.pdf)(updated on 06/15/2020)
 
 ___
 
