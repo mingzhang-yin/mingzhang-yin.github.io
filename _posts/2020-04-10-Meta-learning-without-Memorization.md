@@ -40,9 +40,9 @@ By training on multiple correlated tasks, the model develops a fast adaptation a
 
 We call this phenomenon as the $($complete$)$ memorization problem in meta-learning. We formally define it as
  
-\begin{equation}
+\begin{equation*}
 I(\hat{y}^{\star};\mathcal{D} | x^{\star}, \mathcal{M})=0
-\end{equation}
+\end{equation*}
 
 which means the predicted label and the task training data are conditionally independent.
 
@@ -53,11 +53,15 @@ Notice the memorization problem is closely related to the task distribution. We 
 ## Meta-Regularization
 Based on the above analysis and the graphical model, we find that the information that is used to predict the task test labels comes from the meta-traing data $\mathcal{M}$, task training data $\mathcal{D}$ and task test input $x^\star$. Hence, if we can limit the information that flows from $\mathcal{M}$ and $x^\star$, and in the meantime ask for accurate predictions, we can encourage the model to use the information in $\mathcal{D}$ rather than ignoring it. Using the inequalities in information and PAC-Bayes theory, one approach to the meta-regularization we derived is based on the information bottleneck, which regularizes
 
-$$D_{KL}(q(z^\star | x^\star, \theta)||r(z^\star ))$$
+\begin{equation*}
+D_{KL}(q(z^\star | x^\star, \theta)||r(z^\star ))
+\end{equation*}
 
 The other approach is to regularize
 
-$$D_{KL}(q(\theta | \mathcal{M})||r(\theta))$$
+\begin{equation*}
+D_{KL}(q(\theta | \mathcal{M})||r(\theta))$$
+\end{equation*}
 
 where $\theta$ are the parameters of an encoder: $x \to z$. Notice we should only regularize the parameters that are not used in the adaptation, which differs from stardand regularizations. Combining the meta-regularization with the objectives in Model Agnostic Meta-Learning $($MAML$)$ and Conditional Neural Process $($CNP$)$, we name our proposed new algorithms as MR-MAML and MR-CNP. We apply them to several datasets where the tasks are non-mutually exclusive, where the standard meta-learning algorithms can fail. The algorithms are tested on a pose prediction dataset where the goal is to predict the orientations of 3D objects by looking at their 2D images. Our methods outperform the compared methods by a large margin
 
