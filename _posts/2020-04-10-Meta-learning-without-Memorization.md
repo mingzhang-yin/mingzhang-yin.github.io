@@ -40,7 +40,9 @@ By training on multiple correlated tasks, the model develops a fast adaptation a
 
 We call this phenomenon as the $($complete$)$ memorization problem in meta-learning. We formally define it as
  
-$$I(\hat{y}^{\star};\mathcal{D} | x^{\star}, \mathcal{M})=0$$
+\[
+I(\hat{y}^{\star};\mathcal{D} | x^{\star}, \mathcal{M})=0
+\]
 
 which means the predicted label and the task training data are conditionally independent.
 
