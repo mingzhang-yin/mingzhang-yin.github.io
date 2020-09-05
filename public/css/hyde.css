@@ -38,7 +38,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(0,0,0,0.9);
+  color: rgba(0,0,0,0.75);
   background-color:#a8cee2;
 }
 @media (min-width: 48em) {
