@@ -15,5 +15,5 @@ Here is a quote from my favorite mathematician that inspires me:
 
 — Récoltes et Semailles, Alexander Grothendieck
 
-Besides reading scientific papers, I like playing tennis, hiking, reading literatures by Tagore, Hesse, Hume, and many Taiwanese writers. 
+I like playing tennis, hiking, cooking, reading literatures by Tagore, Hesse, Hume, and many Taiwanese writers. 
 
