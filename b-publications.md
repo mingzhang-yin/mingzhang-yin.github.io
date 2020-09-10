@@ -30,7 +30,7 @@ International Conference on Learning Representations (ICLR), **Top 10%**.  [pdf]
  
  
 Probabilistic Best Subset Selection via Gradient-Based Optimization
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Nhat Ho, Bowei Yan, Xiaoning Qian, Mingyuan Zhou  <br> [pdf](https://arxiv.org/pdf/2006.06448.pdf), [code](https://github.com/mingzhang-yin/Probabilistic-Best-Subset)
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Nhat Ho, Bowei Yan, Xiaoning Qian, Mingyuan Zhou  <br> In submission. [pdf](https://arxiv.org/pdf/2006.06448.pdf), [code](https://github.com/mingzhang-yin/Probabilistic-Best-Subset)
 
 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
