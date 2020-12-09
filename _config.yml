@@ -27,6 +27,7 @@ url: "https://mingzhang-yin.github.io" # the base hostname & protocol for your s
 # Social media usernames
 github_username:      mingzhang-yin
 twitter_username:     Mingzhangyin
+google:     Mingzhangyin
 
 #maruku 
 markdown: kramdown
