@@ -20,9 +20,9 @@ I got my PhD in <a href="https://stat.utexas.edu">Statistics </a> from <a href="
   <ul>
    <li> Approximate Bayesian inference </li>
    <li> Causal inference </li>
-   <li> Information theory, asymptotics </li>
+   <li> Distribution shift</li>
    <li> Meta-learning and domain adaptation</li>
-   <li> Cancer research</li>
+   <li> Information theory, asymptotics </li>
   </ul>
   
 
