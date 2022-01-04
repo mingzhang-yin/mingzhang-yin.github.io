@@ -19,7 +19,7 @@ I got my PhD in <a href="https://stat.utexas.edu">Statistics </a> from <a href="
 I am working in the areas of Bayesian statistics, machine learning, and causal inference.  <a                                                                                           href="https://repositories.lib.utexas.edu/bitstream/handle/2152/83980/YIN-DISSERTATION-2020.pdf?sequence=1&isAllowed=y">My thesis </a> focuses on the variational methods with dependence structures. The topics that I am interested in include </p>
   <p>
   <ul>
-   <li> Approximate Bayesian inference </li>
+   <li> Bayesian inference and modeling </li>
    <li> Causal inference </li>
    <li> Distribution shift</li>
    <li> Information theory, asymptotics </li>
