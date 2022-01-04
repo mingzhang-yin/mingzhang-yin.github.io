@@ -22,7 +22,6 @@ I am working in the areas of Bayesian statistics, machine learning, and causal i
    <li> Approximate Bayesian inference </li>
    <li> Causal inference </li>
    <li> Distribution shift</li>
-   <li> Meta-learning and domain adaptation</li>
    <li> Information theory, asymptotics </li>
   </ul>
   
