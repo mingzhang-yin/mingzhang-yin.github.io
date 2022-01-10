@@ -10,7 +10,7 @@ title: Home
 <div>
 <div class="row">
   <p>
- <p> I am a postdoctoral research scientist at the <a href="https://datascience.columbia.edu">Data Science Institute</a>, <a href="https://www.columbia.edu">Columbia University</a>, working with <a href="http://www.cs.columbia.edu/~blei/">Prof. David M. Blei</a> on the interface of causal inference and machine learning.</p>
+ <p> I am a postdoctoral research scientist at the <a href="https://datascience.columbia.edu">Data Science Institute</a>, <a href="https://www.columbia.edu">Columbia University</a>, working with <a href="http://www.cs.columbia.edu/~blei/">Prof. David M. Blei</a> on the intersection of causal inference and machine learning.</p>
  
 I got my PhD in <a href="https://stat.utexas.edu">Statistics </a> from <a href="https://www.utexas.edu">The University of Texas at Austin</a> where I was fortunate to work with my advisor
   <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a>.  Before coming to UT, I spent four years as undergraduate at the <a href="https://math.fudan.edu.cn/mathen/main.htm"> School of Mathematical Sciences</a> in <a href="http://www.fudan.edu.cn/en/"> Fudan University</a>, Shanghai. </p>
