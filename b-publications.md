@@ -11,7 +11,7 @@ ___
 -->  
 
 Conformal Sensitivity Analysis for Individual Treatment Effects
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> In submission to Journal of American Statistical Association . [pdf](https://arxiv.org/pdf/2112.03493.pdf), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis)
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> In submission to Journal of American Statistical Association. [pdf](https://arxiv.org/pdf/2112.03493.pdf), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis)
 
 Optimization-Based Causal Estimation from Heterogeneous Environments
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> In submission to Journal of Machine Learning Research. [pdf](https://arxiv.org/pdf/2109.11990.pdf), [code](https://github.com/mingzhang-yin/CoCo)
