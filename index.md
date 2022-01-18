@@ -25,4 +25,6 @@ I am working in the areas of Bayesian statistics, machine learning, and causal i
   </ul>
   
 
+My [CV](https://mingzhang-yin.github.io/assets/pdfs/CV_Mingzhang%20Yin.pdf) (updated on 12/15/2021).
+
 
