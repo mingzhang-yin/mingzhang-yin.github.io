@@ -19,9 +19,9 @@ I am working in the areas of Bayesian statistics, machine learning, and causal i
   <p>
   <ul>
    <li> Bayesian inference and modeling </li>
-   <li> Distribution shift</li>
-   <li> Information theory, asymptotics </li>
+   <li> Distribution shift </li>
    <li> Uncertainty estimation </li>
+   <li> Information theory, asymptotics </li>
    <li> Quasi-experimental design</li>
   </ul>
   
