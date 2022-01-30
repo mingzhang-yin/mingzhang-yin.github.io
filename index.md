@@ -19,7 +19,7 @@ I am working in the areas of Bayesian statistics, machine learning, and causal i
   <p>
   <ul>
    <li> <ins>Causal inference and machine learning</ins>: causal identification, sensitivity analysis, quasi-experimental design </li>
-   <li> <ins>Bayesian inference and modeling</ins>: variational inference, uncertainty estimation, discrete variables, asymptotics </li>
+   <li> <ins>Bayesian inference and modeling</ins>: variational inference, uncertainty estimation, discrete variable, asymptotics </li>
    <li> <ins>Distribution shift</ins>: meta-learning, domain adaptation, distributionally robust optimization </li>
   </ul>
   
