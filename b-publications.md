@@ -17,8 +17,7 @@ Optimization-Based Causal Estimation from Heterogeneous Environments
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> In submission to Journal of Machine Learning Research. [pdf](https://arxiv.org/pdf/2109.11990.pdf), [code](https://github.com/mingzhang-yin/CoCo)
  
 Partial Identification with Noisy Covariates: A Robust Optimization Approach 
-<br> <span style="font-size:14px">  Wenshuo Guo, **Mingzhang Yin**, Yixin Wang, Michael I. Jordan   <br> Causal Learning and Reasoning (CLeaR). [pdf]()
- 
+<br> <span style="font-size:14px">  Wenshuo Guo, **Mingzhang Yin**, Yixin Wang, Michael I. Jordan   <br> Causal Learning and Reasoning (CLeaR). [pdf](https://openreview.net/pdf?id=-NVBxy0TdU)
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Y. X. Rachel Wang, Purnamrita Sarkar  <br>
