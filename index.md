@@ -26,7 +26,7 @@ I am working in the areas of Bayesian statistics, machine learning, and causal i
   </ul>
   
 
-My <a href="https://mingzhang-yin.github.io/assets/pdfs/CV_Mingzhang%20Yin.pdf">CV </a> (updated on 12/15/2021).
+A copy of my CV is available <a href="https://mingzhang-yin.github.io/assets/pdfs/CV_Mingzhang%20Yin.pdf">here </a> (updated on 12/15/2021).
 
 
 
