@@ -12,7 +12,7 @@ ___
  
  
 Probabilistic Conformal Prediction Using Conditional Random Samples
-<br> <span style="font-size:14px">  Zhendong Wang\*, Ruijiang Gao\*, <b>Mingzhang Yin* </b>, Mingyuan Zhou, David M. Blei   <br> Under review. Short version accepted by ICML 2022 Workshop DFUQ, **Spotlight**. [pdf](https://arxiv.org/pdf/2206.06584.pdf), [code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
+<br> <span style="font-size:14px">  Zhendong Wang\*, Ruijiang Gao\*, <b>Mingzhang Yin* </b>, Mingyuan Zhou, David M. Blei  (*=equal contribution)  <br> Under review. Short version accepted by ICML 2022 Workshop DFUQ, **Spotlight**. [pdf](https://arxiv.org/pdf/2206.06584.pdf), [code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
 
 Conformal Sensitivity Analysis for Individual Treatment Effects
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> Under review. [pdf](https://arxiv.org/pdf/2112.03493.pdf), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis)
@@ -38,7 +38,7 @@ Probabilistic Best Subset Selection via Gradient-Based Optimization
 
 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
-<br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  <br>
+<br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou  (*=equal contribution) <br>
 International Conference on Machine Learning (ICML).  [pdf](https://arxiv.org/abs/1905.01413), <a href="https://mingzhang-yin.github.io/assets/pdfs/errata.pdf">errata </a> and <a href="">poster </a> </span>
 
  
