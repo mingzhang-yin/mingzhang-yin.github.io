@@ -11,7 +11,7 @@ ___
 -->  
 
 Probabilistic Conformal Prediction Using Conditional Random Samples
-<br> <span style="font-size:14px">  Zhendong Wang*, Ruijiang Gao*, <b>Mingzhang Yin* </b>, Mingyuan Zhou, David M. Blei   <br> Under review. [pdf](https://arxiv.org/pdf/2206.06584.pdf) [code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
+<br> <span style="font-size:14px">  Zhendong Wang*, Ruijiang Gao*, <b>Mingzhang Yin* </b>, Mingyuan Zhou, David M. Blei   <br> Under review. Short version accepted by ICML 2022 Workshop DFUQ, **Spotlight** [pdf](https://arxiv.org/pdf/2206.06584.pdf) [code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
 
 Conformal Sensitivity Analysis for Individual Treatment Effects
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> Under review. [pdf](https://arxiv.org/pdf/2112.03493.pdf), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis)
@@ -21,7 +21,7 @@ Partial Identification with Noisy Covariates: A Robust Optimization Approach
  
  
 Optimization-Based Causal Estimation from Heterogeneous Environments
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Under review. [pdf](https://arxiv.org/pdf/2109.11990.pdf), [code](https://github.com/mingzhang-yin/CoCo)
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Under review. Short version accepted by ICML 2022 Workshop SCIS [pdf](https://arxiv.org/pdf/2109.11990.pdf), [code](https://github.com/mingzhang-yin/CoCo)
  
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
