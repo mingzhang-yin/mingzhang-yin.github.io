@@ -22,7 +22,7 @@ Partial Identification with Noisy Covariates: A Robust Optimization Approach
  
  
 Optimization-Based Causal Estimation from Heterogeneous Environments
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Under review. Short version accepted by ICML 2022 Workshop SCIS [pdf](https://arxiv.org/pdf/2109.11990.pdf), [code](https://github.com/mingzhang-yin/CoCo)
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Under review. Short version accepted by ICML 2022 Workshop SCIS. [pdf](https://arxiv.org/pdf/2109.11990.pdf), [code](https://github.com/mingzhang-yin/CoCo)
  
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
