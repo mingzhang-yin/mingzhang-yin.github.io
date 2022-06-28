@@ -8,6 +8,8 @@ ___
 
 <!--
 ### Publication 
+
+*=equal contribution
 -->  
 
 Probabilistic Conformal Prediction Using Conditional Random Samples
