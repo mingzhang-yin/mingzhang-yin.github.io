@@ -7,9 +7,8 @@ title: Publication
 ___ 
 
 <!--
-### Publication 
+### Publication <br> <i> <span style="font-size:12px">  *=equal contribution </i>  <br>
 -->  
-<br> <i> <span style="font-size:12px">  *=equal contribution </i>  <br>
  
  
 Probabilistic Conformal Prediction Using Conditional Random Samples
