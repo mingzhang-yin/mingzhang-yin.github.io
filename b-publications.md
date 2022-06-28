@@ -9,7 +9,8 @@ ___
 <!--
 ### Publication 
 -->  
-.small[*=equal contribution]
+
+<br> <span style="font-size:10px">  *=equal contribution  <br>
 
 Probabilistic Conformal Prediction Using Conditional Random Samples
 <br> <span style="font-size:14px">  Zhendong Wang\*, Ruijiang Gao\*, <b>Mingzhang Yin* </b>, Mingyuan Zhou, David M. Blei   <br> Under review. Short version accepted by ICML 2022 Workshop DFUQ, **Spotlight**. [pdf](https://arxiv.org/pdf/2206.06584.pdf), [code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
