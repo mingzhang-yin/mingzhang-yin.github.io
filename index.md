@@ -23,7 +23,7 @@ title: Home
   <ul>
    <li> <ins>Causal inference and machine learning</ins>: heterogeneous treatment effects, sensitivity analysis, quasi-experimental design </li>
    <li> <ins>Bayesian inference and modeling</ins>: variational inference, uncertainty estimation, discrete model, meta-learning, asymptotics </li>
-   <li> <ins>Marketing research</ins>: customer analytics, online advertising, text data analysis
+   <li> <ins>Marketing research</ins>: customer analytics, online advertising, text data analysis </li>
   </ul>
 
 <p> A copy of my CV is available <a href="https://mingzhang-yin.github.io/assets/pdfs/CV_Mingzhang%20Yin.pdf">here </a> (updated on 07/01/2022). </p>
