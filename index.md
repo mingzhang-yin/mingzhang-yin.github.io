@@ -16,7 +16,7 @@ title: Home
  
 <p>  I received my Ph.D. in <a href="https://stat.utexas.edu">Statistics </a> from <a href="https://www.utexas.edu">The University of Texas at Austin</a> where I was supervised by <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a>.  Before coming to UT, I spent four years as undergraduate at the <a href="https://math.fudan.edu.cn/mathen/main.htm"> School of Mathematical Sciences</a> in <a href="http://www.fudan.edu.cn/en/"> Fudan University</a>, Shanghai. </p>
  
-<p>  In the fall 2022, I will join the University of Florida, Warrington College of Business, <a href="https://warrington.ufl.edu/marketing-department/">Marketing department </a> as a tenure track assistant professor. </p>
+<p>  In the fall 2022, I will join the University of Florida, Warrington College of Business, <a href="https://warrington.ufl.edu/marketing-department/">Marketing department </a> as an assistant professor. </p>
 
  
 <p> My research focues on the intersection of marketing, Bayesian statistics, machine learning, and causal inference. The topics I am interested in include </p>
