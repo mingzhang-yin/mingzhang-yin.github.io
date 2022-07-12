@@ -21,8 +21,9 @@ title: Home
 <p> My research focues on the intersection of marketing, Bayesian statistics, machine learning, and causal inference. The topics I am interested in include </p>
 
   <ul>
-   <li> <ins>Causal inference and machine learning</ins>: heterogeneous treatment effects, sensitivity analysis, quasi-experimental design </li>
-   <li> <ins>Bayesian inference and modeling</ins>: variational inference, uncertainty estimation, discrete model, meta-learning, asymptotics </li>
+   <li> <ins>Probabilistic machine learning</ins>: meta-learning, deep generative model, conformal inference</li>
+   <li> <ins>Bayesian inference and modeling</ins>: variational inference, uncertainty estimation, discrete model, variable selection, asymptotics </li>
+   <li> <ins>Causal inference</ins>: heterogeneous treatment effects, sensitivity analysis, quasi-experimental design </li>
    <li> <ins>Marketing research</ins>: customer analytics, online advertising, text data analysis </li>
   </ul>
 
