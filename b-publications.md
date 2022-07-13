@@ -15,7 +15,7 @@ Probabilistic Conformal Prediction Using Conditional Random Samples
 <br> <span style="font-size:14px">  Zhendong Wang\*, Ruijiang Gao\*, <b>Mingzhang Yin* </b>, Mingyuan Zhou, David M. Blei    <br> Under review. Short version accepted by ICML 2022 Workshop DFUQ, **Spotlight**. [pdf](https://arxiv.org/pdf/2206.06584.pdf), [code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
 
 Conformal Sensitivity Analysis for Individual Treatment Effects
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> Journal of the American Statistical Association T&M. [pdf](https://arxiv.org/pdf/2112.03493.pdf), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis)
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> Journal of the American Statistical Association T&M (Forthcoming). [pdf](https://arxiv.org/pdf/2112.03493.pdf), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis)
 
 Partial Identification with Noisy Covariates: A Robust Optimization Approach 
 <br> <span style="font-size:14px">  Wenshuo Guo, **Mingzhang Yin**, Yixin Wang, Michael I. Jordan   <br> Causal Learning and Reasoning (CLeaR). [pdf](https://openreview.net/pdf?id=-NVBxy0TdU)
