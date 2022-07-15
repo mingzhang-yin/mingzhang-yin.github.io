@@ -18,7 +18,7 @@ title: Home
 
 
  
-<p> My research focues on the intersection of marketing, Bayesian statistics, machine learning, and causal inference. The topics I am interested in include </p>
+<p> My research focues on the intersection of Bayesian statistics, machine learning, causal inference, and marketing research. The topics I am interested in include </p>
 
   <ul>
    <li> <ins>Probabilistic machine learning</ins>: deep generative model, meta-learning, conformal inference, asymptotics</li>
