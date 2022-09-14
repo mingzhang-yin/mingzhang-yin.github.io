@@ -22,7 +22,7 @@ title: Home
   <ul>
    <li> <ins>Probabilistic machine learning</ins>: deep generative model, meta-learning, conformal inference, asymptotics</li>
    <li> <ins>Bayesian inference and modeling</ins>: variational inference, uncertainty estimation, discrete model, variable selection </li>
-   <li> <ins>Causal inference</ins>: heterogeneous treatment effects, sensitivity analysis, quasi-experimental design </li>
+   <li> <ins>Causal inference</ins>: heterogeneous treatment effects, sensitivity analysis, quasi-experimental design, fairness </li>
    <li> <ins>Marketing research</ins>: customer analytics, online advertising, two-sided markets, unstructured data analysis </li>
   </ul>
 
