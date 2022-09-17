@@ -3,12 +3,13 @@ layout: page
 title: Publication 
 ---
 [//]: #  <span style="font-size:16px"> <a href="https://mingzhang-yin.github.io/assets/pdfs/reference.bib">Bibtex</a> </span> 
+
 ___ 
 
-
+<!--
+### Publication 
+-->  
 <small>*=equal contribution</small>
-
-### Probabilistic machine learning
  
 Probabilistic Conformal Prediction Using Conditional Random Samples
 <br> <span style="font-size:14px">  Zhendong Wang\*, Ruijiang Gao\*, <b>Mingzhang Yin* </b>, Mingyuan Zhou, David M. Blei    <br> Under review. Short version accepted by ICML 2022 Workshop DFUQ, **Spotlight**. [pdf](https://arxiv.org/pdf/2206.06584.pdf), [code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
@@ -20,23 +21,8 @@ Partial Identification with Noisy Covariates: A Robust Optimization Approach
 <br> <span style="font-size:14px">  Wenshuo Guo, **Mingzhang Yin**, Yixin Wang, Michael I. Jordan   <br> Causal Learning and Reasoning (CLeaR). [pdf](https://openreview.net/pdf?id=-NVBxy0TdU)
  
  
- 
-
-
-### Bayesian inference and modeling
-
-
-
-### Causal inference
-
-
-
-
-### Marketing research
-
-
- 
-
+Optimization-Based Causal Estimation from Heterogeneous Environments
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Under review. Short version accepted by ICML 2022 Workshop SCIS. [pdf](https://arxiv.org/pdf/2109.11990.pdf), [code](https://github.com/mingzhang-yin/CoCo)
  
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
