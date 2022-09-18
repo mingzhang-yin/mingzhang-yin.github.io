@@ -4,9 +4,4 @@ title: CV
 ---
 
 
-
-[comment]: # *Status*
-
-
-I like playing tennis, swimming, hiking, and mountain climbing. I enjoy cooking and trying new recipes. I’m into novels and nonfiction books. 
-
+<a href="https://mingzhang-yin.github.io/assets/pdfs/CV_Mingzhang%20Yin.pdf">here </a>
