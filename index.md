@@ -26,5 +26,5 @@ title: Home
    <li> <ins>Marketing research</ins>: customer analytics, online advertising, two-sided markets, unstructured data analysis </li>
   </ul>
 
-<p> A copy of my CV is available <a href="https://mingzhang-yin.github.io/assets/pdfs/CV_Mingzhang%20Yin.pdf">here </a> (updated on 07/01/2022). </p>
+
 
