@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Misc
+title: CV
 ---
 
 
