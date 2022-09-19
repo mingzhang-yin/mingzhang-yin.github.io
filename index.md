@@ -21,9 +21,9 @@ title: Home
 
   <ul>
    <li> <ins><a href="https://mingzhang-yin.github.io/pubs/pml.html">Probabilistic machine learning</a></ins>: deep generative model, meta-learning, conformal inference, asymptotics</li>
-   <li> <ins>Bayesian inference and modeling</ins>: variational inference, uncertainty estimation, discrete model, variable selection </li>
-   <li> <ins>Causal inference</ins>: heterogeneous treatment effects, sensitivity analysis, quasi-experimental design, fairness </li>
-   <li> <ins>Marketing research</ins>: customer analytics, online advertising, two-sided markets, unstructured data analysis </li>
+   <li> <ins><a href="https://mingzhang-yin.github.io/pubs/bayes.html">Bayesian inference and modeling</a></ins>: variational inference, uncertainty estimation, discrete model, variable selection </li>
+   <li> <ins><a href="https://mingzhang-yin.github.io/pubs/causal.html">Causal inference</a></ins>: heterogeneous treatment effects, sensitivity analysis, quasi-experimental design, fairness </li>
+   <li> <ins><a href="https://mingzhang-yin.github.io/index.html">Marketing research</a></ins>: customer analytics, online advertising, two-sided markets, unstructured data analysis </li>
   </ul>
  
  
