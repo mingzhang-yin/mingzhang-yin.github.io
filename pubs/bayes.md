@@ -4,7 +4,7 @@ layout: post
 comments: false
 ---
 
-<small></small>
+<br />
 
 Semi-Implicit Variational Inference
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
