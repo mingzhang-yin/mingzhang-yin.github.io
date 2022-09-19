@@ -1,6 +1,7 @@
 ---
 title: Bayesian inference and modeling
 layout: page
+exclude: true
 ---
 
 <br />

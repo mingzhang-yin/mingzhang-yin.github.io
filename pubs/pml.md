@@ -1,6 +1,7 @@
 ---
 title: Probabilistic machine learning
 layout: page
+exclude: true
 ---
 
 <br />

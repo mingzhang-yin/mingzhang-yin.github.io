@@ -1,6 +1,7 @@
 ---
 title: Causal inference
 layout: page
+exclude: true
 ---
 <br />
 
