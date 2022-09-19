@@ -1,7 +1,6 @@
 ---
 title: Causal inference
-layout: post
-comments: false
+layout: page
 ---
 <br />
 
