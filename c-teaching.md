@@ -6,3 +6,5 @@ active: projects
 
 &nbsp;
 
+[Marketing Analytics (Spring 2023)]()
+
