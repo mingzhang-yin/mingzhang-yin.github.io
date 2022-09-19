@@ -3,7 +3,7 @@ title: Causal inference
 layout: post
 comments: false
 ---
-<br />
+<br /><br />
 
 Optimization-Based Causal Estimation from Heterogeneous Environments
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Under review. Short version accepted by ICML 2022 Workshop SCIS. [pdf](https://arxiv.org/pdf/2109.11990.pdf), [code](https://github.com/mingzhang-yin/CoCo)
