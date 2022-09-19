@@ -1,7 +1,6 @@
 ---
 title: Bayesian inference and modeling
-layout: post
-comments: false
+layout: page
 ---
 
 <br />
