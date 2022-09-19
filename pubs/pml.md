@@ -1,7 +1,6 @@
 ---
 title: Probabilistic machine learning
-layout: post
-comments: false
+layout: page
 ---
 
 <br />
