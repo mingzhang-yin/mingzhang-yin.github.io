@@ -10,7 +10,6 @@ title: Home
 <div>
 <div class="row">
   <p>
-   <p> Welcome to my homepage! </p>
    
  <p> I am an assistant professor of <a href="https://warrington.ufl.edu/marketing-department/">Marketing</a> at the Warrington College of Business, the University of Florida. </p>
  
