@@ -20,7 +20,7 @@ title: Home
 <p> My research focuses on the intersection of Bayesian statistics, machine learning, causal inference, and marketing research. The topics I am interested in include </p>
 
   <ul>
-   <li> <a href="/pubs/pml.md">Probabilistic machine learning</a>: deep generative model, meta-learning, conformal inference, asymptotics</li>
+   <li> <a href="/pubs/pml.md"> <ins>Probabilistic machine learning </ins> </a>: deep generative model, meta-learning, conformal inference, asymptotics</li>
    <li> <ins>Bayesian inference and modeling</ins>: variational inference, uncertainty estimation, discrete model, variable selection </li>
    <li> <ins>Causal inference</ins>: heterogeneous treatment effects, sensitivity analysis, quasi-experimental design, fairness </li>
    <li> <ins>Marketing research</ins>: customer analytics, online advertising, two-sided markets, unstructured data analysis </li>
