@@ -11,7 +11,9 @@ title: Home
 <div class="row">
   <p>
    
- <p> I am an assistant professor of <a href="https://warrington.ufl.edu/marketing-department/">Marketing</a> at the Warrington College of Business, the University of Florida. </p>
+ <p> I am an assistant professor of Marketing at the Warrington College of Business, <a href="https://www.ufl.edu">the University of Florida</a>. </p>
+ 
+
  
 <p>  Previously, I was a postdoctoral scholar at the <a href="https://datascience.columbia.edu">Data Science Institute</a> and <a href="https://cancerdynamics.columbia.edu">IICD</a>, Columbia University, mentored by <a href="http://www.cs.columbia.edu/~blei/">Prof. David M. Blei</a> and <a href="https://en.wikipedia.org/wiki/Simon_Tavaré">Prof. Simon Tavaré</a>. I received my Ph.D. in Statistics from <a href="https://www.utexas.edu">The University of Texas at Austin</a>, supervised by <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a>.  Before coming to UT, I spent four years as undergraduate at the math department of <a href="http://www.fudan.edu.cn/en/"> Fudan University</a>, Shanghai. </p>
 
