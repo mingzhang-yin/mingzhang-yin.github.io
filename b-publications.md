@@ -12,7 +12,7 @@ ___
 <small>*=equal contribution</small>
 
 Conformal Sensitivity Analysis for Individual Treatment Effects
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> Journal of the American Statistical Association T&M. [pdf](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2102503), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis)
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> Journal of the American Statistical Association (JASA). [pdf](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2102503), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis)
 
 Probabilistic Conformal Prediction Using Conditional Random Samples
 <br> <span style="font-size:14px">  Zhendong Wang\*, Ruijiang Gao\*, <b>Mingzhang Yin* </b>, Mingyuan Zhou, David M. Blei    <br> Under review. Short version accepted by ICML 2022 Workshop DFUQ, **Spotlight**. [pdf](https://arxiv.org/pdf/2206.06584.pdf), [code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
