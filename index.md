@@ -11,7 +11,7 @@ title: Home
 <div class="row">
   <p>
    
- <p> I am an assistant professor of Marketing at the Warrington College of Business, the University of Florida. </p>
+ <p> I am an assistant professor of Marketing at the Warrington College of Business, <a href="https://www.ufl.edu">the University of Florida</a>. </p>
  
 
  
