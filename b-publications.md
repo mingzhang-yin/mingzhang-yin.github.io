@@ -16,14 +16,14 @@ Conformal Sensitivity Analysis for Individual Treatment Effects
 
  
  Gradient Estimation for Binary Latent Variables via Gradient Variance Clipping 
- <br> <span style="font-size:14px">   Russell Z Kunes, <b>Mingzhang Yin* </b>, Max Land, Doron Haviv, Dana Pe'er, Simon Tavaré    <br> Under review.  [pdf](https://arxiv.org/pdf/2208.06124.pdf), [code](https://github.com/russellkune/gradient-estimators)
+ <br> <span style="font-size:14px">   Russell Z Kunes, <b>Mingzhang Yin</b>, Max Land, Doron Haviv, Dana Pe'er, Simon Tavaré    <br> Under review.  [pdf](https://arxiv.org/pdf/2208.06124.pdf), [code](https://github.com/russellkune/gradient-estimators)
  
  
 Probabilistic Conformal Prediction Using Conditional Random Samples
 <br> <span style="font-size:14px">  Zhendong Wang\*, Ruijiang Gao\*, <b>Mingzhang Yin* </b>, Mingyuan Zhou, David M. Blei    <br> Under review. Short version accepted by ICML 2022 Workshop DFUQ, **Spotlight**. [pdf](https://arxiv.org/pdf/2206.06584.pdf), [code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
  
 Generalized Synthetic Control Method with State-Space Model
- <br> <span style="font-size:14px">   Junzhe Shao, <b>Mingzhang Yin* </b>, Xiaoxuan Cai, Linda Valeri   <br> Accepted by Workshop on Causality for Real-world Impact, NeurIPS 2022.    [pdf](https://openreview.net/forum?id=OwyiIBIFCrn)
+ <br> <span style="font-size:14px">   Junzhe Shao, <b>Mingzhang Yin</b>, Xiaoxuan Cai, Linda Valeri   <br> Accepted by Workshop on Causality for Real-world Impact, NeurIPS 2022.    [pdf](https://openreview.net/forum?id=OwyiIBIFCrn)
 
 Partial Identification with Noisy Covariates: A Robust Optimization Approach 
 <br> <span style="font-size:14px">  Wenshuo Guo, **Mingzhang Yin**, Yixin Wang, Michael I. Jordan   <br> Causal Learning and Reasoning (CLeaR). [pdf](https://openreview.net/pdf?id=-NVBxy0TdU)
