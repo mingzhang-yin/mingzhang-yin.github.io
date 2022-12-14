@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Marketing Analytics 2</title>
+    <meta name="description" content="Marketing Analytics 2 (R)">
+    <meta name="author" content="Mingzhang Yin">
+
+    <!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- <link rel="icon" href="images/favicon.ico" type="image/x-icon" /> -->
+
+    <!-- FONT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+    <!-- font-awesome -->
+    <link href="../../../css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+    <link href="../../../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Style CSS -->
+    <link href="../../../css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../css/normalize.css">
+    <link rel="stylesheet" href="../../../css/skeleton.css">
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar">
+<div id="main-wrapper">
+<!-- Page Preloader -->
+<div id="preloader">
+    <div id="status">
+        <div class="status-mes"></div>
+    </div>
+</div>
+
+<div class="columns-block container">
+
+
+
+<!-- <div class="four fixedcolumns"> -->
+    <!-- <header class="header theiaStickySidebar"> -->
+
+
+<!-- <div class="nine columns"> -->
+<!-- <div class="theiaStickySidebar"> -->
+<section class="expertise-wrapper section-wrapper gray-bg">
+    <!-- <div class="container-fluid"> -->
+        <!-- <div class="row"> -->
+
+<div class="ribbon">
+
+</div>
+<div>
+<h1>
+MAR 6669 Spring 2023
+</h1>
+<h1>
+Marketing Analytics 2 (R)
+</h1>
+</div>
+<hr />
+
+<div class="nav-bar">
+<p><a href="#overview">Overview</a> | <a href="#calendar">Course Calendar</a> | <a href="#lectures">Lecture Schedule</a> 
+</div>
+<hr />
+
+<h2 id="overview"><a name="overview">Overview</a></h2>
+
+<p>This course engages you to use data and statistical techniques to gain insights into consumer behavior and make informed decisions about marketing strategies. In the course, you will complete all of the steps in an analytics process. We will study how to collect and visualize data, how to analyze data with statistical and machine learning methods, and how to turn the numerical results  to marketing actions. </p>
+
+
+<p>At the end of this course students will be familiar with the
+data analytics paradigm, and have a solid understanding of how to use data to improve marketing performance. The course gives an introduction to the methodologies and computational tools for marketing data analysis through a hands-on data analysis
+approach.</p>
+
+
+
+
+<h3 id="syllabus">Syllabus</h3>
+
+<p>For course policies, course requirements, and grading policies,
+please see the syllabus [<a
+href="analytics_syllabus.pdf">link</a>].</p>
+
+<!-- <p>The main requirements of the course are just-in-time teaching (JiTT)
+questions (5%), weekly quizzes (24%), weekly homework assignments
+(55%), and one final project (16%). Only your top 8 quiz scores and
+your top 10 homework scores are counted.</p> -->
+
+<!-- <h3 id="piazza">Piazza</h3>
+<p>Students should sign up Piazza [<a href="https://piazza.com/umich/fall2022/stats451">link</a>] to join course discussions.</p>
+
+<p><b>All communications with the teaching team (the instructor and
+the GSIs) should be conducted over Piazza; please do not email. </b>
+If you'd like to reach the instructor or the GSIs for private
+questions, please post a private note on Piazza that is only visible
+to the instructor and the GSIs. See <a
+href="https://support.piazza.com/support/solutions/articles/48000616669-post-a-private-note">here</a>
+for detailed instructions.  The GSIs and the instructor will be
+monitoring piazza, endorsing correct student answers, and answering
+questions that remain after a discussion.</p>
+
+<p><b>As a bonus, up to 3 percentage points will be added to your
+final course grade based on piazza participation.</b> You will get
+(3x/100) bonus percentage points if the number of your total Piazza
+contributions lie in the top x-th quantile among all students. The
+number of Piazza contributions will be determined by Piazza class
+statistics.</p> -->
+
+<h3 id="teaching-staff">Instructor and Office Hours</h3>
+<ul>
+<li>Instructor: Mingzhang Yin </li>
+<ul>
+<li>Office Hour: Weekly <a
+href="https://calendar.google.com/calendar/embed?src=c_20a91f3ba6caa0e3763b8a82a23aaaca813181769c701065de6005626ebe54eb%40group.calendar.google.com&ctz=America%2FNew_York">Office
+Hours</a>. </li>
+</ul></li>
+
+<!-- <li>GSI: Unique Subedi
+<ul>
+
+<li>Office Hour: Mondays 2-3:30 pm (Angel Hall G219) and Fridays 3-4:30 pm (<a
+href="https://umich.zoom.us/j/95911345080">zoom</a>)</li> </ul></li> -->
+
+<!-- <h3 id="when-where">When and Where</h3> -->
+
+
+<h2 id="calendar"><a name="calendar">Course Calendar</a></h2>
+<ul>
+<li>Lecture: Mon/Wed 11:45 AM - 1:40 PM </li>
+<li>Location: Stuzin Hall 0102 </li>
+<li>Google Calendar: The Google Calendar below ideally contains all events and deadlines for student's convenience. Please feel free to add this calendar to your Google Calendar by clicking on the plus (+) button on the bottom right corner of the calendar below. Any adhoc changes to the schedule will be visible on the calendar first. </li>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_b1ebf2c2adbb58f5ff9134ed90b13d00be522da09ec42263ee2db1e8c1315384%40group.calendar.google.com&ctz=America%2FNew_York" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe></li>
+
+</ul>
+
+<!-- <h3 id="where-and-when">Where and When</h3> -->
+<!--| Tutorial Rooms   | GB 221, SS 1083, BA 1170 | BA 1220, BA 1200, BA 1210 |-->
+<!-- 
+<table>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left">Section 1</th>
+<th align="left">Section 2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Instructor</td>
+<td align="left">Yixin Wang</td>
+<td align="left">Matthew MacKay</td>
+</tr>
+<tr class="even">
+<td align="left">Lecture Time</td>
+<td align="left">Tuesday 13:00 - 15:00</td>
+<td align="left">Thursday 18:00 - 20:00</td>
+</tr>
+<tr class="odd">
+<td align="left">Lecture Room</td>
+<td align="left">SS 2135</td>
+<td align="left">SF 1105</td>
+</tr>
+<tr class="even">
+<td align="left">Tutorial Time</td>
+<td align="left">Thursday 14:00 - 15:00</td>
+<td align="left">Thursday 20:00 - 21:00</td>
+</tr>
+<tr class="odd">
+<td align="left">Tutorial Room</td>
+<td align="left">SS 2135</td>
+<td align="left">SF 1105</td>
+</tr>
+<tr class="even">
+<td align="left">Office Hour Time</td>
+<td align="left">Tuesday 15:00 - 16:00</td>
+<td align="left">Monday 14:00 - 15:00</td>
+</tr>
+<tr class="odd">
+<td align="left">Office Hour Room</td>
+<td align="left">BA 2283</td>
+<td align="left">BA 2283</td>
+</tr>
+</tbody>
+</table> -->
+
+<!-- 
+<h3 id="important-dates">Important Dates</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Date</th>
+<th align="left">Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2019.01.07</td>
+<td align="left">Semester begins</td>
+</tr>
+<tr class="even">
+<td align="left">2019.01.17</td>
+<td align="left">Wait list turned off</td>
+</tr>
+<tr class="odd">
+<td align="left">2019.01.20</td>
+<td align="left">Last day to add a course</td>
+</tr>
+<tr class="even">
+<td align="left"><em>2019.02.15</em></td>
+<td align="left">Midterm at 18:00 - 19:00 EX 100</td>
+</tr>
+<tr class="odd">
+<td align="left">2019.02.18</td>
+<td align="left">Family Day - University closed</td>
+</tr>
+<tr class="even">
+<td align="left">2019.03.17</td>
+<td align="left">Last day to drop a course / add CR/NCR option</td>
+</tr>
+<tr class="odd">
+<td align="left">2019.04.05</td>
+<td align="left">Last day of the classes</td>
+</tr>
+<tr class="even">
+<td align="left">2019.04.19</td>
+<td align="left">Good Friday - University closed</td>
+</tr>
+<tr class="odd">
+<td align="left"><em>2019.04.25</em></td>
+<td align="left">Final exam 09:00 - 12:00 BN 3</td>
+</tr>
+</tbody>
+</table> -->
+
+
+<!-- 
+
+<h3 id="academic-integrity">Academic Integrity</h3>
+
+<p>The University of Michigan community functions best when its members
+treat one another with honesty, fairness, respect, and trust. The
+college promotes the assumption of personal responsibility and
+integrity, and prohibits all forms of academic dishonesty and
+misconduct. All cases of academic misconduct will be referred to the
+LSA Office of the Assistant Dean for Undergraduate Education. Being
+found responsible for academic misconduct will usually result in a
+grade sanction, in addition to any sanction from the college. For more
+information, including examples of behaviors that are considered
+academic misconduct and potential sanctions, please see <a
+href="https://lsa.umich.edu/lsa/academics/academic-integrity.html">here</a>.</p>
+
+<h3 id="accommodation">Accommodation for Students with Disabilities</h3>
+
+<p>If you think you need accommodation for a disability, please let me
+know at your earliest convenience. Some aspects of this course, the
+assignments, the in-class activities, and the way the course is
+usually taught may be modified to facilitate your participation and
+progress. As soon as you make me aware of your needs, we can work with
+the Office of Services for Students with Disabilities (SSD) to help us
+determine appropriate academic accommodations. SSD (734-763-3000;
+http://ssd.umich.edu/) typically recommends accommodations through a
+Verified Individualized Services and Accommodations (VISA) form. Any
+information you provide is private and confidential and will be
+treated as such.</p>
+
+
+<h3 id="accommodation">Mental Health and Well-Being</h3>
+
+<p>Students may experience stressors that can impact both their academic
+experience and their personal well-being. These may include academic
+pressures and challenges associated with relationships, mental health,
+alcohol or other drugs, identities, finances, etc. If you are
+experiencing concerns, seeking help is a courageous thing to do for
+yourself and those who care about you. If the source of your stressors
+is academic, please contact me so that we can find solutions together.
+For personal concerns, U-M offers a variety of resources, many which
+are listed on the <a
+href="https://wellbeing.studentlife.umich.edu/resources-list">Resources
+for Student Well-being</a> webpage. You can also search for additional
+well-being resources <a
+href="https://wellbeing.studentlife.umich.edu/well-being-resources">here</a>.</p>
+
+ -->
+
+<!-- <li>Emails: csc411-2019-01@cs.toronto.edu (Administration only)</li> -->
+<!-- </ul>
+<hr />
+<h2 id="homeworks"><a name="homeworks">Homeworks</a></h2>
+
+<p>Homeworks will be due at 11:59PM EST of the date. Homework will be
+submitted electronically through Canvas as a pdf, along with any
+Jupyter notebook used to generate results appearing in the pdf. Any
+code submitted should run without errors. </p>
+
+<p>Homework due dates are strict, and you may turn in work late only
+with the use of ``late days'', of which you have seven to use over the
+course of the semester. For detailed homework policies, please see the
+syllabus for detailed policies.</p>
+
+<p>Only top 10 homework scores will be counted.
+ -->
+
+<!-- 
+<table style="width:100%;">
+<colgroup>
+<col width="20%" />
+<col width="8%" />
+<col width="8%" />
+<col width="25%" />
+<col width="36%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left">Out</th>
+<th align="left">Due</th>
+<th align="left">Materials</th> -->
+<!-- <th align="left">TA Office Hours</th> -->
+<!-- </tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><p>Homework 1</p></td>
+<td align="left"><p>08/29</p></td>
+<td align="left"><p>09/05</p></td>
+<td align="left"><p></p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw1/hw1.pdf">handout</a>]<br />
+[<a href="hw/hw1/data.zip">data</a>]</p></td> -->
+<!-- <td align="left"><p>01.22 11:00 - 12:00 BA 2283<br />
+01.23 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="even">
+<td align="left"><p>Homework 2</p></td>
+<td align="left"><p>09/05</p></td>
+<td align="left"><p>09/12</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw2/hw2.pdf">handout</a>]</p></td>
+<td align="left"><p>01.29 11:00 - 12:00 BA 2283<br />
+01.30 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="odd">
+<td align="left"><p>Homework 3</p></td>
+<td align="left"><p>02.01</p></td>
+<td align="left"><p>02.08</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw3/hw3.pdf">handout</a>]<br />
+[<a href="hw/hw3/q2.py">q2.py</a>]</p></td>
+<td align="left"><p>02.05 11:00 - 12:00 BA 2283<br />
+02.06 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="even">
+<td align="left"><p>Homework 4</p></td>
+<td align="left"><p>03.01</p></td>
+<td align="left"><p>03.08</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw4/hw4.pdf">handout</a>]<br />
+</p></td>
+<td align="left"><p>03.05 11:00 - 12:00 BA 2283<br />
+03.06 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="odd">
+<td align="left"><p>Homework 5</p></td>
+<td align="left"><p>03.10</p></td>
+<td align="left"><p>03.20</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw5/hw5.pdf">handout</a>]<br />
+[<a href="hw/hw5/q1.py">q1.py</a>]<br />
+[<a href="hw/hw5/data.py">data.py</a>]<br />
+[<a href="hw/hw5/data.zip">data</a>]</p></td>
+<td align="left"><p>03.19 11:00 - 12:00 BA 2283<br />
+03.20 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="even">
+<td align="left"><p>Homework 6</p></td>
+<td align="left"><p>03.19</p></td>
+<td align="left"><p>03.27</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw6/hw6.pdf">handout</a>]<br />
+[<a href="hw/hw6/hw6.zip">data</a>]</p></td>
+<td align="left"><p>03.26 11:00 - 12:00 BA 2283<br />
+03.27 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="odd">
+<td align="left"><p>Homework 7</p></td>
+<td align="left"><p>03.26</p></td>
+<td align="left"><p>04.03</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw7/hw7.pdf">handout</a>]</p></td>
+<td align="left"><p>04.02 11:00 - 12:00 BA 2283<br />
+04.03 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="odd">
+<td align="left"><p>Homework 8</p></td>
+<td align="left"><p>03.26</p></td>
+<td align="left"><p>04.03</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw7/hw7.pdf">handout</a>]</p></td>
+<td align="left"><p>04.02 11:00 - 12:00 BA 2283<br />
+04.03 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="odd">
+<td align="left"><p>Homework 9</p></td>
+<td align="left"><p>03.26</p></td>
+<td align="left"><p>04.03</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw7/hw7.pdf">handout</a>]</p></td>
+<td align="left"><p>04.02 11:00 - 12:00 BA 2283<br />
+04.03 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="odd">
+<td align="left"><p>Homework 10</p></td>
+<td align="left"><p>03.26</p></td>
+<td align="left"><p>04.03</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw7/hw7.pdf">handout</a>]</p></td>
+<td align="left"><p>04.02 11:00 - 12:00 BA 2283<br />
+04.03 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="odd">
+<td align="left"><p>Homework 11</p></td>
+<td align="left"><p>03.26</p></td>
+<td align="left"><p>04.03</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw7/hw7.pdf">handout</a>]</p></td>
+<td align="left"><p>04.02 11:00 - 12:00 BA 2283<br />
+04.03 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="odd">
+<td align="left"><p>Homework 12</p></td>
+<td align="left"><p>03.26</p></td>
+<td align="left"><p>04.03</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw7/hw7.pdf">handout</a>]</p></td>
+<td align="left"><p>04.02 11:00 - 12:00 BA 2283<br />
+04.03 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+<tr class="odd">
+<td align="left"><p>Homework 13</p></td>
+<td align="left"><p>03.26</p></td>
+<td align="left"><p>04.03</p></td> -->
+<!-- <td align="left"><p>[<a href="hw/hw7/hw7.pdf">handout</a>]</p></td>
+<td align="left"><p>04.02 11:00 - 12:00 BA 2283<br />
+04.03 18:00 - 19:00 BA 2283</p></td> -->
+<!-- </tr>
+</tbody>
+</table>
+ -->
+<!-- 
+<hr />
+ -->
+
+<!-- <h2 id="exams"><a name="exams">Exams</a></h2>
+<h3 id="midterm">Midterm</h3>
+<ul>
+<li>Past exam: Winter 2018 midterm [<a href="exams/midterm_18s.pdf">questions</a>] [<a href="exams/midterm_18s_soln.pdf">solution</a>]</li>
+<li>Exam: [<a href="exams/midterm.pdf">questions</a>] [<a href="exams/midterm_soln.pdf">solution</a>] [<a href="exams/remark_form.pdf">remark form</a>]</li>
+</ul>
+<h3 id="final">Final</h3>
+<ul>
+<li>University past exam library: [<a href="https://engineering.library.utoronto.ca/past-exams">link</a>]</li>
+<li>Practice questions: [<a href="exams/practice.pdf">questions</a>] [<a href="exams/practice_solns.pdf">solution</a>]</li>
+</ul> -->
+<!-- <h3 id="exam-schedule">Exam schedule</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left">Date</th>
+<th align="left">Time</th>
+<th align="left">Location</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Midterm office hour</td>
+<td align="left">02.13</td>
+<td align="left">18:00 - 19:00</td>
+<td align="left">BA 2283</td>
+</tr>
+<tr class="even">
+<td align="left">Midterm office hour</td>
+<td align="left">02.14</td>
+<td align="left">16:00 - 17:00</td>
+<td align="left">BA 3201</td>
+</tr>
+<tr class="odd">
+<td align="left">Midterm</td>
+<td align="left">02.15</td>
+<td align="left">18:00 - 19:00</td>
+<td align="left">EX 100</td>
+</tr>
+<tr class="even">
+<td align="left">Final office hour</td>
+<td align="left">04.23</td>
+<td align="left">11:00 - 12:00</td>
+<td align="left">BA 2283</td>
+</tr>
+<tr class="odd">
+<td align="left">Final office hour</td>
+<td align="left">04.24</td>
+<td align="left">18:00 - 19:00</td>
+<td align="left">BA 2283</td>
+</tr>
+<tr class="even">
+<td align="left">Final</td>
+<td align="left">04.25</td>
+<td align="left">09:00 - 12:00</td>
+<td align="left">BN 3</td>
+</tr>
+</tbody>
+</table>
+<hr /> -->
+
+
+<h2 id="lectures"><a name="lectures">Lecture Schedule</a></h2>
+
+<p>The Schedule is subject to change.</p>
+
+<p>By each date, please read about
+the topic at hand; please choose one reading from the list for the
+topic.</p>
+
+MRA = R for Marketing Research and Analytics by Chapman & Feit[<a href="https://link.springer.com/book/10.1007/978-3-030-14316-9">link</a>]</br>
+HMA = Handbook of Marketing Analytics by Mizik & Hanssens [<a href="https://www.e-elgar.com/shop/usd/handbook-of-marketing-analytics-9781784716745.html">link</a>]</br>
+PM = Predictive Marketing: Easy Ways Every Marketer Can Use Customer Analytics and Big Data by Artun & Levin  [<a href="https://www.wiley.com/en-us/Predictive+Marketing:+Easy+Ways+Every+Marketer+Can+Use+Customer+Analytics+and+Big+Data-p-9781119037361/">link</a>]</br>
+BDA = Bayesian Data Analysis by Gelman [<a href="http://www.stat.columbia.edu/~gelman/book/">link</a>]</br>
+</p>
+
+
+<table>
+<colgroup>
+<col width="15%" />
+<col width="15%" />
+<col width="40%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left">Date</th>
+<th align="left">Topic</th>
+<th align="left">Readings</th>
+<td align="left"><p></p></td>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><p>Lecture 1</p></td>
+<td align="left"><p>01/10</p></td>
+<td align="left"><p>TBD</p></td>
+<td align="left"><p>TBD</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 2</p></td>
+<td align="left"><p>01/17</p></td>
+<td align="left"><p>TBD</p></td>
+<td align="left"><p>TBD</p></td>
+<td align="left"><p></p></td>
+</tr>
+<!-- <tr class="odd">
+<td align="left"><p>Lecture 1</p></td>
+<td align="left"><p>08/30</p></td>
+<td align="left"><p>Introduction and the "Box's Loop"</p></td>
+<td align="left"><p>"Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models" <a href="http://www.cs.columbia.edu/~blei/fogm/2022F/readings/Blei2014.pdf">(Blei, 2014)</a></br>
+<a href="https://cs231n.github.io/python-numpy-tutorial/">Python Tutorial</a></p></td>
+<td align="left"><p></p></td>
+</tr> -->
+<!-- <tr class="even">
+<td align="left"><p>Lecture 2</p></td>
+<td align="left"><p>09/01</p></td>
+<td align="left"><p>Probability: A Review of Basic Concepts and Bayes’ Theorem</p></td>
+<td align="left"><p><a href="http://www.cs.columbia.edu/~blei/fogm/2016F/doc/probability_review.pdf">"Review of Probability" (Blei, 2016)</a></br>
+BDA, Chap. 1</br>
+SR, Sec. 2.1-2</p></td>
+<td align="left"><p></p></td>
+</tr> -->
+<!-- <tr class="odd">
+<td align="left"><p>Lecture 3</p></td>
+<td align="left"><p>09/06</p></td>
+<td align="left"><p>The Ingredients of Probabilistic Models I</p></td>
+<td align="left"><p>"The Basics of Graphical Models" <a href="http://www.cs.columbia.edu/~blei/fogm/2016F/doc/graphical-models.pdf">(Blei, 2016)</a></br>
+"Statistical Concepts" <a href="http://www.cs.columbia.edu/~blei/fogm/2016F/doc/models.pdf">(Blei, 2016)</a></br>
+BDA, Sec. 2.1-3</br>
+SR, Sec. 2.3-5 and Chap. 3</br>
+PRML, Sec. 1.2-3</br>
+"Model-based Machine Learning"  <a href="http://www.cs.columbia.edu/~blei/fogm/2022F/readings/Bishop2013.pdf">(Bishop, 2013)</a></p></td>
+<td align="left"><p></p></td> -->
+<!-- </tr>
+<tr class="even">
+<td align="left"><p>Lecture 4</p></td>
+<td align="left"><p>09/08</p></td>
+<td align="left"><p>The Ingredients of Probabilistic Models II</p></td>
+<td align="left"><p>
+''</br>
+</p></td>
+<td align="left"><p></p></td>
+</tr> -->
+<!-- <tr class="odd">
+<td align="left"><p>Lecture 5</p></td>
+<td align="left"><p>09/13</p></td>
+<td align="left"><p>The Exchangeable Data Model and Conjugate Priors I</p></td>
+<td align="left"><p>Sec. 4 of "The Exponential Family" <a href="http://www.cs.columbia.edu/~blei/fogm/2016F/doc/exponential_families.pdf">(Blei, 2016)</a></br>
+PML, Sec 3.1-5</br>
+BDA, Sec. 2.4-9</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 6</p></td>
+<td align="left"><p>09/15</p></td>
+<td align="left"><p>The Exchangeable Data Model and Conjugate Priors II</p></td>
+P<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p>Lecture 7</p></td>
+<td align="left"><p>09/20</p></td>
+<td align="left"><p>Evaluating Probabilistic Models I</p></td>
+<td align="left"><p>"Posterior Predictive Checks" <a href="https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/ppc.pdf">(Blei, 2011)</a></br>
+BDA, Sec. 6.1-5</br>
+PML, Sec. 3.9</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 8</p></td>
+<td align="left"><p>09/22</p></td>
+<td align="left"><p>Evaluating Probabilistic Models II</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p>Lecture 9</p></td>
+<td align="left"><p>09/27</p></td>
+<td align="left"><p>Going through the Box's Loop I</p></td>
+<td align="left"><p>BDA, Sec 6.2</a></br>
+</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 10</p></td>
+<td align="left"><p>09/29</p></td>
+<td align="left"><p>Going through the Box's Loop II</p></td>
+<td align="left"><p>''</a></br>
+</tr>
+<tr class="odd">
+<td align="left"><p>Lecture 11</p></td>
+<td align="left"><p>10/04</p></td>
+<td align="left"><p>Going through the Box's Loop III</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 12</p></td>
+<td align="left"><p>10/06</p></td>
+<td align="left"><p>Going through the Box's Loop IV</br>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p>Lecture 13</p></td>
+<td align="left"><p>10/11</p></td>
+<td align="left"><p>Conditional Models: Linear and Logistic Regression I</br>
+<td align="left"><p>Sec. 1-2 of "Linear regression, Logistic regression, and Generalized Linear Models"<a href="http://www.cs.columbia.edu/~blei/fogm/2014F/lectures/glms.pdf"> (Blei, 2014)</a></br>
+BDA, Chap. 14</br>
+PML, Sec. 15.1-2</br>
+SR, Chap. 4</br></p></td>
+</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 14</p></td>
+<td align="left"><p>10/13</p></td>
+<td align="left"><p>Conditional Models: Linear and Logistic Regression II</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p>Fall break</p></td>
+<td align="left"><p>10/18</p></td>
+<td align="left"><p>------------</p></td>
+<td align="left"><p>------------</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p>Lecture 15</p></td>
+<td align="left"><p>10/20</p></td>
+<td align="left"><p>Conditional Models: Linear and Logistic Regression III</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p>Lecture 16</p></td>
+<td align="left"><p>10/25</p></td>
+<td align="left"><p>Conditional Models: Linear and Logistic Regression IV</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 17</p></td>
+<td align="left"><p>10/27</p></td>
+<td align="left">Conditional Models: Linear and Logistic Regression V</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 18</p></td>
+<td align="left"><p>11/01</p></td>
+<td align="left"><p><p>Bayesian Mixture Models and an Introduction to Markov Chain Monte Carlo I</p></td>
+<td align="left"><p>"Bayesian Mixture Models and the Gibbs Sampler"<a href="http://www.cs.columbia.edu/~blei/fogm/2016F/doc/gibbs.pdf"> (Blei, 2016)</a></br>
+BDA, Chap. 22</br>
+PML, Sec. 12.1-3</br>
+SR, Chap. 9</br>
+PRML, Chap. 11</br>
+"Identifying Bayesian Mixture Models" <a href="https://mc-stan.org/users/documentation/case-studies/identifying_mixture_models.html">(Betancourt, 2018)</a></br></p></td>
+<td align="left"><p>
+</p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 19</p></td>
+<td align="left"><p>11/03</p></td>
+<td align="left"><p>Bayesian Mixture Models and an Introduction to Markov Chain Monte Carlo II</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 20</p></td>
+<td align="left"><p>11/08</p></td>
+<td align="left"><p>Bayesian Mixture Models and an Introduction to Markov Chain Monte Carlo III</p></td>
+<td align="left"><p>'' -->
+<!--     "Mixed-membership Models (and an Introduction to Variational Inference)" <a href="http://www.cs.columbia.edu/~blei/fogm/2016F/doc/mixed_membership.pdf">(Blei, 2016)</a></br>
+[Video Tutorial] Variational Inference: Foundations and Innovations (Blei, 2019) <a href="https://www.youtube.com/watch?v=DaqNNLidswA">(Part 1) </a> [<a href="http://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf">slides</a>]</br>
+PML, Sec. 28.5<br />
+PRML, Sec. 10.1-2</br>
+BDA, Sec. 13.7<br />
+"Probabilistic Topic Models" <a href="http://www.cs.columbia.edu/~blei/fogm/2020F/readings/Blei2012.pdf">(Blei, 2012)</a></br>
+"Variational Inference: A Review for Statisticians” <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1285773">(Blei et al, 2017)</a> -->
+<!-- </p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p>Lecture 21</p></td>
+<td align="left"><p>11/10</p></td>
+<td align="left"><p>Bayesian Mixture Models and an Introduction to Markov Chain Monte Carlo IV</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 22</p></td>
+<td align="left"><p>11/15</p></td>
+<td align="left"><p>Bayesian Mixture Models and an Introduction to Markov Chain Monte Carlo V</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p>Lecture 23</p></td>
+<td align="left"><p>11/17</p></td>
+<td align="left"><p>Bayesian Mixture Models and an Introduction to Markov Chain Monte Carlo VI</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 24</p></td>
+<td align="left"><p>11/22</p></td>
+<td align="left"><p>Bayesian Mixture Models and an Introduction to Markov Chain Monte Carlo VII</p></td>
+<td align="left"><p>'' -->
+<!--     "Matrix Factorization" <a href="http://www.cs.columbia.edu/~blei/fogm/2016F/doc/matrix_factorization.pdf"> (Blei, 2016)</a></br>
+PML, Sec. 28.3-4</br>
+PRML, Sec. 12.2-4</br>
+"Scalable Recommendation with Hierarchical Poisson Factorization" <a href="http://www.cs.columbia.edu/~blei/fogm/2022F/readings/GopalanHofmanBlei2015.pdf">(Gopalan et al., 2015)</a></br> -->
+<!-- </p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p>Thanksgiving break</p></td>
+<td align="left"><p>11/24</p></td>
+<td align="left"><p>------------</p></td>
+<td align="left"><p>------------</p></td>
+<td align="left"><p></p></td>
+</tr> -->
+<!-- <tr class="even">
+<td align="left"><p>Lecture 25</p></td>
+<td align="left"><p>11/29</p></td>
+<td align="left"><p>Mixed-Membership Models and an Introduction to Variational Inference I</p></td>
+<td align="left"><p>"Mixed-membership Models (and an Introduction to Variational Inference)" <a href="http://www.cs.columbia.edu/~blei/fogm/2016F/doc/mixed_membership.pdf">(Blei, 2016)</a></br>
+[Video Tutorial] Variational Inference: Foundations and Innovations (Blei, 2019) <a href="https://www.youtube.com/watch?v=DaqNNLidswA">(Part 1) </a> [<a href="http://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf">slides</a>]</br>
+PML, Sec. 28.5<br />
+PRML, Sec. 10.1-2</br>
+BDA, Sec. 13.7<br />
+"Probabilistic Topic Models" <a href="http://www.cs.columbia.edu/~blei/fogm/2020F/readings/Blei2012.pdf">(Blei, 2012)</a></br>
+"Variational Inference: A Review for Statisticians” <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1285773">(Blei et al, 2017)</a> -->
+<!-- Sec. 1-3 of "The Exponential Family" <a href="http://www.cs.columbia.edu/~blei/fogm/2016F/doc/exponential_families.pdf">(Blei, 2016)</a></br>
+Sec. 3 of "Linear regression, Logistic regression, and Generalized Linear Models"<a href="http://www.cs.columbia.edu/~blei/fogm/2014F/lectures/glms.pdf"> (Blei, 2014)</a></br>
+BDA, Chap. 16</br>
+PRML, Sec. 2.4</br>
+SR, Chap. 9-10</br>
+PML, Sec. 2.3, 3.4, 10.3.1</a> -->
+<!-- </p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 26</p></td>
+<td align="left"><p>12/01</p></td>
+<td align="left"><p>Mixed-Membership Models and an Introduction to Variational Inference II</p></td>
+<td align="left"><p>''</a></p></td>
+<td align="left"><p></p></td>
+</tr> -->
+<!-- <tr class="even"> -->
+<!-- <td align="left"><p>Lecture 25</p></td>
+<td align="left"><p>11/29</p></td>
+<td align="left"><p>Deep Generative Models and Black Box Variational Inference I</p></td>
+<td align="left"><p>"Variational Autoencoders"<a href="https://deepgenerativemodels.github.io/notes/vae/"> (Grover, 2018)</a></br>
+[Video Tutorial] "Variational Inference: Foundations and Innovations" (Blei, 2019) <a href="https://www.youtube.com/watch?v=Wd7R_YX4PcQ">(Part 2) </a> [<a href="http://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf">slides</a>]</br>
+"An Introduction to Variational Autoencoders" Chap. 1-2 <a href="https://arxiv.org/pdf/1906.02691.pdf">(Kingma and Welling, 2019)</a></br>
+PML, Sec. 10.3, 21.2</br>
+</p></td>
+<td align="left"><p></p></td>
+</tr>
+ -->
+<!-- <tr class="odd">
+<td align="left"><p>Lecture 27</p></td>
+<td align="left"><p>12/06</p></td>
+<td align="left"><p>Mixed-Membership Models and an Introduction to Variational Inference III</p></td>
+<td align="left"><p>''</p></td>
+<td align="left"><p></p></td>
+</tr>
+<tr class="even">
+<td align="left"><p>Lecture 28</p></td>
+<td align="left"><p>12/08</p></td>
+<td align="left"><p>Summary (and wiggle room)</p></td>
+<td align="left"><p>------------</p></td>
+<td align="left"><p></p></td>
+</tr> -->
+</tbody>
+</table>
+<hr />
+
+
+
+
+<!-- <h2 id="project"><a name="project">Final Project</a></h2>
+
+<p>The final project is an individual project. For requirements of the
+final project, please see the <a href="bayesian_project.pdf">final
+project guidelines</a>. The LaTeX template for the project report is
+<a href="template.zip">here</a>. </p> -->
+
+<!-- <h2 id="tutorials"><a name="tutorials">Tutorials</a></h2>
+<table>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left">Date</th>
+<th align="left">Topic</th>
+<th align="left">Materials</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Tutorial 1</td>
+<td align="left">01.10</td>
+<td align="left">Probability review</td>
+<td align="left">[<a href="tut/tut01.pdf">slides</a>]</td>
+</tr>
+<tr class="even">
+<td align="left">Tutorial 2</td>
+<td align="left">01.17</td>
+<td align="left">Linear algebra review</td>
+<td align="left">[<a href="tut/tut02.pdf">slides</a>] [<a href="https://nbviewer.jupyter.org/url/www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut02.ipynb">demo</a>] [<a href="https://nbviewer.jupyter.org/url/www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut02_worksheet.ipynb">exercise</a>]</td>
+</tr>
+<tr class="odd">
+<td align="left">Tutorial 3</td>
+<td align="left">01.24</td>
+<td align="left">Gradient descent</td>
+<td align="left">[<a href="tut/tut03.pdf">slides</a>] [<a href="https://nbviewer.jupyter.org/url/www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut03.ipynb">demo</a>] [<a href="https://nbviewer.jupyter.org/url/www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut03_worksheet.ipynb">exercise</a>]</td>
+</tr>
+<tr class="even">
+<td align="left">Tutorial 4</td>
+<td align="left">01.31</td>
+<td align="left">Linear algebra review</td>
+<td align="left">[<a href="tut/tut04.pdf">slides</a>] [<a href="https://nbviewer.jupyter.org/url/www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut04.ipynb">demo</a>] [<a href="https://nbviewer.jupyter.org/url/www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut04_worksheet.ipynb">exercise</a>]</td>
+</tr>
+<tr class="odd">
+<td align="left">Tutorial 5</td>
+<td align="left">02.07</td>
+<td align="left">Midterm review</td>
+<td align="left">[<a href="tut/tut05.pdf">slides</a>]</td>
+</tr>
+<tr class="even">
+<td align="left">Tutorial 6</td>
+<td align="left">02.28</td>
+<td align="left">MCMC</td>
+<td align="left">[<a href="tut/tut06.pdf">slides</a>]</td>
+</tr>
+<tr class="odd">
+<td align="left">Tutorial 7</td>
+<td align="left">03.14</td>
+<td align="left">Multivariate Gaussian</td>
+<td align="left">[<a href="tut/tut07.pptx">slides</a>]</td>
+</tr>
+<tr class="even">
+<td align="left">Tutorial 8</td>
+<td align="left">03.21</td>
+<td align="left">Bayesian optimization</td>
+<td align="left">[<a href="tut/tut08.pdf">slides</a>] [<a href="https://nbviewer.jupyter.org/url/www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut08_1.ipynb">notebook 1</a>] [<a href="https://nbviewer.jupyter.org/url/www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut08_2.ipynb">notebook 2</a>]</td>
+</tr>
+<tr class="odd">
+<td align="left">Tutorial 9</td>
+<td align="left">03.28</td>
+<td align="left">Reinforcement learning</td>
+<td align="left">[<a href="https://nbviewer.jupyter.org/url/www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut09.ipynb">notebook</a>]</td>
+</tr>
+<tr class="even">
+<td align="left">Tutorial 10</td>
+<td align="left">04.04</td>
+<td align="left">Final review</td>
+<td align="left">[<a href="tut/tut10.pdf">slides</a>]</td>
+</tr>
+</tbody>
+</table>
+<hr /> -->
+
+
+<!-- <h2 id="paper-readings"><a name="readings">Paper Readings</a></h2>
+<p>5% of your total mark is allocated to reading a set of classic machine learning papers. We hope these papers are both interesting and understandable given what you learn in this course. Please select 2 papers of your interest from the reading list below. You will need to hand in reading notes for the papers you select. The notes should include a summary of the paper's main contribution and your view of the paper's strengths and weaknesses. Submit the notes on MarkUs under file name <code>reading.pdf</code>. A completion mark of 5% will be given.</p>
+<ul>
+<li><p>Viola, Paul, and Michael Jones. &quot;Rapid object detection using a boosted cascade of simple features.&quot; Computer Vision and Pattern Recognition, 2001. [<a href="http://www.robots.ox.ac.uk/~cvrg/trinity2002/CVPR-2001.pdf">pdf</a>]</p></li>
+<li><p>Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. &quot;Imagenet classification with deep convolutional neural networks.&quot; Advances in neural information processing systems. 2012. [<a href="http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf">pdf</a>]</p></li>
+<li><p>Mnih, Andriy, and Ruslan R. Salakhutdinov. &quot;Probabilistic matrix factorization.&quot; Advances in neural information processing systems. 2008. [<a href="http://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf">pdf</a>]</p></li>
+<li><p>Olshausen, Bruno A., and David J. Field. &quot;Sparse coding with an overcomplete basis set: A strategy employed by V1?.&quot; Vision research 37.23 (1997): 3311-3325. [<a href="http://redwood.psych.cornell.edu/papers/olshausen_field_1997.pdf">pdf</a>]</p></li>
+<li><p>Mnih, Volodymyr, et al. &quot;Human-level control through deep reinforcement learning.&quot; Nature 518.7540 (2015): 529. [<a href="https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf">pdf</a>]</p></li>
+<li><p>Hardt, Moritz, Eric Price, and Nati Srebro. &quot;Equality of opportunity in supervised learning.&quot; Advances in neural information processing systems. 2016. [<a href="http://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning.pdf">pdf</a>]</p></li>
+<li><p>Tsochantaridis, Ioannis, et al. &quot;Large margin methods for structured and interdependent output variables.&quot; Journal of machine learning research 6.Sep (2005): 1453-1484. [<a href="http://www.jmlr.org/papers/volume6/tsochantaridis05a/tsochantaridis05a.pdf">pdf</a>]</p></li>
+<li><p>Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. &quot;Sequence to sequence learning with neural networks.&quot; Advances in neural information processing systems. 2014. [<a href="http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">pdf</a>]</p></li>
+<li><p>Ren, Shaoqing, et al. &quot;Faster r-cnn: Towards real-time object detection with region proposal networks.&quot; Advances in neural information processing systems. 2015. [<a href="http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf">pdf</a>]</p></li>
+<li><p>Coates, Adam, and Andrew Y. Ng. &quot;The importance of encoding versus training with sparse coding and vector quantization.&quot; Proceedings of the 28th international conference on machine learning. 2011. [<a href="http://www.robotics.stanford.edu/~ang/papers/icml11-EncodingVsTraining.pdf">pdf</a>]</p></li>
+<li><p>Kingma, Diederik P., and Max Welling. &quot;Auto-encoding variational bayes.&quot; Proceedings of the 2nd international conference on learning representations. 2014. [<a href="https://arxiv.org/pdf/1312.6114.pdf">pdf</a>]</p></li>
+<li><p>Bottou, Léon, and Olivier Bousquet. &quot;The tradeoffs of large scale learning.&quot; Advances in neural information processing systems. 2008. [<a href="http://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf">pdf</a>]</p></li>
+<li><p>Neal, Radford and Hinton, Geoffrey. “A view of the EM algorithm that justifies incremental, sparse, and other variants.” Learning in graphical models. 1999. [<a href="http://www.cs.toronto.edu/~hinton/absps/emk.pdf">pdf</a>]</p></li>
+<li><p>Tipping, Michael and Bishop, Christopher. “Probabilistic principal component analysis.” Journal of the royal statistical society. 1999. [<a href="http://www.robots.ox.ac.uk/~cvrg/hilary2006/ppca.pdf">pdf</a>]</p></li>
+</ul>
+<hr />
+<h2 id="resources"><a name="resources">Resources</a></h2>
+<h3 id="suggested-readings">Suggested Readings</h3>
+<ul>
+<li>ESL: The Elements of Statistical Learning, by Hastie, Tibshirani, and Friedman. [<a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">link</a>]</li>
+<li>MacKay: Information Theory, Inference, and Learning Algorithms, by David MacKay. [<a href="http://www.inference.org.uk/itila/book.html">link</a>]</li>
+<li>Barber: Bayesian Reasoning and Machine Learning, by David Barber. [<a href="http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf">link</a>]</li>
+<li>Bishop: Pattern Recognition and Machine Learning, by Chris Bishop. [<a href="https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book">link</a>]</li>
+<li>Sutton and Barto: Reinforcement Learning: An Introduction, by Sutton and Barto. [<a href="http://incompleteideas.net/book/the-book-2nd.html">link</a>]</li>
+</ul>
+ -->
+
+
+<h2 id="acknowledgements"><a name="acknowledgement">Acknowledgements</a></h2> 
+The course materials are adapted from the related courses offered by Jim Hoover and Yixin Wang.
+
+
+<div class="ribbon">
+
+</div>
+
+
+
+</section>
+
+<!-- </div> -->
+<!-- Sticky -->
+<!-- </div> -->
+<!-- .right-col-block -->
+<!-- </div> -->
+<div class="row" style="padding-bottom: 25%"> </div>
+<!-- .columns-block -->
+
+<!-- #main-wrapper -->
+
+<!-- jquery -->
+<script src="../../../js/jquery-2.1.4.min.js"></script>
+
+<!-- Bootstrap -->
+<script src="../../../js/bootstrap.min.js"></script>
+<script src="../../../js/theia-sticky-sidebar.js"></script>
+<script src="../../../js/scripts.js"></script>
+</body>
+</html>
