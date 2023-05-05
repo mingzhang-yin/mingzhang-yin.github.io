@@ -11,7 +11,7 @@ title: Home
 <div class="row">
   <p>
    
- <p> I am an assistant professor in the Marketing Department of the Warrington College of Business, <a href="https://www.ufl.edu"> the University of Florida</a>.  I’m also an Affiliate Assistant Professor in the <a href="https://stat.ufl.edu"> Department of Statistics</a>, affiliated with <a href="https://ai.ufl.edu"> Artificial Intelligence Academic Initiative</a>, and <a href="https://ic3.center.ufl.edu"> Intelligent Critical Care Center</a>.  </p> 
+ <p> I am an assistant professor in the Marketing Department of the Warrington College of Business, <a href="https://www.ufl.edu"> the University of Florida</a>.  I’m also an Affiliate Assistant Professor in the <a href="https://stat.ufl.edu"> Department of Statistics</a>. I am affiliated with <a href="https://ai.ufl.edu"> Artificial Intelligence Academic Initiative</a>, and <a href="https://ic3.center.ufl.edu"> Intelligent Critical Care Center</a>.  </p> 
  
 
  
