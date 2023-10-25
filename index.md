@@ -20,6 +20,12 @@ title: Home
  
 <p> My research focuses on the intersection of Bayesian statistics, machine learning, causal inference, and marketing research. The topics I am interested in include </p>
 
+<style>
+.no-underline a {
+    text-decoration: none;
+}
+</style>
+
   <ul>
    <li> <ins><a href="https://mingzhang-yin.github.io/pubs/pml.html">Probabilistic machine learning</a></ins>: deep generative model, meta-learning, conformal inference, topic model</li>
    <li> <ins><a href="https://mingzhang-yin.github.io/pubs/bayes.html">Bayesian inference and modeling</a></ins>: variational inference, uncertainty estimation, discrete latent variable models </li>
