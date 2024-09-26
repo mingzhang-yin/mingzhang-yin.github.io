@@ -17,7 +17,7 @@ SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rej
 Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation <br> <span style="font-size:14px"> Mingyuan Zhou, Huangjie Zheng, Zhendong Wang, **Mingzhang Yin**, Hai Huang  <br> International Conference on Machine Learning (ICML). [pdf](https://openreview.net/pdf?id=QhqQJqe0Wq), [code](https://github.com/mingyuanzhou/SiD)
 
 Adjusting Regression Models for Conditional Uncertainty Calibration
-<br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin**, James Mcinerney, Nathan Kallus <br> Machine Learning. [pdf]()
+<br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin**, James Mcinerney, Nathan Kallus <br> Machine Learning Journal (MLJ). [pdf]()
 
 Optimization-Based Causal Estimation from Heterogeneous Environments
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Journal of Machine Learning Research (JMLR). [pdf](https://www.jmlr.org/papers/volume25/21-1028/21-1028.pdf), [code](https://github.com/mingzhang-yin/CoCo)
