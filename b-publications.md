@@ -10,6 +10,19 @@ ___
 ### Publication 
 -->  
 
+SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection
+<br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin**, Maytal Saar-Tsechansky <br> Advances in Neural Information Processing Systems
+(NeurIPS). [pdf]()
+
+Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation <br> <span style="font-size:14px"> Mingyuan Zhou, Huangjie Zheng, Zhendong Wang, **Mingzhang Yin**, Hai Huang  <br> International Conference on Machine Learning (ICML). [pdf](https://openreview.net/pdf?id=QhqQJqe0Wq), [code](https://github.com/mingyuanzhou/SiD)
+
+Adjusting Regression Models for Conditional Uncertainty Calibration
+<br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin**, James Mcinerney, Nathan Kallus <br> Machine Learning. [pdf]()
+
+Optimization-Based Causal Estimation from Heterogeneous Environments
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Journal of Machine Learning Research (JMLR). [pdf](https://www.jmlr.org/papers/volume25/21-1028/21-1028.pdf), [code](https://github.com/mingzhang-yin/CoCo)
+
+
 Conformal Sensitivity Analysis for Individual Treatment Effects
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> Journal of the American Statistical Association (JASA). [pdf](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2102503), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis)
 
@@ -26,10 +39,6 @@ Generalized Synthetic Control Method with State-Space Model
 
 Partial Identification with Noisy Covariates: A Robust Optimization Approach 
 <br> <span style="font-size:14px">  Wenshuo Guo, **Mingzhang Yin**, Yixin Wang, Michael I. Jordan   <br> Causal Learning and Reasoning (CLeaR). [pdf](https://openreview.net/pdf?id=-NVBxy0TdU)
- 
- 
-Optimization-Based Causal Estimation from Heterogeneous Environments
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Under review. Short version accepted by ICML 2022 Workshop SCIS. [pdf](https://arxiv.org/pdf/2109.11990.pdf), [code](https://github.com/mingzhang-yin/CoCo)
  
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
