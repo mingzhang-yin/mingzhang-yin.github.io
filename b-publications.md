@@ -20,8 +20,7 @@ Adjusting Regression Models for Conditional Uncertainty Calibration
 <br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin**, James Mcinerney, Nathan Kallus <br> Machine Learning Journal (MLJ). [pdf]()
 
 Optimization-Based Causal Estimation from Heterogeneous Environments
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Journal of Machine Learning Research (JMLR). [pdf](https://www.jmlr.org/papers/volume25/21-1028/21-1028.pdf), [code](https://github.com/mingzhang-yin/CoCo)
-
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Journal of Machine Learning Research (JMLR). [pdf](https://www.jmlr.org/papers/volume25/21-1028/21-1028.pdf), [code](https://github.com/mingzhang-yin/CoCo), [slides](https://mingzhang-yin.github.io/assets/pdfs/coco_talk.pdf)
 
 Conformal Sensitivity Analysis for Individual Treatment Effects
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> Journal of the American Statistical Association (JASA). [pdf](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2102503), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis)
