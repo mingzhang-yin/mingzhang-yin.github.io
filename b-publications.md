@@ -73,7 +73,7 @@ International Conference on Machine Learning (ICML).  [pdf](https://arxiv.org/ab
  
 Discrete Action On-Policy Learning with Action-Value Critic
 <br> <span style="font-size:14px">  Yuguang Yue, Yunhao Tang, **Mingzhang Yin** and Mingyuan Zhou <br>
-International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf](https://arxiv.org/pdf/2002.03534.pdf)  
+International Conference on Artificial Intelligence and Statistics (AISTATS). [pdf](https://arxiv.org/pdf/2002.03534.pdf), [code](https://github.com/yuguangyue/CARSM)  
  
 ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks 
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
