@@ -33,12 +33,12 @@ Conformal Sensitivity Analysis for Individual Treatment Effects
 
 SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection
 <br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin**, Maytal Saar-Tsechansky <br> Advances in Neural Information Processing Systems
-(NeurIPS). [pdf]()
+(NeurIPS). [pdf](https://openreview.net/pdf?id=tDMTwto6jv)[code](https://github.com/ruijiang81/SEL-BALD)
 
 Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation <br> <span style="font-size:14px"> Mingyuan Zhou, Huangjie Zheng, Zhendong Wang, **Mingzhang Yin**, Hai Huang  <br> International Conference on Machine Learning (ICML). [pdf](https://openreview.net/pdf?id=QhqQJqe0Wq), [code](https://github.com/mingyuanzhou/SiD)
 
 Adjusting Regression Models for Conditional Uncertainty Calibration
-<br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin**, James Mcinerney, Nathan Kallus <br> Machine Learning Journal (MLJ). [pdf]()
+<br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin**, James Mcinerney, Nathan Kallus <br> Machine Learning Journal (MLJ). [pdf](https://trebuchet.public.springernature.app/get_content/210556b9-3abe-4708-bad8-9c7fb2e0cbbc?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241111&utm_content=10.1007/s10994-024-06627-7)[code](https://github.com/ruijiang81/adjusting_reg_model)
 
 
  
