@@ -53,7 +53,7 @@ Generalized Synthetic Control Method with State-Space Model
  <br> <span style="font-size:14px">   Junzhe Shao, <b>Mingzhang Yin</b>, Xiaoxuan Cai, Linda Valeri   <br> Accepted by Workshop on Causality for Real-world Impact, NeurIPS 2022.    [pdf](https://openreview.net/forum?id=OwyiIBIFCrn)
 
 Partial Identification with Noisy Covariates: A Robust Optimization Approach 
-<br> <span style="font-size:14px">  Wenshuo Guo, **Mingzhang Yin**, Yixin Wang, Michael I. Jordan   <br> Causal Learning and Reasoning (CLeaR). [pdf](https://openreview.net/pdf?id=-NVBxy0TdU)
+<br> <span style="font-size:14px">  Wenshuo Guo, **Mingzhang Yin**, Yixin Wang, Michael I. Jordan   <br> Causal Learning and Reasoning (CLeaR). [pdf](https://openreview.net/pdf?id=-NVBxy0TdU), [code](https://github.com/wenshuoguo/robust-causal-code-public)
  
  
 A Theoretical Case Study of Structured Variational Inference for Community Detection
@@ -86,7 +86,7 @@ Semi-Implicit Generative Model
  
 Pairwise Supervised Hashing with Bernoulli Variational Auto-Encoder and Self-Control Gradient Estimator
 <br> <span style="font-size:14px"> Siamak Zamani Dadaneh, Shahin Boluki, **Mingzhang Yin**, Mingyuan Zhou, Xiaoning Qian<br>
-The Conference on Uncertainty in Artificial Intelligence (UAI). [pdf](https://arxiv.org/pdf/2005.10477.pdf)
+The Conference on Uncertainty in Artificial Intelligence (UAI). [pdf](https://arxiv.org/pdf/2005.10477.pdf), [code](https://github.com/bernoullivae-hashing/Bernoulli-VAE-Hashing)
  
 
  
