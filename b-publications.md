@@ -67,7 +67,7 @@ Probabilistic Best Subset Selection via Gradient-Based Optimization
 
 ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
 <br> <span style="font-size:14px"> <b>Mingzhang Yin* </b>, Yuguang Yue*, Mingyuan Zhou   <br>
-International Conference on Machine Learning (ICML).  [pdf](https://arxiv.org/abs/1905.01413), <a href="https://mingzhang-yin.github.io/assets/pdfs/errata.pdf">errata </a>, <a href="">poster </a> </span>, [code](https://github.com/ARM-gradient/ARSM)
+International Conference on Machine Learning (ICML).  [pdf](https://arxiv.org/abs/1905.01413), [errata](https://mingzhang-yin.github.io/assets/pdfs/errata.pdf), [code](https://github.com/ARM-gradient/ARSM)
 
 
  
