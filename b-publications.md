@@ -13,7 +13,7 @@ ___
 **Selected Works**
 
 Optimization-Based Causal Estimation from Heterogeneous Environments
-<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Journal of Machine Learning Research (JMLR). [pdf](https://www.jmlr.org/papers/volume25/21-1028/21-1028.pdf), [code](https://github.com/mingzhang-yin/CoCo), [slides](https://mingzhang-yin.github.io/assets/pdfs/coco_talk.pdf)
+<br> <span style="font-size:14px">  **Mingzhang Yin**, Yixin Wang, David M. Blei  <br> Journal of Machine Learning Research (JMLR). [pdf](https://www.jmlr.org/papers/volume25/21-1028/21-1028.pdf), [code](https://github.com/mingzhang-yin/CoCo), [slides](https://mingzhang-yin.github.io/assets/pdfs/coco_talk.pdf), [SlidesLive](https://recorder-v3.slideslive.com/?share=96251&s=6c38cf3d-e9f4-4b2b-831b-76320f2a04e7)
 
 Meta-Learning without Memorization
  <br> <span style="font-size:14px"> **Mingzhang Yin**, George Tucker, Mingyuan Zhou, Sergey Levine, Chelsea Finn  <br>
