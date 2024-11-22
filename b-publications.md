@@ -35,6 +35,9 @@ SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rej
 <br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin**, Maytal Saar-Tsechansky <br> Advances in Neural Information Processing Systems
 (NeurIPS). [pdf](https://openreview.net/pdf?id=tDMTwto6jv), [code](https://github.com/ruijiang81/SEL-BALD)
 
+Probabilistic Machine Learning: New Frontiers for Modeling Consumers and their Choices <br> <span style="font-size:14px">  Ryan Dew, Nicolas Padilla, Lan E Luo, [...], **Mingzhang Yin** <br> International Journal of Research in Marketing (IJRM)
+[pdf](https://www.sciencedirect.com/science/article/pii/S0167811624000995?dgcid=coauthor)
+
 Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation <br> <span style="font-size:14px"> Mingyuan Zhou, Huangjie Zheng, Zhendong Wang, **Mingzhang Yin**, Hai Huang  <br> International Conference on Machine Learning (ICML). [pdf](https://openreview.net/pdf?id=QhqQJqe0Wq), [code](https://github.com/mingyuanzhou/SiD)
 
 Adjusting Regression Models for Conditional Uncertainty Calibration
