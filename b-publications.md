@@ -38,7 +38,7 @@ SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rej
 Probabilistic Machine Learning: New Frontiers for Modeling Consumers and their Choices <br> <span style="font-size:14px">  Ryan Dew, Nicolas Padilla, Lan E Luo, [...], **Mingzhang Yin** <br> International Journal of Research in Marketing (IJRM)
 [pdf](https://www.sciencedirect.com/science/article/pii/S0167811624000995?dgcid=coauthor), [code](https://rtdew1.github.io/code_appendix.html)
 
-SEL-BALD: Confounding-Robust Deferral Policy Learning
+Confounding-Robust Deferral Policy Learning
 <br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin** <br> AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
 Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation <br> <span style="font-size:14px"> Mingyuan Zhou, Huangjie Zheng, Zhendong Wang, **Mingzhang Yin**, Hai Huang  <br> International Conference on Machine Learning (ICML). [pdf](https://openreview.net/pdf?id=QhqQJqe0Wq), [code](https://github.com/mingyuanzhou/SiD)
