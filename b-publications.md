@@ -35,7 +35,7 @@ SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rej
 <br> <span style="font-size:14px">  Ruijiang Gao, **Mingzhang Yin**, Maytal Saar-Tsechansky <br> Advances in Neural Information Processing Systems
 (NeurIPS). [pdf](https://openreview.net/pdf?id=tDMTwto6jv), [code](https://github.com/ruijiang81/SEL-BALD)
 
-Probabilistic Machine Learning: New Frontiers for Modeling Consumers and their Choices <br> <span style="font-size:14px">  Ryan Dew, Nicolas Padilla, Lan E Luo, [...], **Mingzhang Yin** <br> International Journal of Research in Marketing (IJRM)
+Probabilistic Machine Learning: New Frontiers for Modeling Consumers and their Choices <br> <span style="font-size:14px">  Ryan Dew, Nicolas Padilla, Lan E Luo, **Mingzhang Yin**, et al.  <br> International Journal of Research in Marketing (IJRM)
 [pdf](https://www.sciencedirect.com/science/article/pii/S0167811624000995?dgcid=coauthor), [code](https://rtdew1.github.io/code_appendix.html)
 
 Confounding-Robust Deferral Policy Learning
