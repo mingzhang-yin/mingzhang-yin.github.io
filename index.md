@@ -15,10 +15,10 @@ title: Home
  
 
  
-<p>  Previously, I was a postdoctoral scholar at the Data Science Institute, Columbia University, mentored by <a href="http://www.cs.columbia.edu/~blei/">Prof. David M. Blei</a> and <a href="https://en.wikipedia.org/wiki/Simon_Tavaré">Prof. Simon Tavaré</a>. I received my Ph.D. in Statistics from the University of Texas at Austin, supervised by <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a>.  Before coming to UT, I spent four years as an undergraduate at the math department of  Fudan University, Shanghai. </p>
+<p>  Previously, I was a postdoctoral scholar at the Data Science Institute, Columbia University, working with <a href="http://www.cs.columbia.edu/~blei/">Prof. David M. Blei</a> and <a href="https://en.wikipedia.org/wiki/Simon_Tavaré">Prof. Simon Tavaré</a>. I received my Ph.D. in Statistics from the University of Texas at Austin, supervised by <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a>.  Before coming to UT, I spent four years as an undergraduate at the math department of  Fudan University, Shanghai. </p>
 
  
-<p> My research focuses on the intersection of Bayesian statistics, machine learning, causal inference, and marketing research. The topics I am interested in include </p>
+<p> My research focuses on the intersection of Bayesian statistics, machine learning, causal inference, and quantitative marketing. The topics I am interested in include </p>
 
 
 
