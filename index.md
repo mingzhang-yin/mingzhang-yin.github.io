@@ -25,8 +25,8 @@ title: Home
   <ul>
    <li> <a href="https://mingzhang-yin.github.io/pubs/pml.html">Probabilistic machine learning</a>: deep generative model, meta-learning, conformal prediction, factor model</li>
    <li> <a href="https://mingzhang-yin.github.io/pubs/bayes.html">Bayesian inference and modeling</a>: variational inference, uncertainty estimation, discrete latent variable models </li>
-   <li> <a href="https://mingzhang-yin.github.io/pubs/causal.html">Causal inference</a>: heterogeneous treatment effects, sensitivity analysis, quasi-experiments, fairness </li>
-   <li> <a href="https://mingzhang-yin.github.io/index.html">Quantitative marketing</a>: targeting, online advertising, unstructured data analysis </li>
+   <li> <a href="https://mingzhang-yin.github.io/pubs/causal.html">Causal inference</a>: heterogeneous treatment effects, sensitivity analysis, quasi-experiments, invariance </li>
+   <li> <a href="https://mingzhang-yin.github.io/pubs/mktg.html">Quantitative marketing</a>: digital marketing, personalization, preference measurement, social networks, advertising, unstructured data </li>
   </ul>
  
  
