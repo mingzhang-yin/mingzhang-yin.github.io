@@ -21,7 +21,9 @@ Co-Chair: Zhiyu Zhang (with Steve Shugan), Department of Marketing
 
 Co-Chair: Weiran Lin (with Steve Shugan), Department of Marketing
 
-Committee Member: Qiaoyang Liu, Yiheng An, Department of Marketing
+Committee Member: Joann Liu, Department of Marketing
+
+Committee Member: Yiheng An, Department of Marketing
 
 Committee Member: Zhaoyan Song, Department of Statistics
 
