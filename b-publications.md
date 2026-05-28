@@ -11,6 +11,7 @@ ___
 -->
 
 **Selected Works**
+
 Conformal Sensitivity Analysis for Individual Treatment Effects
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> Journal of the American Statistical Association (JASA). [pdf](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2102503), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis), [slides](https://mingzhang-yin.github.io/assets/pdfs/Sensitivity-ITE-slides.pdf)
 
