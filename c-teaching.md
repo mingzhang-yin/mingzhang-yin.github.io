@@ -27,4 +27,4 @@ Yiheng An (Ph.D., UF Marketing), committee member
 
 Zhaoyan Song (Ph.D., UF Statistics), committee member
 
-Yang Zhao (Undergraduate, Tsinghua University), Research Intern
+Yang Zhao (Undergraduate, Tsinghua University), research mentoring
