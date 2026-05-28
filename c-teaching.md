@@ -6,6 +6,6 @@ active: projects
 
 &nbsp;
 
-[Marketing Analytics (R)](courses/analytics/spring23r/analytics23s-r.html) (Spring 2023)
+[Machine Learning in Business](assets/pdfs/bml_syllabus.pdf) (Ph.D. level), Spring 2026
 
-[Marketing Analytics (Python)](courses/analytics/spring23python/analytics23s-py.html) (Spring 2023)
+[Marketing Analytics II](courses/analytics/spring23python/analytics23s-py.html) (Master's level), Spring 2023 - 2026

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: "Publication <a href='https://scholar.google.com/citations?user=oAEsILEAAAAJ&hl=en' target='_blank'><img src='https://img.icons8.com/color/48/google-scholar--v3.png' alt='Google Scholar' width='28' height='28' style='margin-left:8px; vertical-align:middle;'/></a>"
 ---
 [//]: #  <span style="font-size:16px"> <a href="https://mingzhang-yin.github.io/assets/pdfs/reference.bib">Bibtex</a> </span>
 
@@ -9,6 +9,8 @@ ___
 <!--
 ### Publication
 -->
+
+**Selected Works**
 
 
 
@@ -34,6 +36,8 @@ International Conference on Machine Learning (ICML), **Long talk,  Top 2.8%**.  
  </span>
 
 
+
+**Other Publications** 
 
 
 
