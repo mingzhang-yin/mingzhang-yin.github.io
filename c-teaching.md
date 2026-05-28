@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Teaching Courses
+title: Teaching
+page_title: Teaching Courses
 active: projects
 ---
 
