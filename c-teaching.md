@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Teaching & Students
 page_title: Teaching Courses
 active: projects
 ---
@@ -17,14 +17,14 @@ active: projects
 
 &nbsp;
 
-Co-Chair: Zhiyu Zhang (with Steve Shugan), Department of Marketing
+Zhiyu Zhang (Ph.D., UF Marketing), co-chaired with Steve Shugan
 
-Co-Chair: Weiran Lin (with Steve Shugan), Department of Marketing
+Weiran Lin (Ph.D., UF Marketing), co-chaired with Steve Shugan
 
-Committee Member: Joann Liu, Department of Marketing
+Joann Liu (Ph.D., UF Marketing), committee member
 
-Committee Member: Yiheng An, Department of Marketing
+Yiheng An (Ph.D., UF Marketing), committee member
 
-Committee Member: Zhaoyan Song, Department of Statistics
+Zhaoyan Song (Ph.D., UF Statistics), committee member
 
-Undergraduate Mentoring: Yang Zhao, Tsinghua University
+Yang Zhao (Undergraduate, Tsinghua University), Research Intern
