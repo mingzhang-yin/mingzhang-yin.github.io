@@ -10,7 +10,7 @@ ___
 ### Publication
 -->
 
-**Selected Works**
+
 
 Conformal Sensitivity Analysis for Individual Treatment Effects
 <br> <span style="font-size:14px">  **Mingzhang Yin**, Claudia Shi, Yixin Wang, David M. Blei  <br> Journal of the American Statistical Association (JASA). [pdf](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2102503), [code](https://github.com/mingzhang-yin/Conformal-sensitivity-analysis), [slides](https://mingzhang-yin.github.io/assets/pdfs/Sensitivity-ITE-slides.pdf)
@@ -35,8 +35,6 @@ International Conference on Machine Learning (ICML), **Long talk,  Top 2.8%**.  
 
 
 
-
-**Other Publications**
 
 
 Permutative Preference Alignment from Listwise Ranking of Human Judgments
@@ -93,6 +91,12 @@ ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks
 International Conference on Learning Representations (ICLR), **Top 10%**.  [pdf](https://openreview.net/pdf?id=S1lg0jAcYm), <a href="https://github.com/mingzhang-yin/ARM-gradient" target="_blank">code </a> and <a href="https://mingzhang-yin.github.io/assets/pdfs/ARM_slides_binary.pdf" target="_blank">slides </a>
  </span>
 
+
+
+Convergence of Gradient EM on Multi-component Mixture of Gaussians
+ <br> <span style="font-size:14px"> Bowei Yan, **Mingzhang Yin**, and Purnamrita Sarkar  <br>
+Advances in Neural Information Processing Systems (NeurIPS).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians), <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">code </a> and <a href="https://mingzhang-yin.github.io/assets/pdfs/2017nips_poster.pdf">poster </a>  </span>
+
 Semi-Implicit Generative Model
 <br> <span style="font-size:14px"> **Mingzhang Yin**, Mingyuan Zhou  <br>
  Workshop on Bayesian Deep Learning, (NeurIPS BDL). [pdf](http://bayesiandeeplearning.org/2018/papers/84.pdf) and <a href="https://mingzhang-yin.github.io/assets/pdfs/sigmo_poster.pdf">poster </a> </span>
@@ -100,12 +104,6 @@ Semi-Implicit Generative Model
 Pairwise Supervised Hashing with Bernoulli Variational Auto-Encoder and Self-Control Gradient Estimator
 <br> <span style="font-size:14px"> Siamak Zamani Dadaneh, Shahin Boluki, **Mingzhang Yin**, Mingyuan Zhou, Xiaoning Qian<br>
 The Conference on Uncertainty in Artificial Intelligence (UAI). [pdf](https://arxiv.org/pdf/2005.10477.pdf), [code](https://github.com/bernoullivae-hashing/Bernoulli-VAE-Hashing)
-
-
-
-Convergence of Gradient EM on Multi-component Mixture of Gaussians
- <br> <span style="font-size:14px"> Bowei Yan, **Mingzhang Yin**, and Purnamrita Sarkar  <br>
-Advances in Neural Information Processing Systems (NeurIPS).  [pdf](https://papers.nips.cc/paper/7271-convergence-of-gradient-em-on-multi-component-mixture-of-gaussians), <a href="https://github.com/mingzhang-yin/Convergence-of-Gradient-EM-on-Multi-component-Mixture-of-Gaussians">code </a> and <a href="https://mingzhang-yin.github.io/assets/pdfs/2017nips_poster.pdf">poster </a>  </span>
 
 
 Words That Matter: Analyzing the Causal Effect of Words
