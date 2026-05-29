@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching & Students
-page_title: Teaching Courses
+page_title: Instructor
 active: projects
 ---
 
